@@ -1,11 +1,11 @@
 {
   "total": 4523,
-  "completed": 305,
-  "success": 305,
-  "failed": 0,
+  "completed": 510,
+  "success": 388,
+  "failed": 122,
   "skipped": 0,
-  "percent": 6.7,
-  "rate_per_sec": 0.07,
-  "est_remaining_min": 970.5,
+  "percent": 11.3,
+  "rate_per_sec": 0.09,
+  "est_remaining_min": 732.3,
   "output_dir": "CFI"
 }

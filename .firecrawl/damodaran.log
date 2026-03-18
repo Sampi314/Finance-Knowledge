@@ -1,0 +1,129 @@
+[damodaran] Discovering URLs from https://pages.stern.nyu.edu/~adamodar/...
+[damodaran] Map found 0 URLs
+  Seed https://pages.stern.nyu.edu/~adamodar/: 0 links
+  Seed https://pages.stern.nyu.edu/~adamodar/New_Home_Page/home.htm: 44 links
+  Seed https://pages.stern.nyu.edu/~adamodar/New_Home_Page/spreadsh.htm: 109 links
+  Seed https://pages.stern.nyu.edu/~adamodar/New_Home_Page/valuation/val.htm: 170 links
+  Seed https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datacurrent.html: 335 links
+  Seed https://pages.stern.nyu.edu/~adamodar/New_Home_Page/lectures.htm: 0 links
+  Seed https://pages.stern.nyu.edu/~adamodar/New_Home_Page/corpfin.htm: 0 links
+  Seed https://pages.stern.nyu.edu/~adamodar/New_Home_Page/invfables.htm: 140 links
+  Seed https://pages.stern.nyu.edu/~adamodar/New_Home_Page/equity.htm: 0 links
+  Seed https://pages.stern.nyu.edu/~adamodar/New_Home_Page/littlebook.htm: 89 links
+  Seed https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcasteqspr.htm: 0 links
+  Seed https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastcfspr.htm: 0 links
+  Seed https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastvalspr.htm: 0 links
+[damodaran] Seed pages found 827 links
+[damodaran] 550 URLs to scrape
+  [damodaran] 5/550 (0.9%) OK:5 FAIL:0
+  [damodaran] 10/550 (1.8%) OK:10 FAIL:0
+  [damodaran] 15/550 (2.7%) OK:15 FAIL:0
+  [damodaran] 20/550 (3.6%) OK:20 FAIL:0
+  [damodaran] 25/550 (4.5%) OK:25 FAIL:0
+  [damodaran] 30/550 (5.5%) OK:30 FAIL:0
+  [damodaran] 35/550 (6.4%) OK:35 FAIL:0
+  [damodaran] 40/550 (7.3%) OK:40 FAIL:0
+  [damodaran] 45/550 (8.2%) OK:45 FAIL:0
+  [damodaran] 50/550 (9.1%) OK:50 FAIL:0
+  [damodaran] 55/550 (10.0%) OK:55 FAIL:0
+  [damodaran] 60/550 (10.9%) OK:59 FAIL:1
+  [damodaran] 65/550 (11.8%) OK:64 FAIL:1
+  [damodaran] 70/550 (12.7%) OK:69 FAIL:1
+  [damodaran] 75/550 (13.6%) OK:74 FAIL:1
+  [damodaran] 80/550 (14.5%) OK:79 FAIL:1
+  [damodaran] 85/550 (15.5%) OK:84 FAIL:1
+  [damodaran] 90/550 (16.4%) OK:89 FAIL:1
+  [damodaran] 95/550 (17.3%) OK:94 FAIL:1
+  [damodaran] 100/550 (18.2%) OK:99 FAIL:1
+  [damodaran] 105/550 (19.1%) OK:104 FAIL:1
+  [damodaran] 110/550 (20.0%) OK:109 FAIL:1
+  [damodaran] 115/550 (20.9%) OK:114 FAIL:1
+  [damodaran] 120/550 (21.8%) OK:119 FAIL:1
+  [damodaran] 125/550 (22.7%) OK:124 FAIL:1
+  [damodaran] 130/550 (23.6%) OK:129 FAIL:1
+  [damodaran] 135/550 (24.5%) OK:134 FAIL:1
+  [damodaran] 140/550 (25.5%) OK:139 FAIL:1
+  [damodaran] 145/550 (26.4%) OK:144 FAIL:1
+  [damodaran] 150/550 (27.3%) OK:149 FAIL:1
+  [damodaran] 155/550 (28.2%) OK:154 FAIL:1
+  [damodaran] 160/550 (29.1%) OK:159 FAIL:1
+  [damodaran] 165/550 (30.0%) OK:164 FAIL:1
+  [damodaran] 170/550 (30.9%) OK:169 FAIL:1
+  [damodaran] 175/550 (31.8%) OK:174 FAIL:1
+  [damodaran] 180/550 (32.7%) OK:179 FAIL:1
+  [damodaran] 185/550 (33.6%) OK:184 FAIL:1
+  [damodaran] 190/550 (34.5%) OK:189 FAIL:1
+  [damodaran] 195/550 (35.5%) OK:194 FAIL:1
+  [damodaran] 200/550 (36.4%) OK:199 FAIL:1
+  [damodaran] 205/550 (37.3%) OK:204 FAIL:1
+  [damodaran] 210/550 (38.2%) OK:209 FAIL:1
+  [damodaran] 215/550 (39.1%) OK:214 FAIL:1
+  [damodaran] 220/550 (40.0%) OK:219 FAIL:1
+  [damodaran] 225/550 (40.9%) OK:224 FAIL:1
+  [damodaran] 230/550 (41.8%) OK:229 FAIL:1
+  [damodaran] 235/550 (42.7%) OK:234 FAIL:1
+  [damodaran] 240/550 (43.6%) OK:238 FAIL:2
+  [damodaran] 245/550 (44.5%) OK:243 FAIL:2
+  [damodaran] 250/550 (45.5%) OK:248 FAIL:2
+  [damodaran] 255/550 (46.4%) OK:253 FAIL:2
+  [damodaran] 260/550 (47.3%) OK:258 FAIL:2
+  [damodaran] 265/550 (48.2%) OK:263 FAIL:2
+  [damodaran] 270/550 (49.1%) OK:268 FAIL:2
+  [damodaran] 275/550 (50.0%) OK:273 FAIL:2
+  [damodaran] 280/550 (50.9%) OK:278 FAIL:2
+  [damodaran] 285/550 (51.8%) OK:283 FAIL:2
+  [damodaran] 290/550 (52.7%) OK:288 FAIL:2
+  [damodaran] 295/550 (53.6%) OK:293 FAIL:2
+  [damodaran] 300/550 (54.5%) OK:298 FAIL:2
+  [damodaran] 305/550 (55.5%) OK:303 FAIL:2
+  [damodaran] 310/550 (56.4%) OK:308 FAIL:2
+  [damodaran] 315/550 (57.3%) OK:313 FAIL:2
+  [damodaran] 320/550 (58.2%) OK:318 FAIL:2
+  [damodaran] 325/550 (59.1%) OK:323 FAIL:2
+  [damodaran] 330/550 (60.0%) OK:328 FAIL:2
+  [damodaran] 335/550 (60.9%) OK:333 FAIL:2
+  [damodaran] 340/550 (61.8%) OK:338 FAIL:2
+  [damodaran] 345/550 (62.7%) OK:343 FAIL:2
+  [damodaran] 350/550 (63.6%) OK:348 FAIL:2
+  [damodaran] 355/550 (64.5%) OK:353 FAIL:2
+  [damodaran] 360/550 (65.5%) OK:358 FAIL:2
+  [damodaran] 365/550 (66.4%) OK:363 FAIL:2
+  [damodaran] 370/550 (67.3%) OK:368 FAIL:2
+  [damodaran] 375/550 (68.2%) OK:373 FAIL:2
+  [damodaran] 380/550 (69.1%) OK:378 FAIL:2
+  [damodaran] 385/550 (70.0%) OK:383 FAIL:2
+  [damodaran] 390/550 (70.9%) OK:388 FAIL:2
+  [damodaran] 395/550 (71.8%) OK:393 FAIL:2
+  [damodaran] 400/550 (72.7%) OK:398 FAIL:2
+  [damodaran] 405/550 (73.6%) OK:403 FAIL:2
+  [damodaran] 410/550 (74.5%) OK:408 FAIL:2
+  [damodaran] 415/550 (75.5%) OK:413 FAIL:2
+  [damodaran] 420/550 (76.4%) OK:418 FAIL:2
+  [damodaran] 425/550 (77.3%) OK:423 FAIL:2
+  [damodaran] 430/550 (78.2%) OK:428 FAIL:2
+  [damodaran] 435/550 (79.1%) OK:433 FAIL:2
+  [damodaran] 440/550 (80.0%) OK:438 FAIL:2
+  [damodaran] 445/550 (80.9%) OK:443 FAIL:2
+  [damodaran] 450/550 (81.8%) OK:448 FAIL:2
+  [damodaran] 455/550 (82.7%) OK:453 FAIL:2
+  [damodaran] 460/550 (83.6%) OK:458 FAIL:2
+  [damodaran] 465/550 (84.5%) OK:463 FAIL:2
+  [damodaran] 470/550 (85.5%) OK:468 FAIL:2
+  [damodaran] 475/550 (86.4%) OK:473 FAIL:2
+  [damodaran] 480/550 (87.3%) OK:478 FAIL:2
+  [damodaran] 485/550 (88.2%) OK:483 FAIL:2
+  [damodaran] 490/550 (89.1%) OK:488 FAIL:2
+  [damodaran] 495/550 (90.0%) OK:493 FAIL:2
+  [damodaran] 500/550 (90.9%) OK:495 FAIL:5
+  [damodaran] 505/550 (91.8%) OK:495 FAIL:10
+  [damodaran] 510/550 (92.7%) OK:495 FAIL:15
+  [damodaran] 515/550 (93.6%) OK:495 FAIL:20
+  [damodaran] 520/550 (94.5%) OK:495 FAIL:25
+  [damodaran] 525/550 (95.5%) OK:495 FAIL:30
+  [damodaran] 530/550 (96.4%) OK:495 FAIL:35
+  [damodaran] 535/550 (97.3%) OK:495 FAIL:40
+  [damodaran] 540/550 (98.2%) OK:495 FAIL:45
+  [damodaran] 545/550 (99.1%) OK:495 FAIL:50
+  [damodaran] 550/550 (100.0%) OK:495 FAIL:55
+
+[damodaran] DONE: 495 saved, 55 failed, 0 skipped out of 550

@@ -1,11 +1,11 @@
 {
   "total": 1138,
-  "completed": 310,
-  "success": 307,
-  "failed": 3,
+  "completed": 525,
+  "success": 400,
+  "failed": 125,
   "skipped": 0,
-  "percent": 27.2,
-  "rate_per_sec": 0.08,
-  "est_remaining_min": 184.0,
+  "percent": 46.1,
+  "rate_per_sec": 0.09,
+  "est_remaining_min": 108.8,
   "output_dir": "Wall Street Prep"
 }

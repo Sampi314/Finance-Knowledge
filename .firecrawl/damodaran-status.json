@@ -1,11 +1,12 @@
 {
+  "status": "done",
   "total": 550,
-  "completed": 345,
-  "success": 343,
-  "failed": 2,
+  "completed": 550,
+  "success": 495,
+  "failed": 55,
   "skipped": 0,
-  "percent": 62.7,
-  "rate_per_sec": 0.09,
-  "est_remaining_min": 37.3,
+  "percent": 100,
+  "rate_per_sec": 0,
+  "est_remaining_min": 0,
   "output_dir": "Damodaran"
 }
