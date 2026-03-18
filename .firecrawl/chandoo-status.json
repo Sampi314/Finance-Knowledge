@@ -1,12 +1,12 @@
 {
   "total": 4091,
-  "completed": 2280,
-  "success": 2268,
+  "completed": 2290,
+  "success": 2278,
   "failed": 12,
   "skipped": 0,
-  "percent": 55.7,
+  "percent": 56.0,
   "rate_per_sec": 0.08,
-  "est_remaining_min": 380.3,
+  "est_remaining_min": 378.0,
   "output_dir": "Chandoo",
   "key": "chandoo",
   "name": "Chandoo"
