@@ -1,0 +1,14 @@
+{
+  "status": "done",
+  "total": 720,
+  "completed": 720,
+  "success": 720,
+  "failed": 0,
+  "skipped": 0,
+  "percent": 100,
+  "rate_per_sec": 0,
+  "est_remaining_min": 0,
+  "output_dir": "Trump Excel",
+  "key": "trumpexcel",
+  "name": "Trump Excel"
+}

@@ -1,0 +1,96 @@
+# Chandoo.org Podcast » Chandoo.org - Learn Excel, Power BI & Charting Online
+
+**Source:** https://chandoo.org/wp/podcast-sessions
+
+---
+
+Chandoo.org Podcast
+===================
+
+_Become Awesome in Data Analysis, Charting, Dashboards & VBA using Excel_
+
+**An exciting way to learn Excel on the go**
+
+![Chandoo.org Podcast - Become Awesome in Data Analysis, Charting, Dashboards & VBA using Excel](https://chandoo.org/wp/wp-content/uploads/2014/03/art-work-medium.png)
+
+Welcome to Chandoo.org podcast, a new initiative to make you awesome in data analysis, charting, dashboards & VBA.
+
+To subscribe to the show, please use below links:
+
+|     |     |     |
+| --- | --- | --- |
+| [![iTunes](https://cache.chandoo.org/images/podcast/podcast-sub-itunes.jpg)](https://itunes.apple.com/in/podcast/chandoo.org-podcast-become/id835954043?mt=2 "Subscribe via iTunes")<br>  <br>iTunes | [![Stitcher](https://cache.chandoo.org/images/podcast/podcast-sub-stitcher.png)](http://www.stitcher.com/podcast/chandoo-microsoft-excel-mvp-training-data-analysis-specialist/chandooorg-podcast-become-awesome-in-data-analysis-charting "Subscribe via Sticther")<br>  <br>Stitcher | [![RSS Feed](https://cache.chandoo.org/images/podcast/podcast-sub-rss.jpg)](http://chandoo.org/wp/category/podcast/feed/ "Subscribe via RSS")<br>  <br>RSS |
+
+If you like our podcast, please leave an honest review on iTunes by [**clicking here**](https://itunes.apple.com/in/podcast/chandoo.org-podcast-become/id835954043)
+. It will help us reach out to more people and make them awesome in Excel, just like you.
+
+### Chandoo.org Podcast Episodes:
+
+|     |     |     |
+| --- | --- | --- |Chandoo.org Podcast Archive
+| Title | Play | Released |
+| --- | --- | --- |
+| [CP05: Interview with MrExcel – Bill Jelen (on his incredible work ethic)](https://chandoo.org/wp/cp05-interview-with-mrexcel-bill-jelen-on-his-incredible-work-ethic/ "CP05: Interview with MrExcel – Bill Jelen (on his incredible work ethic)") | [Play this](https://traffic.libsyn.com/chandoo/CP105.mp3) | December 7th, 2023 |
+| [SQL vs. Power Query – The Ultimate Comparison](https://chandoo.org/wp/sql-vs-power-query/ "SQL vs. Power Query – The Ultimate Comparison") | [Play this](https://traffic.libsyn.com/chandoo/CP104.mp3) | October 13th, 2023 |
+| [CP03: The Ugly Truth About Power BI (actually, 4 of them)](https://chandoo.org/wp/cp03-the-ugly-truth-about-power-bi/ "CP03: The Ugly Truth About Power BI (actually, 4 of them)") | [Play this](https://traffic.libsyn.com/chandoo/CP103.mp3) | August 24th, 2023 |
+| [CP02: Six Tips to get a Six Figure ($100,000+) Data Job](https://chandoo.org/wp/cp02-six-tips-to-get-a-six-figure-100000-data-job/ "CP02: Six Tips to get a Six Figure ($100,000+) Data Job") | [Play this](https://traffic.libsyn.com/chandoo/CP102.mp3) | July 27th, 2023 |
+| [Top 5 Excel Skills you need to be a Successful Data Analyst in 2023 (podcast)](https://chandoo.org/wp/top-5-excel-skills-you-need-to-be-a-successful-data-analyst-in-2023-podcast/ "Top 5 Excel Skills you need to be a Successful Data Analyst in 2023 (podcast)") | [Play this](http://traffic.libsyn.com/chandoo/CP101.mp3) | July 13th, 2023 |
+| [CP056: So which formulas you should care to learn?](https://chandoo.org/wp/which-formulas-to-learn/ "CP056: So which formulas you should care to learn?") | [Play this](http://traffic.libsyn.com/chandoo/CP056.mp3) | October 27th, 2016 |
+| [CP055: “Yes, I am back” edition (and a bonus Excel tip)](https://chandoo.org/wp/cp055-yes-i-am-back/ "CP055: “Yes, I am back” edition (and a bonus Excel tip)") | [Play this](http://traffic.libsyn.com/chandoo/CP055.mp3) | October 13th, 2016 |
+| [CP054: Top 10 Pivot Table Tricks for YOU](https://chandoo.org/wp/cp054-top-10-pivot-table-tricks-for-you/ "CP054: Top 10 Pivot Table Tricks for YOU") | [Play this](http://traffic.libsyn.com/chandoo/CP054.mp3) | March 31st, 2016 |
+| [CP053: Excel Data Validation for Dummies](https://chandoo.org/wp/cp053-excel-data-validation-for-dummies/ "CP053: Excel Data Validation for Dummies") | [Play this](http://traffic.libsyn.com/chandoo/CP053.mp3) | March 10th, 2016 |
+| [CP052: Book Review – M is for Data Monkey by Ken & Miguel](https://chandoo.org/wp/m-is-for-data-monkey-book-review/ "CP052: Book Review – M is for Data Monkey by Ken & Miguel") | [Play this](http://traffic.libsyn.com/chandoo/CP052.mp3) | February 11th, 2016 |
+| [CP051: VLOOKUP FAQs – Most frequently asked questions about VLOOKUP – Answered](https://chandoo.org/wp/vlookup-faqs/ "CP051: VLOOKUP FAQs – Most frequently asked questions about VLOOKUP – Answered") | [Play this](http://traffic.libsyn.com/chandoo/CP051.mp3) | January 7th, 2016 |
+| [CP050: Fifty Excel Tips to make you awesome](https://chandoo.org/wp/cp050-fifty-excel-tips/ "CP050: Fifty Excel Tips to make you awesome") | [Play this](http://traffic.libsyn.com/chandoo/CP050.mp3) | December 3rd, 2015 |
+| [CP049: Don’t do data dumps!!!](https://chandoo.org/wp/cp049-dont-do-data-dumps/ "CP049: Don’t do data dumps!!!") | [Play this](http://traffic.libsyn.com/chandoo/CP049.mp3) | November 19th, 2015 |
+| [CP048: How to create animated charts in Excel?](https://chandoo.org/wp/how-to-create-animated-charts-in-excel/ "CP048: How to create animated charts in Excel?") | [Play this](http://traffic.libsyn.com/chandoo/CP048.mp3) | November 12th, 2015 |
+| [CP047: Best Excel tools for Entrepreneurs](https://chandoo.org/wp/cp047-excel-for-entrepreneurs/ "CP047: Best Excel tools for Entrepreneurs") | [Play this](http://traffic.libsyn.com/chandoo/CP047.mp3) | October 22nd, 2015 |
+| [CP046: Gantt charts & project planning using Excel](https://chandoo.org/wp/cp046-gantt-charts-project-planning-using-excel/ "CP046: Gantt charts & project planning using Excel") | [Play this](http://traffic.libsyn.com/chandoo/CP046.mp3) | October 8th, 2015 |
+| [CP045: Introduction to Monte Carlo Simulations in Excel](https://chandoo.org/wp/introduction-to-monte-carlo-simulations/ "CP045: Introduction to Monte Carlo Simulations in Excel") | [Play this](http://traffic.libsyn.com/chandoo/CP045.mp3) | September 24th, 2015 |
+| [CP044: My first dashboard was a failure!!!](https://chandoo.org/wp/dashboard-failure-story/ "CP044: My first dashboard was a failure!!!") | [Play this](http://traffic.libsyn.com/chandoo/CP044.mp3) | September 10th, 2015 |
+| [CP043: My favorite time saving features of Excel, Revealed.](https://chandoo.org/wp/top-time-saving-features-of-excel/ "CP043: My favorite time saving features of Excel, Revealed.") | [Play this](http://traffic.libsyn.com/chandoo/CP043.mp3) | August 27th, 2015 |
+| [CP042: Financial Analysis & Modeling concepts – 101](https://chandoo.org/wp/financial-analysis-modeling-concepts/ "CP042: Financial Analysis & Modeling concepts – 101") | [Play this](http://traffic.libsyn.com/chandoo/CP042.mp3) | August 13th, 2015 |
+| [CP041: 6 charts you’ll see in hell – v2.0](https://chandoo.org/wp/6-charts-youll-see-in-hell-v2/ "CP041: 6 charts you’ll see in hell – v2.0") | [Play this](http://traffic.libsyn.com/chandoo/CP041.mp3) | August 6th, 2015 |
+| [CP040: Intro. to Power Query – What is it and how to get started – with Miguel Escobar](https://chandoo.org/wp/intro-to-power-query-podcast/ "CP040: Intro. to Power Query – What is it and how to get started – with Miguel Escobar") | [Play this](http://traffic.libsyn.com/chandoo/CP040.mp3) | July 30th, 2015 |
+| [CP039: May the FOR Loop be with you – Introduction to For Loops in Excel VBA](https://chandoo.org/wp/cp039-for-loop-vba/ "CP039: May the FOR Loop be with you – Introduction to For Loops in Excel VBA") | [Play this](http://traffic.libsyn.com/chandoo/CP039.mp3) | July 23rd, 2015 |
+| [CP038: Data to Ink Ratio – What is it, How to optimize it, Techniques & Discussion](https://chandoo.org/wp/cp038-data-to-ink-ratio/ "CP038: Data to Ink Ratio – What is it, How to optimize it, Techniques & Discussion") | [Play this](http://traffic.libsyn.com/chandoo/CP038.mp3) | July 9th, 2015 |
+| [CP037: Error error on the wall, How do I fix you all? – Understanding & Fixing Excel Errors](https://chandoo.org/wp/cp037-excel-errors/ "CP037: Error error on the wall, How do I fix you all? – Understanding & Fixing Excel Errors") | [Play this](http://traffic.libsyn.com/chandoo/CP037.mp3) | June 25th, 2015 |
+| [CP036: How to do trend analysis using Excel?](https://chandoo.org/wp/how-to-do-trend-analysis-using-excel/ "CP036: How to do trend analysis using Excel?") | [Play this](http://traffic.libsyn.com/chandoo/CP036.mp3) | June 11th, 2015 |
+| [CP035: on Solver, its story and future – Interview with Dan Fylstra](https://chandoo.org/wp/cp035-on-solver-its-story-and-future-interview-with-dan-fylstra/ "CP035: on Solver, its story and future – Interview with Dan Fylstra") | [Play this](http://traffic.libsyn.com/chandoo/CP035.mp3) | May 21st, 2015 |
+| [CP034: Advanced Excel Essentials book talk with Jordan Goldmeier](https://chandoo.org/wp/cp034-advanced-excel-essentials-book-review/ "CP034: Advanced Excel Essentials book talk with Jordan Goldmeier") | [Play this](http://traffic.libsyn.com/chandoo/CP034.mp3) | April 23rd, 2015 |
+| [CP033: There is an Easter egg in this podcast!!!](https://chandoo.org/wp/cp033-there-is-an-easter-egg-in-this-podcast/ "CP033: There is an Easter egg in this podcast!!!") | [Play this](http://traffic.libsyn.com/chandoo/CP033.mp3) | April 9th, 2015 |
+| [CP032: Rules for making legendary column charts](https://chandoo.org/wp/cp032-column-chart-rules/ "CP032: Rules for making legendary column charts") | [Play this](http://traffic.libsyn.com/chandoo/CP032.mp3) | April 2nd, 2015 |
+| [CP031: Invisibility Tricks – How to make things disappear in Excel?](https://chandoo.org/wp/cp031-excel-invisibility/ "CP031: Invisibility Tricks – How to make things disappear in Excel?") | [Play this](http://traffic.libsyn.com/chandoo/CP031.mp3) | March 5th, 2015 |
+| [CP030: Detecting fraud in data using Excel – 5 techniques for you](https://chandoo.org/wp/cp030-detecting-fraud-in-data-using-excel-5-techniques-for-you/ "CP030: Detecting fraud in data using Excel – 5 techniques for you") | [Play this](http://traffic.libsyn.com/chandoo/CP030.mp3) | February 19th, 2015 |
+| [CP029: Impress your boss with Excel charts – 6 step road map for you](https://chandoo.org/wp/cp029-impress-your-boss-with-excel-charts/ "CP029: Impress your boss with Excel charts – 6 step road map for you") | [Play this](http://traffic.libsyn.com/chandoo/CP029.mp3) | February 5th, 2015 |
+| [CP028: How to tell business logic & rules to Excel?](https://chandoo.org/wp/cp028-how-to-tell-business-logic-rules-to-excel/ "CP028: How to tell business logic & rules to Excel?") | [Play this](http://traffic.libsyn.com/chandoo/CP028.mp3) | January 22nd, 2015 |
+| [CP027: 15 proven strategies to be awesome in 2015](https://chandoo.org/wp/cp027-ways-to-be-awesome-in-excel/ "CP027: 15 proven strategies to be awesome in 2015") | [Play this](http://traffic.libsyn.com/chandoo/CP027.mp3) | January 8th, 2015 |
+| [Merry Christmas & Happy New Year 2015 \[Holiday Gift Inside\]](https://chandoo.org/wp/merry-christmas-happy-new-year-2015-holiday-gift-inside/ "Merry Christmas & Happy New Year 2015 [Holiday Gift Inside]") | [Play this](http://traffic.libsyn.com/chandoo/CP-Holidays-2014.mp3) | December 23rd, 2014 |
+| [CP026: All about Excel !@#$%^+/\*(}\]\[<](https://chandoo.org/wp/cp026-excel-operators/ "CP026: All about Excel !@#$%^+/*(}][<") | [Play this](http://traffic.libsyn.com/chandoo/CP026.mp3) | December 4th, 2014 |\
+| [CP025: Sexy on spreadsheet, Ugly on Printout](https://chandoo.org/wp/cp025-sexy-on-spreadsheet-ugly-on-printout/ "CP025: Sexy on spreadsheet, Ugly on Printout") | [Play this](http://traffic.libsyn.com/chandoo/CP025.mp3) | November 6th, 2014 |\
+| [CP024: Customize Excel to boost your productivity](https://chandoo.org/wp/cp024-customize-excel-to-boost-your-productivity/ "CP024: Customize Excel to boost your productivity") | [Play this](http://traffic.libsyn.com/chandoo/CP024.mp3) | October 30th, 2014 |\
+| [CP023: My experience with Hudhud Cyclone \[personal story\]](https://chandoo.org/wp/cp023-my-experience-with-hudhud-cyclone/ "CP023: My experience with Hudhud Cyclone [personal story]") | [Play this](http://traffic.libsyn.com/chandoo/CP023.mp3) | October 16th, 2014 |\
+| [CP022: What’s a Macro? Introduction to Excel VBA, Macros & Automation](https://chandoo.org/wp/cp022-whats-a-macro-introduction-to-excel-vba-macros-automation/ "CP022: What’s a Macro? Introduction to Excel VBA, Macros & Automation") | [Play this](http://traffic.libsyn.com/chandoo/CP022.mp3) | October 9th, 2014 |\
+| [CP021: How to quickly compare 2 lists in Excel](https://chandoo.org/wp/cp021-how-to-quickly-compare-2-lists-in-excel/ "CP021: How to quickly compare 2 lists in Excel") | [Play this](http://traffic.libsyn.com/chandoo/CP021.mp3) | October 2nd, 2014 |\
+| [CP020: Top 10 time saving strategies for business analysts](https://chandoo.org/wp/cp020-top10-time-saving-strategies/ "CP020: Top 10 time saving strategies for business analysts") | [Play this](http://traffic.libsyn.com/chandoo/CP020.mp3) | September 18th, 2014 |\
+| [CP019: 6 Tips for Best Practice Modeling – Interview with Danielle from Plum Solutions](https://chandoo.org/wp/cp019-best-practice-modeling-tips/ "CP019: 6 Tips for Best Practice Modeling – Interview with Danielle from Plum Solutions") | [Play this](http://traffic.libsyn.com/chandoo/CP019.mp3) | September 4th, 2014 |\
+| [CP018: Dont be a Pivot Table Virgin!](https://chandoo.org/wp/cp018-intro-pivot-tables/ "CP018: Dont be a Pivot Table Virgin!") | [Play this](http://traffic.libsyn.com/chandoo/CP018.mp3) | August 21st, 2014 |\
+| [CP017: Top 10 non-Excel MS Office tips for you – Interview with Paul Woods – Office MVP & Blogger](https://chandoo.org/wp/cp017-10-non-excel-office-tips/ "CP017: Top 10 non-Excel MS Office tips for you – Interview with Paul Woods – Office MVP & Blogger") | [Play this](http://traffic.libsyn.com/chandoo/CP017.mp3) | August 14th, 2014 |\
+| [CP016: 3 Must have books for aspiring analysts](https://chandoo.org/wp/cp016-3-books-for-analysts/ "CP016: 3 Must have books for aspiring analysts") | [Play this](http://traffic.libsyn.com/chandoo/CP016.mp3) | August 7th, 2014 |\
+| [CP015: Handling big data, Controlling model railroad sets, Overcoming Excel obsession & more – ASK CHANDOO](https://chandoo.org/wp/cp015-ask-chandoo/ "CP015: Handling big data, Controlling model railroad sets, Overcoming Excel obsession & more – ASK CHANDOO") | [Play this](http://traffic.libsyn.com/chandoo/CP015.mp3) | July 24th, 2014 |\
+| [CP014: How to create awesome dashboards – 10 step process for you](https://chandoo.org/wp/cp014-create-awesome-dashboards/ "CP014: How to create awesome dashboards – 10 step process for you") | [Play this](http://traffic.libsyn.com/chandoo/CP014.mp3) | July 10th, 2014 |\
+| [CP013: Is this a FIFA worldcup of late goals, lets ask Excel \[How to analyze data to answer questions like these…\]](https://chandoo.org/wp/cp013-fifa-late-goals-lets-ask-excel/ "CP013: Is this a FIFA worldcup of late goals, lets ask Excel [How to analyze data to answer questions like these…]") | [Play this](http://traffic.libsyn.com/chandoo/CP013.mp3) | July 3rd, 2014 |\
+| [CP012: Top 10 Excel Keyboard Shortcuts for you](https://chandoo.org/wp/cp012-top-10-keyboard-shortcuts/ "CP012: Top 10 Excel Keyboard Shortcuts for you") | [Play this](http://traffic.libsyn.com/chandoo/CP012.mp3) | June 26th, 2014 |\
+| [CP011: 5 Excel magic tricks to impress your boss](https://chandoo.org/wp/cp011-excel-magic-tricks/ "CP011: 5 Excel magic tricks to impress your boss") | [Play this](http://traffic.libsyn.com/chandoo/CP011.mp3) | June 19th, 2014 |\
+| [CP010: Averages are Mean – 8 Techniques for making your analysis above average](https://chandoo.org/wp/cp010-averages-are-mean-part2/ "CP010: Averages are Mean – 8 Techniques for making your analysis above average") | [Play this](http://traffic.libsyn.com/chandoo/CP010.mp3) | May 30th, 2014 |\
+| [CP009: Averages are Mean – Know these things before you make any more AVERAGE()s](https://chandoo.org/wp/cp009-averages-are-mean-part1/ "CP009: Averages are Mean – Know these things before you make any more AVERAGE()s") | [Play this](http://traffic.libsyn.com/chandoo/CP009.mp3) | May 22nd, 2014 |\
+| [CP008: 6 Tips to handle workbooks made by someone else, #4 is something I struggle with too!](https://chandoo.org/wp/cp008-6-tips-to-handle-workbooks-made-by-someone-else-4-is-something-i-struggle-with-too/ "CP008: 6 Tips to handle workbooks made by someone else, #4 is something I struggle with too!") | [Play this](http://traffic.libsyn.com/chandoo/CP008.mp3) | May 15th, 2014 |\
+| [CP007: aweSUM() – Overview of SUM functions in Excel](https://chandoo.org/wp/cp007-awesum-overview-of-sum-functions-in-excel/ "CP007: aweSUM() – Overview of SUM functions in Excel") | [Play this](http://traffic.libsyn.com/chandoo/CP007.mp3) | May 1st, 2014 |\
+| [CP006: How to be a better analyst? – Road map for getting better at Data Analysis & Improving your career prospects](https://chandoo.org/wp/cp006-become-better-analyst/ "CP006: How to be a better analyst? – Road map for getting better at Data Analysis & Improving your career prospects") | [Play this](http://traffic.libsyn.com/chandoo/CP006.mp3) | April 24th, 2014 |\
+| [CP005: Introduction to Form Controls – an interview with Debra Dalgleish](https://chandoo.org/wp/cp005-form-controls/ "CP005: Introduction to Form Controls – an interview with Debra Dalgleish") | [Play this](http://traffic.libsyn.com/chandoo/CP005.mp3) | April 17th, 2014 |\
+| [CP004: Can I Pie Chart in Public? Discussion about Pie charts, their merits and drawbacks, when to use & when to avoid them](https://chandoo.org/wp/cp004-can-i-pie-chart-in-public-discussion-about-pie-charts-their-merits-and-drawbacks-when-to-use-when-to-avoid-them/ "CP004: Can I Pie Chart in Public? Discussion about Pie charts, their merits and drawbacks, when to use & when to avoid them") | [Play this](http://traffic.libsyn.com/chandoo/CP004.mp3) | April 3rd, 2014 |\
+| [CP003: Business Intelligence for Masses – Interview with Mike Alexander](https://chandoo.org/wp/cp003-business-intelligence-for-masses-interview-with-mike-alexander/ "CP003: Business Intelligence for Masses – Interview with Mike Alexander") | [Play this](http://traffic.libsyn.com/chandoo/CP003.mp3) | March 27th, 2014 |\
+| [CP002: VTALKUP – 5 Excel lookup functions demystified + 4 Resources for you](https://chandoo.org/wp/cp002-vtalkup-5-excel-lookup-functions-demystified-4-resources-for-you/ "CP002: VTALKUP – 5 Excel lookup functions demystified + 4 Resources for you") | [Play this](http://traffic.libsyn.com/chandoo/CP002.mp3) | March 13th, 2014 |\
+| [CP 001: Chandoo.org Podcast First Episode – Introduction, What to expect, Show formalities & Special gift](https://chandoo.org/wp/chandoo-org-podcast-first-session/ "CP 001: Chandoo.org Podcast First Episode – Introduction, What to expect, Show formalities & Special gift") | [Play this](http://traffic.libsyn.com/chandoo/CP001.mp3) | March 6th, 2014 |\
+| _Special Bonus for you_ |     |     |\
+| [BONUS: Guide to Excel Ribbon](https://chandoo.org/podcastgift) | [Play this](https://traffic.libsyn.com/chandoo/podcast-gift.mp3) | March 6th, 2014 |

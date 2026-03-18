@@ -1,0 +1,292 @@
+# 15sectuts Archives » Chandoo.org - Learn Excel, Power BI & Charting Online
+
+**Source:** https://chandoo.org/wp/tag/15sectuts
+
+---
+
+All articles with '15sectuts' Tag
+=================================
+
+{ [**132** Comments](https://chandoo.org/wp/delete-blank-rows-excel/#comments)
+ }
+
+[Delete Blank Rows in Excel \[Quick Tip\]](https://chandoo.org/wp/delete-blank-rows-excel/ "Delete Blank Rows in Excel [Quick Tip]")
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Published on Jan 26, 2010 _in_ [Learn Excel](https://chandoo.org/wp/category/excel/)
+
+[![Delete Blank Rows in Excel [Quick Tip]](https://chandoo.org/img/q/delete-blank-rows-excel.png)](https://chandoo.org/wp/delete-blank-rows-excel/ "Delete Blank Rows in Excel [Quick Tip]")
+
+Blank rows or Blank cells is a problem we all inherit one time or another. This is very common when you try to import data from somewhere else (like a text file or a CSV file). Today we will learn a very simple trick to delete blank rows from excel spreadsheets. Read this post to findout how to delete blank rows / cells from your excel data in a snap.
+
+[Continue »](https://chandoo.org/wp/delete-blank-rows-excel/)
+
+{ [**8** Comments](https://chandoo.org/wp/transpose-excel-rows-columns/#comments)
+ }
+
+[Transpose Excel Rows and Columns \[Quick Tip + Video\]](https://chandoo.org/wp/transpose-excel-rows-columns/ "Transpose Excel Rows and Columns [Quick Tip + Video]")
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Published on Nov 18, 2009 _in_ [Excel Howtos](https://chandoo.org/wp/category/excel-howtos/)
+, [Learn Excel](https://chandoo.org/wp/category/excel/)
+
+[![Transpose Excel Rows and Columns [Quick Tip + Video]](https://chandoo.org/img/i/transpose-rows-columns.png)](https://chandoo.org/wp/transpose-excel-rows-columns/ "Transpose Excel Rows and Columns [Quick Tip + Video]")
+
+Transposing rows and columns in a table is one of the most useful tricks when you are pasting data. Yet, it always surprises me that very few people actually know this. So here it is…
+
+[Continue »](https://chandoo.org/wp/transpose-excel-rows-columns/)
+
+{ [**15** Comments](https://chandoo.org/wp/bubble-chart-tutorial/#comments)
+ }
+
+[Make a Bubble Chart in Excel \[15 second tutorial\]](https://chandoo.org/wp/bubble-chart-tutorial/ "Make a Bubble Chart in Excel [15 second tutorial]")
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Published on Oct 5, 2009 _in_ [Charts and Graphs](https://chandoo.org/wp/category/visualization/)
+, [Excel Howtos](https://chandoo.org/wp/category/excel-howtos/)
+
+[![Make a Bubble Chart in Excel [15 second tutorial]](https://chandoo.org/img/l/bubble-chart-excel-tutorial.png)](https://chandoo.org/wp/bubble-chart-tutorial/ "Make a Bubble Chart in Excel [15 second tutorial]")
+
+A Bubble chart displays circles (or bubbles) at given X and Y co-ordinates. Bubble chart is a very good way to show 3 dimensional data (for eg. Region-wise product sales) without confusing users. In this tutorial, we will learn how to create a bubble chart using excel.
+
+[Continue »](https://chandoo.org/wp/bubble-chart-tutorial/)
+
+{ [**21** Comments](https://chandoo.org/wp/make-a-pivot-table-in-excel-15-second-tutorial/#comments)
+ }
+
+[Make a Pivot Table in Excel \[15 Second Tutorial\]](https://chandoo.org/wp/make-a-pivot-table-in-excel-15-second-tutorial/ "Make a Pivot Table in Excel [15 Second Tutorial]")
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Published on Aug 25, 2009 _in_ [Excel Howtos](https://chandoo.org/wp/category/excel-howtos/)
+
+[![Make a Pivot Table in Excel [15 Second Tutorial]](https://chandoo.org/img/l/make-a-pivot-table-in-excel-tutorial.png)](https://chandoo.org/wp/make-a-pivot-table-in-excel-15-second-tutorial/ "Make a Pivot Table in Excel [15 Second Tutorial]")
+
+Last week we have posted a [simple to understand excel pivot table tutorial](http://chandoo.org/wp/2009/08/19/excel-pivot-tables-tutorial/)
+ here. Today I am going to supplement the tutorial with a 15 second video tutorial on Making excel pivot tables.
+
+[Continue »](https://chandoo.org/wp/make-a-pivot-table-in-excel-15-second-tutorial/)
+
+{ [**8** Comments](https://chandoo.org/wp/secondary-axis-combination-charts-howto/#comments)
+ }
+
+[Create a Combination Chart, Add Secondary Axis in Excel \[15 Second Tutorial\]](https://chandoo.org/wp/secondary-axis-combination-charts-howto/ "Create a Combination Chart, Add Secondary Axis in Excel [15 Second Tutorial]")
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Published on Jul 2, 2009 _in_ [Charts and Graphs](https://chandoo.org/wp/category/visualization/)
+, [Excel Howtos](https://chandoo.org/wp/category/excel-howtos/)
+
+Two most commonly asked or searched queries when it comes to charting are,
+
+*   How to combine two chart types in one chart, like a line chart combined with bar chart?
+*   How to add a secondary axis to the chart so that one or more data series are plotted on the secondary axis?
+
+Watch this video tutorial to learn how to do both in less than 15 seconds.
+
+Watch it on youtube: [Creating combination charts and adding secondary axis – video tutorial](http://www.youtube.com/watch?v=Gv5ZfnHobfc)
+
+[Continue »](https://chandoo.org/wp/secondary-axis-combination-charts-howto/)
+
+{ [**5** Comments](https://chandoo.org/wp/remove-duplicates/#comments)
+ }
+
+[Remove Duplicates \[Quick Video Tip\]](https://chandoo.org/wp/remove-duplicates/ "Remove Duplicates [Quick Video Tip]")
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Published on Jun 22, 2009 _in_ [Excel Howtos](https://chandoo.org/wp/category/excel-howtos/)
+
+It is very surprising that so many of us are still not aware of this extremely powerful tool in Excel 2007. Just with a click of the button, you can remove all the duplicate values from a list / table. To remove duplicates, (1) Just select the list of values from which you want to remove duplicates (2) Go to Data ribbon (3) Hit the Remove Duplicates button (4) Bingo…
+
+[Continue »](https://chandoo.org/wp/remove-duplicates/)
+
+[![Create Awesome Dashboards instantly - Introducing Ready to use Excel Dashboard Templates from Chandoo.org](https://cache.chandoo.org/images/dbt/msg/dbt-message-07.png)](https://chandoo.org/dbt/index.html?utm_source=chandoo.org&utm_medium=sbip "Create Awesome Dashboards instantly - Introducing Ready to use Excel Dashboard Templates from Chandoo.org")
+
+![](https://cache.chandoo.org/images/bg/chandoo.org-products-background-1.png)
+
+Books: [Excel Formulas](https://chandoo.org/wp/excel-formula-helper-e-book/?utm_source=chandoo.org&utm_medium=sbhp)
+ | [VLOOKUP](https://chandoo.org/wp/resources/the-vlookup-book/)
+  
+[Project Management Templates](https://chandoo.org/pmt/pmt-index-1.html?utm_source=chandoo.org&utm_medium=sbhp)
+  
+[Excel Dashboard Templates](https://chandoo.org/dbt/index.html?utm_source=chandoo.org&utm_medium=sbhp)
+ NEW  
+[Excel School Online Training](https://chandoo.org/wp/excel-school/?utm_source=chandoo.org&utm_medium=sbhp)
+  
+[VBA & Macros Training](https://chandoo.org/wp/vba-classes/?utm_source=chandoo.org&utm_medium=sbhp)
+
+*   Category
+    --------
+    
+    *   [3D Maps (non Power Maps)](https://chandoo.org/wp/category/3d-maps-non-power-maps/)
+        
+    *   [3D Maps (Power Maps)](https://chandoo.org/wp/category/3d-maps-power-maps/)
+        
+    *   [advertising](https://chandoo.org/wp/category/advertising/)
+        
+    *   [All Time Hits](https://chandoo.org/wp/category/alltime-best/)
+        
+    *   [america](https://chandoo.org/wp/category/america/)
+        
+    *   [Analytics](https://chandoo.org/wp/category/analytics/)
+        
+    *   [artificial intelligence](https://chandoo.org/wp/category/artificial-intelligence/)
+        
+    *   [Automation](https://chandoo.org/wp/category/automation/)
+        
+    *   [b-school](https://chandoo.org/wp/category/b-school/)
+        
+    *   [banking](https://chandoo.org/wp/category/banking/)
+        
+    *   [blogging](https://chandoo.org/wp/category/blogging/)
+        
+    *   [business](https://chandoo.org/wp/category/business/)
+        
+    *   [calvin fund](https://chandoo.org/wp/category/calvin-fund/)
+        
+    *   [Chandoo.org Podcast Sessions](https://chandoo.org/wp/category/podcast/)
+        
+    *   [Charts and Graphs](https://chandoo.org/wp/category/visualization/)
+        
+    *   [chennai](https://chandoo.org/wp/category/chennai/)
+        
+    *   [Complex Numbers](https://chandoo.org/wp/category/complex-numbers/)
+        
+    *   [Cool Infographics & Data Visualizations](https://chandoo.org/wp/category/cool-infographics/)
+        
+    *   [dublin](https://chandoo.org/wp/category/dublin/)
+        
+    *   [excel apps](https://chandoo.org/wp/category/excel-apps/)
+        
+    *   [Excel Challenges](https://chandoo.org/wp/category/excel-challenges/)
+        
+    *   [Excel Howtos](https://chandoo.org/wp/category/excel-howtos/)
+        
+    *   [Excel on iPad](https://chandoo.org/wp/category/excel-on-ipad/)
+        
+    *   [Excel Workshops](https://chandoo.org/wp/category/excel-workshops/)
+        
+    *   [Featured](https://chandoo.org/wp/category/best-of-phd/)
+        
+    *   [Financial Modeling](https://chandoo.org/wp/category/financial-modeling/)
+        
+    *   [food and drink](https://chandoo.org/wp/category/food-and-drink/)
+        
+    *   [Formula Challenges](https://chandoo.org/wp/category/formula-challenges/)
+        
+    *   [Formula Forensics](https://chandoo.org/wp/category/formula-forensics/)
+        
+    *   [Forum](https://chandoo.org/wp/category/forum/)
+        
+    *   [gadgets](https://chandoo.org/wp/category/gadgets/)
+        
+    *   [Google Spreadsheets – Tip & Tricks](https://chandoo.org/wp/category/google-spreadsheets/)
+        
+    *   [hacks](https://chandoo.org/wp/category/hacks/)
+        
+    *   [Hong Kong](https://chandoo.org/wp/category/hong-kong/)
+        
+    *   [Huis](https://chandoo.org/wp/category/huis/)
+        
+    *   [Humor](https://chandoo.org/wp/category/humor/)
+        *   [Powerpoint Cartoons](https://chandoo.org/wp/category/humor/powerpoint-cartoons/)
+            
+    *   [ideas](https://chandoo.org/wp/category/ideas/)
+        
+    *   [India](https://chandoo.org/wp/category/india/)
+        
+    *   [Indore](https://chandoo.org/wp/category/indore/)
+        
+    *   [Interview Questions](https://chandoo.org/wp/category/interview-questions/)
+        
+    *   [interviews](https://chandoo.org/wp/category/interviews/)
+        
+    *   [Keyboard Shortcuts](https://chandoo.org/wp/category/keyboard-shortcuts-2/)
+        
+    *   [Learn Excel](https://chandoo.org/wp/category/excel/)
+        *   [excel links](https://chandoo.org/wp/category/excel/excel-links/)
+            
+    *   [Luke](https://chandoo.org/wp/category/luke/)
+        
+    *   [Mandelbrot](https://chandoo.org/wp/category/mandelbrot/)
+        
+    *   [Master Class](https://chandoo.org/wp/category/master-class/)
+        
+    *   [media](https://chandoo.org/wp/category/media/)
+        
+    *   [Movies-Books](https://chandoo.org/wp/category/movies-books/)
+        
+    *   [Off-topic](https://chandoo.org/wp/category/off-topic/)
+        
+    *   [Office Scripts](https://chandoo.org/wp/category/office-scripts/)
+        
+    *   [Office Tips](https://chandoo.org/wp/category/office-tips/)
+        
+    *   [personal](https://chandoo.org/wp/category/personal/)
+        
+    *   [personal finance](https://chandoo.org/wp/category/personal-finance/)
+        
+    *   [pics](https://chandoo.org/wp/category/pics/)
+        *   [photographic fridays](https://chandoo.org/wp/category/pics/photographic-fridays/)
+            
+    *   [Pivot Tables & Charts](https://chandoo.org/wp/category/pivot-tables-charts/)
+        
+    *   [Posts by Faseeh](https://chandoo.org/wp/category/posts-by-faseeh/)
+        
+    *   [Posts by Hui](https://chandoo.org/wp/category/huis-posts/)
+        
+    *   [Posts by Jeff](https://chandoo.org/wp/category/posts-by-jeff/)
+        
+    *   [Posts by KV](https://chandoo.org/wp/category/posts-by-kv/)
+        
+    *   [Posts by Luke](https://chandoo.org/wp/category/posts-by-luke/)
+        
+    *   [Posts by Sajan](https://chandoo.org/wp/category/posts-by-sajan/)
+        
+    *   [Power Automate](https://chandoo.org/wp/category/power-automate/)
+        
+    *   [Power BI](https://chandoo.org/wp/category/power-bi/)
+        
+    *   [Power Pivot](https://chandoo.org/wp/category/power-pivot/)
+        
+    *   [Power Query](https://chandoo.org/wp/category/power-query/)
+        
+    *   [products](https://chandoo.org/wp/category/products/)
+        
+    *   [Project Management](https://chandoo.org/wp/category/project-management-2/)
+        
+    *   [Python](https://chandoo.org/wp/category/python/)
+        
+    *   [Quick Tip](https://chandoo.org/wp/category/quick-tip-2/)
+        
+    *   [Quizzes](https://chandoo.org/wp/category/quizzes/)
+        
+    *   [R programming](https://chandoo.org/wp/category/r-programming/)
+        
+    *   [Random](https://chandoo.org/wp/category/uncategorized/)
+        
+    *   [Seoul](https://chandoo.org/wp/category/seoul/)
+        
+    *   [simulation](https://chandoo.org/wp/category/simulation/)
+        
+    *   [Solver](https://chandoo.org/wp/category/solver/)
+        
+    *   [SQL](https://chandoo.org/wp/category/sql/)
+        
+    *   [technology](https://chandoo.org/wp/category/computer/)
+        
+    *   [Templates](https://chandoo.org/wp/category/templates-2/)
+        
+    *   [Training Programs](https://chandoo.org/wp/category/training-programs/)
+        
+    *   [travels](https://chandoo.org/wp/category/travels/)
+        
+    *   [VBA Macros](https://chandoo.org/wp/category/vba-macros/)
+        
+    *   [wonder why](https://chandoo.org/wp/category/wonder-why/)
+        
+    *   [Word](https://chandoo.org/wp/category/word/)

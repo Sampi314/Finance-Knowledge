@@ -1,0 +1,23 @@
+# Online Excel Tutorial for Beginners - What is Excel and How to use it?
+
+**Source:** https://chandoo.org/wp/excel-tutorial
+
+---
+
+Microsoft Excel – Online Tutorial for Beginners
+===============================================
+
+**Welcome to Chandoo.org. This is a basic tutorial on Excel for beginners.** Start with the first video and practice as you go along. Follow the links for more information and help.
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Introduction to Microsoft Excel<br>------------------------------- |     | Formatting Data in Excel – Basics<br>--------------------------------- |     |
+|     | In this tutorial,<br><br>*   What is Excel ?<br>*   Why is it used ?<br>*   Creating your first excel file<br>*   Using Ribbon, Understanding what each tab does<br><br>[Watch now](http://chandoo.org/wp/excel-tutorial/introduction/ "Introduction to Microsoft Excel - Online Excel Tutorials - Chandoo.org") |     | In this tutorial,<br><br>*   Using fonts<br>*   Using colors<br>*   Applying Cell Borders<br>*   Aligning Text, wrapping text<br>*   more…<br><br>[Watch now](http://chandoo.org/wp/excel-tutorial/formatting-data/ "Formatting Data in Excel - Basics - Online Excel Tutorials - Chandoo.org") |
+| How to Make a Chart in Excel?<br>----------------------------- |     | Writing Simple Formulas in Excel<br>-------------------------------- |     |
+|     | In this tutorial,<br><br>*   What is a Chart?<br>*   Creating a simple chart<br>*   Formatting a chart<br>*   Changing chart types<br><br>[Watch now](http://chandoo.org/wp/excel-tutorial/making-charts/ "How to Make a Chart in Excel? - Online Excel Tutorials - Chandoo.org") |     | In this tutorial,<br><br>*   What is a formula<br>*   Writing simple SUM formulas<br>*   IF and Else formula<br>*   Count of values<br>*   Sum of values meeting a criteria<br><br>[Watch now](http://chandoo.org/wp/excel-tutorial/writing-formulas/ "Writing Simple Formulas in Excel - Online Excel Tutorials - Chandoo.org") |
+| Introduction Conditional Formatting in Excel<br>-------------------------------------------- |     | Introduction to Excel Tables<br>---------------------------- |     |
+|     | In this tutorial,<br><br>*   What is Conditional Formatting?<br>*   Applying simple conditional formatting rules<br>*   Using predefined CF rules<br>*   Using Formulas in CF<br><br>[Watch now](http://chandoo.org/wp/excel-tutorial/using-conditional-formatting/ "Introduction Conditional Formatting in Excel - Online Excel Tutorials - Chandoo.org") |     | In this tutorial,<br><br>*   What is a table<br>*   Why use tables<br>*   Applying table styles<br>*   Sorting, filtering data in tables<br>*   Charts and tables<br>*   Formulas and tables<br><br>[Watch now](http://chandoo.org/wp/excel-tutorial/using-tables/ "Introduction to Excel Tables - Online Excel Tutorials - Chandoo.org") |
+| Introduction to Excel Pivot Tables<br>---------------------------------- |     | Using Excel Productively – Keyboard Shortcuts<br>--------------------------------------------- |     |
+|     | In this tutorial,<br><br>*   What is a pivot table?<br>*   How to create a pivot table?<br>*   Working with pivots – changing orientation, adding filters<br>*   Formatting pivots<br><br>[Watch now](http://chandoo.org/wp/excel-tutorial/working-with-pivot-tables/ "Introduction to Excel Pivot Tables - Online Excel Tutorials - Chandoo.org") |     | In this tutorial,<br><br>*   Navigation Shortcuts<br>*   Selection Shortcuts<br>*   Using Function keys<br>*   Using ALT keys for menus<br>*   Using CTRL keys<br><br>[Watch now](http://chandoo.org/wp/excel-tutorial/shortcuts-and-productivity/ "Using Excel Productively - Keyboard Shortcuts - Online Excel Tutorials - Chandoo.org") |
+| Printing Your Workbooks<br>----------------------- |     | 10 Things you can do in Excel under 10 Minutes<br>---------------------------------------------- |     |
+|     | In this tutorial,<br><br>*   Using Page Setup<br>*   Setting Margins<br>*   Print on one sheet<br>*   Repeating Rows on Top<br>*   Adding Headers / Footers<br><br>[Watch now](http://chandoo.org/wp/excel-tutorial/printing-workbooks/ "Printing Your Workbooks - Online Excel Tutorials - Chandoo.org") |     | In this tutorial,<br><br>*   Auto sum a bunch of values<br>*   Save excel file as PDF<br>*   Insert an organization chart<br>*   Insert Euro Symbol or other symbols<br>*   more…<br><br>[Watch now](http://chandoo.org/wp/excel-tutorial/10things/ "10 Things you can do in Excel under 10 Minutes - Online Excel Tutorials - Chandoo.org") |

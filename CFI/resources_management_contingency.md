@@ -1,0 +1,235 @@
+# Contingency - Overview, How It Works, How To Create
+
+**Source:** https://corporatefinanceinstitute.com/resources/management/contingency
+
+---
+
+Table of Contents
+
+*   [What is a Contingency?](https://corporatefinanceinstitute.com/resources/management/contingency/#what-is-a-contingency)
+    
+
+*   [Examples of Contingencies](https://corporatefinanceinstitute.com/resources/management/contingency/#examples-of-contingencies)
+    
+*   [How It Works](https://corporatefinanceinstitute.com/resources/management/contingency/#how-it-works)
+    
+*   [Contingency Planning](https://corporatefinanceinstitute.com/resources/management/contingency/#contingency-planning)
+    
+*   [Steps in Creating a Contingency Plan](https://corporatefinanceinstitute.com/resources/management/contingency/#steps-in-creating-a-contingency-plan)
+    
+*   [Possible Actions for Mitigating Contingency Risks](https://corporatefinanceinstitute.com/resources/management/contingency/#possible-actions-for-mitigating-contingency-risks)
+    
+*   [More Resources](https://corporatefinanceinstitute.com/resources/management/contingency/#more-resources)
+    
+
+Contingency
+===========
+
+The chance that a future event is likely to cause a negative impact on an organization or person
+
+Written by [CFI Team](https://corporatefinanceinstitute.com/about-cfi/)
+
+Published February 14, 2021
+
+Read Time 6 minutes
+
+Over 2.8 million + professionals use CFI to learn accounting, financial analysis, modeling and more. Unlock the essentials of corporate finance with our free resources and get an exclusive sneak peek at the first module of each course. [Start Free](https://learn.corporatefinanceinstitute.com/auth/registration)
+
+What is a Contingency?
+----------------------
+
+A contingency is the chance occurrence that a future event is likely to cause a negative impact on an organization or person. It is a condition or a probable future event occurring by chance, deliberately or not. In addition, its occurrence and the resulting effects will necessitate special or extraordinary measures to be implemented.
+
+![Contingency](https://cdn.corporatefinanceinstitute.com/assets/contingency.jpeg)
+
+### Examples of Contingencies
+
+In business and project management, contingency is often described as a cover (financial or otherwise) that insulates a commercial or non-commercial entity in the event of an unforeseen or uncertain occurrence. Hence, the expenditure incurred when that unforeseen contingency actually occurs becomes an event occurring by chance.
+
+Planning for contingencies becomes key regardless of not knowing the nature or scope of the contingency. An analysis that involves forecasting into the future is required to measure the nature and scope of likely contingencies. The analysis should cover the possible remedies or protective measures to be implemented beforehand to avoid or mitigate the negative effects of the contingency.
+
+In an organization, the analysis is referred to as a contingency plan. Its sole purpose is to provide a safety net or insurance to enable an organization to survive the potentially negative effects with as little harm (or cost) as possible. Contingency plans in business are often known as [business continuity plans](https://www.ready.gov/business-continuity-plan)
+.
+
+![Examples of Contingencies](https://cdn.corporatefinanceinstitute.com/assets/contingency1.png)
+
+### How It Works
+
+Planning is crucial for contingencies, especially in business. Contingency planning normally involves the assignment of cash or capital reserves by a company to meet unforeseen events. It boils down to the ability to withstand shocks from the occurrence of an unexpected event through access to [liquidity](https://corporatefinanceinstitute.com/resources/accounting/liquidity/)
+ to offset negative financial impacts, such as a sustained period of poor sales and increased costs. Three common methods used to mitigate contingencies include:
+
+#### 1\. Credit lines
+
+Tactical contingency plans will involve setting up lines of credit when the business is still healthy to ensure credit will be conveniently accessible in times of need i.e. when negative events occur.
+
+#### 2\. Insurance
+
+A company or organization can also take out an insurance policy against the occurrence of such contingencies. An insurance policy will cover losses incurred during and after the occurrence of a negative event.
+
+#### 3\. Capital raising and revenue retention
+
+Although the above method normally refers to banks, other businesses and organizations can also build capital reserves through revenue retention and raising new capital. It will strengthen balance sheets to absorb the negative effects of contingencies. Banks normally adopt minimum capital requirement levels as a function of their [risk-weighted assets](https://corporatefinanceinstitute.com/resources/career-map/sell-side/risk-management/risk-weighted-assets/)
+.
+
+### Contingency Planning
+
+A contingency plan is a blueprint generated by management to assist an organization to deal with the occurrence of unforeseen negative events. It is a preventative control tool designed to mitigate reputational or financial harm to an organization due to unexpected circumstances.
+
+The major objective of the contingency plan is to ensure business continuity during and after a catastrophic event. Hence, the plan helps organizations recover from the effects of major risks threatening their survival. It should also be able to thwart any negative publicity that may arise as a result.
+
+A contingency plan ensures that an organization is able to react proactively to unexpected events in order to limit the hemorrhage on revenues and profits. It is also known as Plan B, back-up plan, business continuity plan, or disaster recovery plan. A template outlining the contingency planning process is highlighted below:
+
+### Steps in Creating a Contingency Plan
+
+An effective contingency plan should be well researched and enhanced with employee and stakeholder collaboration. The steps to be taken are indicated below:
+
+#### 1\. Create a contingency policy
+
+A contingency policy statement should be created to communicate clear guidelines to be followed when handling disaster events. The statement should be communicated to all relevant employees to optimize the quality of the response.
+
+#### 2\. Identify resources
+
+An inventory of resources that the organization possesses and those that it can access should be prepared beforehand. They are resources that help to mitigate the effects of a disaster or negative eventuality.
+
+#### 3\. Identify key risks
+
+Identification of key risks that are likely to affect the organization is a crucial step. It should be a collaborative process through the involvement of departmental heads and even outside consultants.
+
+A business impact analysis (BIA) can also be employed to determine the probability of occurrence of a particular event and its potential impact on critical business processes. A BIA also assists in the identification of future risks and their priorities.
+
+#### 4\. Prioritize risk impact
+
+Once all risks are identified, the next step is to prioritize them based on the likely severity of their impact on the organization. A follow-up prioritization parameter is the probability of occurrence.
+
+#### 5\. Draft a contingency plan
+
+The existence of different risks threatening the organization requires different plans. As indicated above, prioritization of risks according to potential impact is key. The contingency plan should provide multiple scenarios to cover a wider range of the scope of risks and circumstances.
+
+Focus should also be emphasized on loss minimization. The contingency plan should clearly outline the actions to be taken before and after the events materialize and ensure the resumption of normal operations. The responsibilities of each employee, including their action points and timelines, should be well articulated.
+
+Strategies to create a contingency liquid reserve to absorb potential losses should be set up during the planning phase. They include setting up a line of credit or raising funds in the interim to be set up as contingency reserves for unexpected events.
+
+It is also crucial to buy insurance cover, which will come in handy if losses are incurred. However, insurance policies will require upfront or periodic premiums that need adequate budgeted provision in the contingency plan.
+
+#### 6\. Share the plan
+
+The contingency plan should be shared amongst all relevant employees and stakeholders. It will ensure an optimized response from all concerned persons when the time comes.
+
+#### 7\. Test the plan
+
+An important step in contingency planning is the testing of the plan to measure its effectiveness. Mock exercises and simulations should be conducted to test the response and execution time and will prepare staff for the real thing before it happens.
+
+Testing can reveal weaknesses or vulnerabilities in the plan and indicate where it needs improvement. It can be discovered that there is a need for additional resources or additional staff training. Remedying these weaknesses will increase plan effectiveness and organizational preparedness.
+
+#### 8\. Review and update the plan
+
+The plan can be rendered less effective or ineffective over time due to changes in the environmental landscape and technology. Hence, it is paramount to review, update and maintain the contingency plan from time to time as warranted.
+
+### Possible Actions for Mitigating Contingency Risks
+
+![Possible Actions for Mitigating Contingency Risks](https://cdn.corporatefinanceinstitute.com/assets/contingency2.png)
+
+  
+Contingencies in Project Management
+
+In project management, contingencies normally refer to cost, i.e. funds set aside in reserve to deal with unexpected events. However, they also refer to other aspects of the project, such as resource shortage and meeting deadlines. Contingency plans should be prepared for all the risks mentioned in the sections above.
+
+It is advisable that project managers do not disclose that they hold contingency reserves to other members of the project team. It is because disclosure can result in an opposite effect where the contingency reserves will be seen as a license to exceed budgetary allocations.
+
+Project contingencies are usually expressed in percentage terms. The initial stages of the project are typically the riskiest and higher percentages of contingencies are applied. However, as the project progresses, percentages on contingencies are gradually reduced as there will be fewer unknowns and clearer project direction.
+
+Reducing a contingency during a project typically involves the following issues:
+
+*   At the planning stage, total costs estimates should include an additional premium e.g. 10% contingency.
+*   About 5% to 10% of contract value can be included as a contingency in the cost plan.
+*   The project owner often retains a certain percentage of the amount due to the contractor. It is called retention (normally 5%). The retention is taken as insurance to make sure the contractor executes the project as per the terms and conditions of the contract.
+
+### More Resources
+
+To keep learning and developing your knowledge base, please explore the additional relevant resources below:
+
+*   [Commitments and Contingencies](https://corporatefinanceinstitute.com/resources/accounting/commitments-and-contingencies/)
+    
+*   [Project Management](https://corporatefinanceinstitute.com/resources/management/project-management/)
+    
+*   [Liquidity](https://corporatefinanceinstitute.com/resources/accounting/liquidity/)
+    
+*   [Risk Management](https://corporatefinanceinstitute.com/resources/career-map/sell-side/risk-management/risk-management/)
+    
+*   **[See all management & strategy resources](https://corporatefinanceinstitute.com/topic/management-skills/)
+    **
+
+![](https://corporatefinanceinstitute.com/resources/management/contingency/)
+
+**Get In-Demand Finance Certifications**
+
+[Learn More](https://corporatefinanceinstitute.com/pricing/)
+
+*   Share this article
+*   [![Share on LinkedIn](https://corporatefinanceinstitute.com/resources/management/contingency/)](http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fcorporatefinanceinstitute.com%2Fresources%2Fmanagement%2Fcontingency%2F&summary=Contingency "Share on LinkedIn")
+    
+*   [![Share on Facebook](https://corporatefinanceinstitute.com/resources/management/contingency/)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcorporatefinanceinstitute.com%2Fresources%2Fmanagement%2Fcontingency%2F "Share on Facebook")
+    
+*   [![Share on Twitter](https://corporatefinanceinstitute.com/resources/management/contingency/)](https://twitter.com/intent/tweet?text=Contingency&url=https%3A%2F%2Fcorporatefinanceinstitute.com%2Fresources%2Fmanagement%2Fcontingency%2F "Share on Twitter")
+    
+*   [![Share on WhatsApp](https://corporatefinanceinstitute.com/resources/management/contingency/)](https://wa.me/?text=https%3A%2F%2Fcorporatefinanceinstitute.com%2Fresources%2Fmanagement%2Fcontingency%2F&summary=Contingency "Share on WhatsApp")
+    
+*   [![Copy link](https://corporatefinanceinstitute.com/resources/management/contingency/)](https://corporatefinanceinstitute.com/resources/management/contingency/ "Copy link")
+    
+
+[Corporate Finance Institute](https://corporatefinanceinstitute.com/)
+
+[Back to Website](https://corporatefinanceinstitute.com/)
+
+0 search results for ‘’
+
+People also search for: excel power bi esg accounting balance sheet fmva real estate
+
+Explore Our Certifications
+
+[Financial Modeling & Valuation Analyst (FMVA)®](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
+
+[Commercial Banking & Credit Analyst (CBCA)®](https://corporatefinanceinstitute.com/certifications/commercial-banking-credit-analyst-certification-cbca/)
+
+[Capital Markets & Securities Analyst (CMSA)®](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
+
+[Certified Business Intelligence & Data Analyst (BIDA)®](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)
+
+[Financial Planning & Wealth Management Professional (FPWMP)®](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
+
+[FinTech Industry Professional (FTIP)®](https://corporatefinanceinstitute.com/certifications/fintech-industry-professional/)
+
+Resources
+
+[Mastering Excel Shortcuts for PC and Mac Work Smarter in Excel with Keyboard Shortcuts If you're still reaching for the mouse every few seconds, it's time to level up. The best Excel keyboard...](https://corporatefinanceinstitute.com/resources/excel/excel-shortcuts-pc-mac/)
+
+[Financial Modeling Guidelines CFI’s free Financial Modeling Guidelines is a thorough and complete resource covering model design, model building blocks, and common tips, tricks,...](https://corporatefinanceinstitute.com/resources/financial-modeling/free-financial-modeling-guide/)
+
+[SQL Data Types What are SQL Data Types? The Structured Query Language (SQL) comprises several different data types that allow it to store different types of information...](https://corporatefinanceinstitute.com/resources/data-science/sql-data-types/)
+
+[Structured Query Language (SQL) What is Structured Query Language (SQL)? Structured Query Language (known as SQL) is a programming language used to interact with a database....](https://corporatefinanceinstitute.com/resources/data-science/structured-query-language-sql/)
+
+[See All Resources See All](https://corporatefinanceinstitute.com/resources/)
+
+Popular Courses
+
+ [![Excel Fundamentals - Formulas for Finance](https://corporatefinanceinstitute.com/resources/management/contingency/)BIDA Prep Course 2h 14min Excel Fundamentals - Formulas for Finance](https://corporatefinanceinstitute.com/course/excel-fundamentals-formulas-for-finance/)
+
+ [![3-Statement Modeling](https://corporatefinanceinstitute.com/resources/management/contingency/)FMVA Required 3h 15min 3-Statement Modeling](https://corporatefinanceinstitute.com/course/3-statement-modeling/)
+
+ [![Introduction to Business Valuation](https://corporatefinanceinstitute.com/resources/management/contingency/)FMVA Required 3h 9min Introduction to Business Valuation](https://corporatefinanceinstitute.com/course/intro-business-valuation/)
+
+ [![Scenario & Sensitivity Analysis in Excel](https://corporatefinanceinstitute.com/resources/management/contingency/)FMVA Required 49min Scenario & Sensitivity Analysis in Excel](https://corporatefinanceinstitute.com/course/sensitivity-analysis-financial-modeling/)
+
+ [![Excel Data Visualization and Dashboards](https://corporatefinanceinstitute.com/resources/management/contingency/)FMVA Required 1h 32min Excel Data Visualization and Dashboards](https://corporatefinanceinstitute.com/course/dashboards-and-data-visualization/)
+
+ [![Leveraged Buyout (LBO) Modeling](https://corporatefinanceinstitute.com/resources/management/contingency/)4h 33min Leveraged Buyout (LBO) Modeling](https://corporatefinanceinstitute.com/course/leveraged-buyout-lbo-modeling/)
+
+[See All Courses See All](https://corporatefinanceinstitute.com/collections/)
+
+Recent Searches
+
+Suggestions
+
+[Excel Courses](https://corporatefinanceinstitute.com/topic/excel/)
+ [Financial Modeling & Valuation Analyst (FMVA)®](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)

@@ -1,0 +1,176 @@
+# Excel AVEDEV function | Exceljet
+
+**Source:** https://exceljet.net/functions/avedev-function
+
+---
+
+[Skip to main content](https://exceljet.net/functions/avedev-function#main-content)
+
+[](https://exceljet.net/functions/avedev-function#)
+
+*   [Previous](https://exceljet.net/functions/tanh-function)
+    
+*   [Next](https://exceljet.net/functions/average-function)
+    
+
+Excel 2003
+
+[Statistical](https://exceljet.net/functions#Statistical)
+
+AVEDEV Function
+===============
+
+by Dave Bruns · Updated 22 Sep 2021
+
+Related functions 
+------------------
+
+[AVERAGE](https://exceljet.net/functions/average-function)
+
+[STDEV](https://exceljet.net/functions/stdev-function)
+
+[VAR](https://exceljet.net/functions/var-function)
+
+[DEVSQ](https://exceljet.net/functions/devsq-function)
+
+![Excel AVEDEV function](https://exceljet.net/sites/default/files/styles/original_with_watermark/public/images/functions/main/exceljet%20avedev%20function.png "Excel AVEDEV function")
+
+Summary
+-------
+
+The Excel AVEDEV function returns the average of the absolute value of deviations from the mean for a given set of data. Average deviation is a measure of variability.
+
+Purpose 
+--------
+
+Get sum of squared deviations
+
+Return value 
+-------------
+
+Calculated sum
+
+Syntax
+------
+
+    =AVEDEV(number1,[number2],...)
+
+*   _number1_ - First value or reference.
+*   _number2_ - \[optional\] Second value or reference.
+
+Using the AVEDEV function 
+--------------------------
+
+The Excel AVEDEV function calculates the average of absolute deviations from the mean in a given set of data. 
+
+Variance and standard deviation functions deal with negative deviations by squaring deviations before they are averaged. AVEDEV handles negative values by working only with absolute values. This average is called the average absolute deviation. It's an easy way to show variability in a data set, but not as common as variance and standard deviation. One advantage of AVEDEV is that units remain unchanged. If values are centimeters, the absolute average deviation is in centimeters as well.
+
+AVEDEV takes multiple [arguments](https://exceljet.net/glossary/function-argument)
+ in the form _number1_, _number2_, _number3_, etc. up to 255 total. Arguments can be a hardcoded constant, a cell reference, or a [range](https://exceljet.net/glossary/range)
+. Empty cells, and cells that contain text or logical values are ignored.
+
+### Examples
+
+In the example shown, the formula in G5 is:
+
+    =AVEDEV(B5:B10)
+    
+
+The formulas in C5 and D5 are, respectively:
+
+    =B5-$G$4 // deviation
+    =ABS(C5) // absolute deviation
+    
+
+The value in D12 (2) is simply the average of D5:D10, and agrees with the value returned by AVEDEV in G5.
+
+### Notes
+
+*   Arguments can be numbers, names, arrays, or references that contain numbers.
+*   Empty cells, and cells that contain text or logical values are ignored.
+
+Related functions
+-----------------
+
+[![Excel AVERAGE function](https://exceljet.net/sites/default/files/styles/card/public/images/functions/main/exceljet_average.png "Excel AVERAGE function")](https://exceljet.net/functions/average-function)
+
+### [AVERAGE Function](https://exceljet.net/functions/average-function)
+
+The Excel AVERAGE function calculates the average (arithmetic mean) of supplied numbers. AVERAGE can handle up to 255 individual arguments, which can include numbers, cell references, ranges, arrays, and constants.
+
+[![Excel STDEV function](https://exceljet.net/sites/default/files/styles/card/public/images/functions/main/exceljet_stdev.png "Excel STDEV function")](https://exceljet.net/functions/stdev-function)
+
+### [STDEV Function](https://exceljet.net/functions/stdev-function)
+
+The Excel STDEV function returns the standard deviation for data that represents a sample. To calculate the standard deviation for an entire population, use STDEVP or STDEV.P.
+
+[![Excel VAR function](https://exceljet.net/sites/default/files/styles/card/public/images/functions/main/exceljet_var.png "Excel VAR function")](https://exceljet.net/functions/var-function)
+
+### [VAR Function](https://exceljet.net/functions/var-function)
+
+The Excel VAR function estimates the variance of a sample of data. If data represents the entire population, use the VARP function or the newer VAR.P function. VAR ignores text values and logicals in references.
+
+[![Excel DEVSQ function](https://exceljet.net/sites/default/files/styles/card/public/images/functions/main/exceljet%20devsq%20function.png "Excel DEVSQ function")](https://exceljet.net/functions/devsq-function)
+
+### [DEVSQ Function](https://exceljet.net/functions/devsq-function)
+
+The Excel DEVSQ function returns the sum of the squared deviations from the mean for a given set of data. 
+
+Was this page helpful? Yes No Report a problem
+
+Cancel Submit
+
+![Dave Bruns Profile Picture](https://exceljet.net/sites/default/files/images/blocks/dave-round.webp)
+
+Author![Microsoft Most Valuable Professional Award](https://exceljet.net/sites/default/files/images/blocks/microsoft-mvp-logo.webp)
+
+### Dave Bruns
+
+Hi - I'm Dave Bruns, and I run Exceljet with my wife, Lisa. Our goal is to help you work faster in Excel. We create short videos, and clear examples of formulas, functions, pivot tables, conditional formatting, and charts.
+
+Related Information
+-------------------
+
+### Functions
+
+*   [AVERAGE Function](https://exceljet.net/functions/average-function)
+    
+*   [STDEV Function](https://exceljet.net/functions/stdev-function)
+    
+*   [VAR Function](https://exceljet.net/functions/var-function)
+    
+*   [DEVSQ Function](https://exceljet.net/functions/devsq-function)
+    
+
+### Links
+
+*   [Microsoft AVEDEV function documentation](https://support.office.com/en-us/article/avedev-function-58fe8d65-2a84-4dc7-8052-f3f87b5c6639)
+    
+
+Thank you for your very clear explanation on how to test for an existing tab name in a workbook using ISREF and INDIRECT. With your guidance, I am able to build a flexible template that can use variables to test...I really like your site layout and your concise directions. Thank you again!
+
+Thierry
+
+[More Testimonials](https://exceljet.net/feedback)
+
+Get [Training](https://exceljet.net/training)
+
+----------------------------------------------
+
+### Quick, clean, and to the point training
+
+Learn Excel with high quality video training. Our videos are quick, clean, and to the point, so you can learn Excel in less time, and easily review key topics when needed. Each video comes with its own practice worksheet.
+
+[View Paid Training & Bundles](https://exceljet.net/training)
+
+[![Excel foundational video course](https://exceljet.net/sites/default/files/styles/product_image/public/images/course/cover_core_excel.png "Excel foundational video course")](https://exceljet.net/training)
+
+[![Excel Pivot Table video training course](https://exceljet.net/sites/default/files/styles/product_image/public/images/course/cover_core_pivot.png "Excel Pivot Table video training course")](https://exceljet.net/training)
+
+[![Excel formulas and functions video training course](https://exceljet.net/sites/default/files/styles/product_image/public/images/course/cover_core_formula_0.png "Excel formulas and functions video training course")](https://exceljet.net/training)
+
+[![Excel Charts video training course](https://exceljet.net/sites/default/files/styles/product_image/public/images/course/cover_core_charts.png "Excel Charts video training course")](https://exceljet.net/training)
+
+[![Video training for Excel Tables](https://exceljet.net/sites/default/files/styles/product_image/public/images/course/cover_excel_tables.png "Video training for Excel Tables")](https://exceljet.net/training)
+
+[![Dynamic Array Formulas](https://exceljet.net/sites/default/files/styles/product_image/public/images/course/cover_dynamic_array_formulas_0.png "Dynamic Array Formulas")](https://exceljet.net/training)

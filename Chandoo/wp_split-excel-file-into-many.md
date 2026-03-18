@@ -1,0 +1,284 @@
+# Split an Excel File in to Many using VBA [Videos] » Chandoo.org - Learn Excel, Power BI & Charting Online
+
+**Source:** https://chandoo.org/wp/split-excel-file-into-many
+
+---
+
+*   [VBA Macros](https://chandoo.org/wp/category/vba-macros/)
+    
+
+Split an Excel File in to Many using VBA \[Videos\]
+===================================================
+
+*   Last updated on October 19, 2011
+
+![Picture of Chandoo](https://secure.gravatar.com/avatar/534f3043f65d0d27072d17a5dc64da8425eaf628f6915bb23d453d3f6cd3e5df?s=300&d=mm&r=g)
+
+#### Chandoo
+
+Share
+
+Facebook
+
+Twitter
+
+LinkedIn
+
+_**Splitting an Excel file in to many is easier**_ than splitting bill in a restaurant among friends. All you need is [advanced filters](http://chandoo.org/wp/2011/10/10/how-to-use-advanced-filters/ "Introduction & How to use Excel Advanced Filters")
+, a few lines of VBA code and some data. You can go splitting in no time.
+
+### Context:
+
+Lets say you have lots of data like this in a file. And you want to **split this in to multiple files, _one per salesperson_**.
+
+![Splitting An Excel File in to Many using VBA - Example Data](https://img.chandoo.org/vba/splitting-excel-files-sample-data.png)
+
+### Solution – Split Data in to Multiple Files using Advanced Filters & VBA
+
+The process of splitting data can be broken down to 4 steps.
+
+1.  Identify the split criteria and list down all values in a small range. In our case, we list all the salespersons names in a named range **_lstSalesman_**.  
+    ![List of all salespersons - Splitting data in to multiple files using VBA](https://chandoo.org/img/vba/list-of-all-salespersons-splitting-excel-files.png)
+2.  [**Set up advanced filters**](http://chandoo.org/wp/2011/10/10/how-to-use-advanced-filters/)
+     so that we can filter the data by one salesman at a time.  
+    ![Range where advanced filter criteria will be specified - Splitting data in to multiple files](https://chandoo.org/img/vba/advanced-filter-criteria-range.png)
+3.  Now, for each salesman, apply advanced filters and set it to copy the filtered values elsewhere.
+    1.  Copy the filtered values
+    2.  Add a new workbook and paste the copied values there.
+    3.  Save the new workbook with a unique name
+    4.  Repeat the above 3 steps for each salesman
+4.  That is all! You are done splitting.
+
+### Video Lesson on Splitting Data using Filters & VBA
+
+Since splitting data in to multiple files requires a bit of macro code & advanced filter knowledge, I have created a short lesson explaining how this works. Watch it below.
+
+\[If you are not able to see the video, [watch it on our Youtube Channel](http://www.youtube.com/watch?v=-vP0kbuyVvY)\
+\]
+
+_If you are new to VBA,_ [](http://chandoo.org/wp/2011/08/29/introduction-to-vba-macros/ "Introduction to VBA & Excel Macros")
+**[take our crash course](http://chandoo.org/wp/2011/08/29/introduction-to-vba-macros/ "Introduction to VBA & Excel Macros")
+_._**
+
+### Download Split Data Example Workbook
+
+[**Click here to download the split data example workbook**](https://img.chandoo.org/vba/break-data-example.xlsm)
+._**To use this,**_
+
+1.  Save the downloaded file to any folder.
+2.  Open the file and enable macros.
+3.  Examine everything and when ready, click on “Extract” button.
+4.  Check the folder where you saved the file and you will fine 4 new Excel workbooks named after the salespersons with the data extracted for them.
+
+You can find the macro code in _Module 1._
+
+### How do you Handle Splitting Situations?
+
+In my work, I rarely had to split data. And whenever I had to split data, I usually copy paste the data after filtering what I want. But I can imagine many real life scenarios where you need to automate the splitting part.
+
+How do you split data? What techniques and ideas you use to speed up the splitting process? _**Please share using comments.**_
+
+### More on Splitting & Consolidation
+
+If you are in to splitting or combining things, we have a selection of tips & examples to help you. Check out these articles.
+
+*   [Consolidating Data in Excel – a collection of techniques & tips](http://chandoo.org/wp/2010/02/19/excel-consolidate-data/)
+    
+*   [Split Text on new line using VBA](http://chandoo.org/wp/2011/08/23/split-text-on-new-line-macro/)
+    
+*   [Combining Data using Excel’s Consolidate Feature](http://chandoo.org/forums/topic/consolidate-data)
+    
+*   [Using 3D References to Consolidate Data](http://chandoo.org/wp/2009/02/04/satisfaction-surveys-excel/)
+    
+
+PS: Heck, we have even have an [Excel tip to tell you how to split expenses among friends](http://chandoo.org/wp/2008/01/25/how-to-sharing-trip-expenses-using-excel/)
+ 😛  
+PPS: You can [use Pivot Table Report Filters](http://chandoo.org/wp/2011/04/20/pivot-table-report-filters/)
+ if you want to split data _in to multiple sheets_.
+
+Facebook
+
+Twitter
+
+LinkedIn
+
+**Share this tip** with your colleagues
+
+![Excel and Power BI tips - Chandoo.org Newsletter](https://chandoo.org/wp/wp-content/uploads/2019/08/free-Excel-PBI-tips.png)
+
+### Get FREE Excel + Power BI Tips
+
+Simple, fun and useful emails, once per week.  
+  
+**Learn & be awesome.**
+
+*   [45 Comments](https://chandoo.org/wp/split-excel-file-into-many/#comments)
+    
+*   [Ask a question or say something...](https://chandoo.org/wp/split-excel-file-into-many/#respond)
+    
+*   Tagged under [advanced excel](https://chandoo.org/wp/tag/advanced-excel/)
+    , [advanced filters](https://chandoo.org/wp/tag/advanced-filters/)
+    , [consolidation](https://chandoo.org/wp/tag/consolidation/)
+    , [downloads](https://chandoo.org/wp/tag/downloads/)
+    , [for each](https://chandoo.org/wp/tag/for-each/)
+    , [Learn Excel](https://chandoo.org/wp/tag/excel/)
+    , [macros](https://chandoo.org/wp/tag/macros/)
+    , [split](https://chandoo.org/wp/tag/split/)
+    , [spreadsheets](https://chandoo.org/wp/tag/spreadsheets/)
+    , [using Ranges](https://chandoo.org/wp/tag/using-ranges/)
+    , [videos](https://chandoo.org/wp/tag/videos/)
+    
+*   Category: [VBA Macros](https://chandoo.org/wp/category/vba-macros/)
+    
+
+[PrevPreviousQuickly Fill Blank Cells in a Table \[Reader Tip\]](https://chandoo.org/wp/fill-blank-cells-in-a-table/)
+
+[NextThank you, We have a home \[personal story\]Next](https://chandoo.org/wp/thank-you-and-thanks-excel/)
+
+![](https://chandoo.org/wp/wp-content/uploads/2018/07/chandoo-instructor.png)
+
+### Welcome to Chandoo.org
+
+Thank you so much for visiting. My aim is to make **you awesome in Excel & Power BI.** I do this by sharing videos, tips, examples and downloads on this website. There are more than 1,000 pages with all things Excel, Power BI, Dashboards & VBA here. Go ahead and spend few minutes to be AWESOME.  
+  
+[Read my story](https://chandoo.org/wp/about/)
+ • [FREE Excel tips book](https://chandoo.org/wp/subscribe/)
+
+[![](https://chandoo.org/wp/wp-content/uploads/2019/08/fast-track-excel-book-signup-v3-med.png)](https://chandoo.org/wp/subscribe/)
+
+[Want an AWESOME  \
+Excel Class?](https://chandoo.org/wp/excel-school-program/)
+
+[![advanced-excel-dashboards-course-chandoo](https://chandoo.org/wp/wp-content/uploads/2019/08/advanced-excel-dashboards-course-chandoo.jpg)](https://chandoo.org/wp/excel-school-program/)
+
+Overall I learned a lot and I thought you did a great job of explaining how to do things. This will definitely elevate my reporting in the future.
+
+![](https://chandoo.org/wp/wp-content/uploads/2023/10/rebekah-spouser-1631059707542.jpeg)
+
+Rebekah S
+
+Reporting Analyst
+
+[FREE Goodies for you...](https://chandoo.org/wp/excel-school-program/)
+
+[![Excel formula list - 100+ examples and howto guide for you](https://chandoo.org/wp/wp-content/uploads/2018/06/100-formulas-excel-list.png)](https://chandoo.org/wp/excel-formula-list/)
+
+[100 Excel Formulas List](https://chandoo.org/wp/excel-formula-list/)
+
+From simple to complex, there is a formula for every occasion. Check out the list now.
+
+[![](https://chandoo.org/wp/wp-content/uploads/2018/07/free-excel-templates-v1.png)](https://chandoo.org/wp/free-excel-templates-download/)
+
+[20 Excel Templates](https://chandoo.org/wp/free-excel-templates-download/)
+
+Calendars, invoices, trackers and much more. All free, fun and fantastic.
+
+[![Advanced Pivot Table tricks](https://chandoo.org/wp/wp-content/uploads/2020/02/advanced-pivot-table-tricks.png)](https://chandoo.org/wp/advanced-pivot-tables)
+
+[13 Advanced Pivot Table Skills](https://chandoo.org/wp/advanced-pivot-tables)
+
+Power Query, Data model, DAX, Filters, Slicers, Conditional formats and beautiful charts. It's all here.
+
+[![](https://chandoo.org/wp/wp-content/uploads/2019/08/introduction-to-powerbi-chandoo-thumb.jpg)](https://chandoo.org/wp/powerbi-introduction/)
+
+[Get started with Power BI](https://chandoo.org/wp/powerbi-introduction/)
+
+Still on fence about Power BI? In this getting started guide, learn what is Power BI, how to get it and how to create your first report from scratch.
+
+Recent Articles on Chandoo.org
+
+[![2026 calendar and planner Excel template - how to use](https://chandoo.org/wp/wp-content/uploads/2025/12/screenshot-0282.png)](https://chandoo.org/wp/free-calendar-planner-excel-template-for-2026/)
+
+### [FREE Calendar & Planner Excel Template for 2026](https://chandoo.org/wp/free-calendar-planner-excel-template-for-2026/)
+
+Here is a fabulous New Year gift to you. A free 2025 Calendar Excel Template with built-in Activity planner. This is a fully dynamic and 100% customizable Excel calendar for 2025.
+
+[![Who is my boss's boss?](https://chandoo.org/wp/wp-content/uploads/2025/08/image.png)](https://chandoo.org/wp/who-is-my-boss-boss-data-challenge-001/)
+
+### [Who is my boss’s boss? \[Data Analytics Challenge – 001\]](https://chandoo.org/wp/who-is-my-boss-boss-data-challenge-001/)
+
+[![NZ GST Calculation - Excel Formula](https://chandoo.org/wp/wp-content/uploads/2025/07/nz-gst-calculation-excel-formula.png)](https://chandoo.org/wp/new-zealand-gst-calculation-with-excel-template/)
+
+### [New Zealand GST Calculation with Excel \[Free Template\]](https://chandoo.org/wp/new-zealand-gst-calculation-with-excel-template/)
+
+[![How to make a pivot from another pivot in Excel?](https://chandoo.org/wp/wp-content/uploads/2025/06/SNAG-0157.png)](https://chandoo.org/wp/make-a-pivot-from-another-pivot-table-in-excel/)
+
+### [Make a Pivot from Another Pivot Table in Excel](https://chandoo.org/wp/make-a-pivot-from-another-pivot-table-in-excel/)
+
+[![How to use XLOOKUP with two sheets in Excel?](https://chandoo.org/wp/wp-content/uploads/2025/06/SNAG-0152.png)](https://chandoo.org/wp/xlookup-with-two-sheets/)
+
+### [How to use XLOOKUP with two sheets?](https://chandoo.org/wp/xlookup-with-two-sheets/)
+
+Best of the lot
+
+*   [Excel for beginners](https://chandoo.org/wp/excel-basics/)
+    
+*   [Advanced Excel Skills](https://chandoo.org/wp/advanced-excel-skills/)
+    
+*   [Excel Dashboards](https://chandoo.org/wp/excel-dashboards/)
+    
+*   [Complete guide to Pivot Tables](https://chandoo.org/wp/excel-pivot-tables/)
+    
+*   [Top 10 Excel Formulas](https://chandoo.org/wp/top-10-formulas-for-aspiring-analysts/)
+    
+*   [Excel Shortcuts](https://chandoo.org/wp/complete-list-of-excel-shortcuts/)
+    
+*   [#Awesome Budget vs. Actual Chart](https://chandoo.org/wp/budget-vs-actual-chart-free-template/)
+    
+*   [40+ VBA Examples](https://chandoo.org/wp/excel-vba/examples/)
+    
+
+Related Tips
+------------
+
+[![developer ribbon in Excel](https://chandoo.org/wp/wp-content/uploads/2025/06/screenshot-0138.png)](https://chandoo.org/wp/how-to-enable-developer-ribbon-in-excel/)
+
+Excel Howtos
+
+### [How to enable developer ribbon in Excel?](https://chandoo.org/wp/how-to-enable-developer-ribbon-in-excel/)
+
+[![auto format excel values in thousands / millions / billions](https://chandoo.org/wp/wp-content/uploads/2024/07/SNAG-0072.png)](https://chandoo.org/wp/format-numbers-in-thousands-millions-billions-in-excel/)
+
+Charts and Graphs
+
+### [Automatically Format Numbers in Thousands, Millions, Billions in Excel \[2 Techniques\]](https://chandoo.org/wp/format-numbers-in-thousands-millions-billions-in-excel/)
+
+[![Get bolded portions of a column using getBoldText function](https://chandoo.org/wp/wp-content/uploads/2024/02/get-bold-text-excel.png)](https://chandoo.org/wp/get-the-bold-portion-of-a-cell-in-excel/)
+
+Excel Howtos
+
+### [Get all BOLD text out Excel Cells Automatically](https://chandoo.org/wp/get-the-bold-portion-of-a-cell-in-excel/)
+
+[![dynamic-map-chart-excel](https://chandoo.org/wp/wp-content/uploads/2023/05/dynamic-map-chart-excel.gif)](https://chandoo.org/wp/interactive-map-chart-in-excel/)
+
+Charts and Graphs
+
+### [Make an Impressive Interactive Map Chart in Excel](https://chandoo.org/wp/interactive-map-chart-in-excel/)
+
+[![Dynamic Business Dashboard](https://chandoo.org/wp/wp-content/uploads/2023/05/SNAG-2629.png)](https://chandoo.org/wp/how-to-create-a-dynamic-excel-dashboard-in-5-steps/)
+
+Charts and Graphs
+
+### [How to Create a Dynamic Excel Dashboard in Just 5 Steps](https://chandoo.org/wp/how-to-create-a-dynamic-excel-dashboard-in-5-steps/)
+
+[![project management dashboard - interactive & dynamic](https://chandoo.org/wp/wp-content/uploads/2021/05/project-management-dashboard-full-image.png)](https://chandoo.org/wp/interactive-project-dashboard-with-excel/)
+
+Charts and Graphs
+
+### [How to create a fully interactive Project Dashboard with Excel – Tutorial](https://chandoo.org/wp/interactive-project-dashboard-with-excel/)
+
+### Leave a Reply
+
+[Click here to cancel reply.](https://chandoo.org/wp/sand-pendulums-lissajous-patterns-in-excel/#respond)
+
+ Name (required)
+
+ Mail (will not be published) (required)
+
+ Website
+
+  
+
+ Notify me of when new comments are posted via e-mail
+
+Δ
