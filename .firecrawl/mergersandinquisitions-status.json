@@ -1,0 +1,14 @@
+{
+  "status": "done",
+  "total": 113,
+  "completed": 113,
+  "success": 113,
+  "failed": 0,
+  "skipped": 0,
+  "percent": 100,
+  "rate_per_sec": 0,
+  "est_remaining_min": 0,
+  "output_dir": "Mergers and Inquisitions",
+  "key": "mergersandinquisitions",
+  "name": "Mergers & Inquisitions"
+}

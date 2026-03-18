@@ -2,71 +2,97 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Scraping Dashboard</title>
+<title>Scraping Dashboard — 100 Sites</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0f1117; color: #e1e4e8; padding: 24px; }
-  h1 { font-size: 1.6rem; margin-bottom: 8px; color: #fff; }
-  .subtitle { color: #8b949e; margin-bottom: 24px; font-size: 0.9rem; }
-  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 16px; }
-  .card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px; transition: border-color 0.2s; }
+  h1 { font-size: 1.6rem; margin-bottom: 4px; color: #fff; }
+  .subtitle { color: #8b949e; margin-bottom: 16px; font-size: 0.9rem; }
+  .totals { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px; margin-bottom: 20px; display: grid; grid-template-columns: repeat(6, 1fr); gap: 16px; text-align: center; }
+  .total-value { font-size: 1.8rem; font-weight: 700; color: #fff; }
+  .total-label { font-size: 0.7rem; color: #8b949e; text-transform: uppercase; margin-top: 4px; }
+  .filters { margin-bottom: 16px; display: flex; gap: 8px; flex-wrap: wrap; }
+  .filters button { background: #21262d; border: 1px solid #30363d; color: #c9d1d9; padding: 6px 14px; border-radius: 8px; cursor: pointer; font-size: 0.8rem; }
+  .filters button.active { background: #1f6feb; border-color: #1f6feb; color: #fff; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px; }
+  .card { background: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 14px; transition: border-color 0.2s; }
   .card:hover { border-color: #58a6ff; }
-  .card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
-  .card-title { font-size: 1.05rem; font-weight: 600; color: #fff; }
-  .badge { font-size: 0.7rem; padding: 3px 8px; border-radius: 12px; font-weight: 600; text-transform: uppercase; }
+  .card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+  .card-title { font-size: 0.9rem; font-weight: 600; color: #fff; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 200px; }
+  .badge { font-size: 0.65rem; padding: 2px 7px; border-radius: 10px; font-weight: 600; text-transform: uppercase; flex-shrink: 0; }
   .badge-waiting { background: #30363d; color: #8b949e; }
   .badge-discovering { background: #1f2d1f; color: #3fb950; animation: pulse 1.5s infinite; }
   .badge-scraping { background: #1a2332; color: #58a6ff; animation: pulse 1.5s infinite; }
   .badge-done { background: #1f2d1f; color: #3fb950; }
-  .badge-error { background: #3d1f1f; color: #f85149; }
   @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.6; } }
-  .progress-bar { background: #21262d; border-radius: 6px; height: 8px; overflow: hidden; margin: 8px 0; }
-  .progress-fill { height: 100%; border-radius: 6px; transition: width 0.5s ease; }
+  .progress-bar { background: #21262d; border-radius: 5px; height: 6px; overflow: hidden; margin: 6px 0; }
+  .progress-fill { height: 100%; border-radius: 5px; transition: width 0.5s ease; }
   .fill-blue { background: linear-gradient(90deg, #1f6feb, #58a6ff); }
   .fill-green { background: linear-gradient(90deg, #238636, #3fb950); }
-  .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-top: 10px; }
-  .stat { text-align: center; }
-  .stat-value { font-size: 1.3rem; font-weight: 700; color: #fff; }
-  .stat-label { font-size: 0.7rem; color: #8b949e; text-transform: uppercase; }
-  .stat-ok .stat-value { color: #3fb950; }
-  .stat-fail .stat-value { color: #f85149; }
-  .meta { color: #8b949e; font-size: 0.78rem; margin-top: 8px; }
-  .totals { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px; margin-top: 20px; display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; text-align: center; }
-  .total-value { font-size: 2rem; font-weight: 700; color: #fff; }
-  .total-label { font-size: 0.75rem; color: #8b949e; text-transform: uppercase; margin-top: 4px; }
-  .refresh-info { text-align: center; color: #484f58; font-size: 0.8rem; margin-top: 16px; }
+  .stats-row { display: flex; justify-content: space-between; font-size: 0.75rem; color: #8b949e; }
+  .stat-ok { color: #3fb950; }
+  .stat-fail { color: #f85149; }
+  .refresh-info { text-align: center; color: #484f58; font-size: 0.75rem; margin-top: 16px; }
 </style>
 </head>
 <body>
 <h1>Financial Modelling Knowledge Base — Scraping Dashboard</h1>
-<p class="subtitle">Auto-refreshes every 5 seconds</p>
+<p class="subtitle">Auto-refreshes every 5 seconds | 100 websites</p>
 
-<div class="grid" id="cards"></div>
 <div class="totals" id="totals"></div>
+<div class="filters" id="filters"></div>
+<div class="grid" id="cards"></div>
 <p class="refresh-info" id="refreshInfo"></p>
 
 <script>
-const SITES = [
-  { key: "damodaran", name: "Damodaran (NYU)", folder: "Damodaran", url: "pages.stern.nyu.edu/~adamodar" },
-  { key: "macabacus", name: "Macabacus", folder: "Macabacus", url: "macabacus.com" },
-  { key: "cfi", name: "Corp. Finance Institute", folder: "CFI", url: "corporatefinanceinstitute.com" },
-  { key: "wallstreetprep", name: "Wall Street Prep", folder: "Wall Street Prep", url: "wallstreetprep.com" },
-  { key: "biws", name: "Breaking Into Wall St.", folder: "BIWS", url: "breakingintowallstreet.com" },
-  { key: "forvismazars", name: "Forvis Mazars", folder: "Forvis Mazars", url: "financialmodelling.forvismazars.com" },
-  { key: "pivotal180", name: "Pivotal180", folder: "Pivotal180", url: "pivotal180.com" },
-  { key: "fullstackmodeller", name: "Full Stack Modeller", folder: "Full Stack Modeller", url: "fullstackmodeller.com" },
+const SITES_URL = "sites_100.json";
+let allSites = [];
+let allStatuses = {};
+let currentFilter = "all";
+
+// Also include the original 8 Tier 1+2 sites
+const TIER12 = [
+  {key:"damodaran",name:"Damodaran (NYU)",folder:"Damodaran",url:"pages.stern.nyu.edu/~adamodar"},
+  {key:"macabacus",name:"Macabacus",folder:"Macabacus",url:"macabacus.com"},
+  {key:"cfi",name:"Corp. Finance Institute",folder:"CFI",url:"corporatefinanceinstitute.com"},
+  {key:"wallstreetprep",name:"Wall Street Prep",folder:"Wall Street Prep",url:"wallstreetprep.com"},
+  {key:"biws",name:"Breaking Into Wall St.",folder:"BIWS",url:"breakingintowallstreet.com"},
+  {key:"forvismazars",name:"Forvis Mazars",folder:"Forvis Mazars",url:"financialmodelling.forvismazars.com"},
+  {key:"pivotal180",name:"Pivotal180",folder:"Pivotal180",url:"pivotal180.com"},
+  {key:"fullstackmodeller",name:"Full Stack Modeller",folder:"Full Stack Modeller",url:"fullstackmodeller.com"},
+  // Original 3 sites
+  {key:"edbodmer",name:"Edward Bodmer",folder:"Project Finance",url:"edbodmer.com"},
+  {key:"sumproduct",name:"SumProduct",folder:"Sumproduct",url:"sumproduct.com"},
+  {key:"andypope",name:"Andy Pope",folder:"Andy Pope",url:"andypope.info"},
 ];
 
-function badge(status) {
+async function loadSites() {
+  try {
+    const resp = await fetch(SITES_URL + "?t=" + Date.now());
+    const sites100 = await resp.json();
+    allSites = [...TIER12, ...sites100];
+  } catch {
+    allSites = [...TIER12];
+  }
+}
+
+function badgeHtml(status) {
   const map = {
     waiting: '<span class="badge badge-waiting">Waiting</span>',
     discovering: '<span class="badge badge-discovering">Discovering</span>',
     scraping: '<span class="badge badge-scraping">Scraping</span>',
     done: '<span class="badge badge-done">Done</span>',
-    error: '<span class="badge badge-error">Error</span>',
   };
   return map[status] || map.waiting;
+}
+
+function getStatus(s) {
+  if (!s) return "waiting";
+  if (s.status === "discovering") return "discovering";
+  if (s.status === "done" || (s.completed >= s.total && s.total > 0)) return "done";
+  if (s.completed > 0 || s.total > 0) return "scraping";
+  return "waiting";
 }
 
 async function loadStatus(key) {
@@ -78,73 +104,93 @@ async function loadStatus(key) {
 }
 
 async function refresh() {
-  const container = document.getElementById("cards");
-  const totalsEl = document.getElementById("totals");
-  let html = "";
-  let grandTotal = 0, grandCompleted = 0, grandSuccess = 0, grandFailed = 0, activeSites = 0;
+  if (allSites.length === 0) await loadSites();
 
-  for (const site of SITES) {
-    const s = await loadStatus(site.key);
-    let status = "waiting", pct = 0, total = 0, completed = 0, success = 0, failed = 0, rate = 0, eta = "";
+  // Load all statuses
+  const promises = allSites.map(async site => {
+    allStatuses[site.key] = await loadStatus(site.key);
+  });
+  await Promise.all(promises);
 
+  // Counts
+  let counts = {all:0, done:0, scraping:0, discovering:0, waiting:0};
+  let grandTotal=0, grandCompleted=0, grandSuccess=0, grandFailed=0;
+
+  allSites.forEach(site => {
+    const s = allStatuses[site.key];
+    const st = getStatus(s);
+    counts.all++;
+    counts[st]++;
     if (s) {
-      total = s.total || 0;
-      completed = s.completed || 0;
-      success = s.success || 0;
-      failed = s.failed || 0;
-      pct = s.percent || (total > 0 ? Math.round(completed / total * 1000) / 10 : 0);
-      rate = s.rate_per_sec || 0;
-      eta = s.est_remaining_min ? `~${s.est_remaining_min} min left` : "";
-      if (s.status === "discovering") status = "discovering";
-      else if (completed >= total && total > 0) status = "done";
-      else if (completed > 0) status = "scraping";
-      else if (total > 0) status = "scraping";
-
-      grandTotal += total;
-      grandCompleted += completed;
-      grandSuccess += success;
-      grandFailed += failed;
-      if (status === "scraping" || status === "discovering") activeSites++;
+      grandTotal += s.total || 0;
+      grandCompleted += s.completed || 0;
+      grandSuccess += s.success || 0;
+      grandFailed += s.failed || 0;
     }
+  });
 
-    const fillClass = status === "done" ? "fill-green" : "fill-blue";
-
-    html += `
-      <div class="card">
-        <div class="card-header">
-          <span class="card-title">${site.name}</span>
-          ${badge(status)}
-        </div>
-        <div style="color:#8b949e;font-size:0.8rem;margin-bottom:6px">${site.url} → ${site.folder}/</div>
-        <div class="progress-bar"><div class="progress-fill ${fillClass}" style="width:${pct}%"></div></div>
-        <div style="display:flex;justify-content:space-between;font-size:0.8rem;color:#8b949e">
-          <span>${completed}/${total} pages (${pct}%)</span>
-          <span>${eta}</span>
-        </div>
-        <div class="stats">
-          <div class="stat stat-ok"><div class="stat-value">${success}</div><div class="stat-label">Saved</div></div>
-          <div class="stat stat-fail"><div class="stat-value">${failed}</div><div class="stat-label">Failed</div></div>
-          <div class="stat"><div class="stat-value">${rate}/s</div><div class="stat-label">Speed</div></div>
-        </div>
-      </div>`;
-  }
-
-  container.innerHTML = html;
-
-  const grandPct = grandTotal > 0 ? Math.round(grandCompleted / grandTotal * 10) / 10 : 0;
-  totalsEl.innerHTML = `
-    <div><div class="total-value">${SITES.length}</div><div class="total-label">Sites</div></div>
+  // Totals
+  document.getElementById("totals").innerHTML = `
+    <div><div class="total-value">${counts.all}</div><div class="total-label">Sites</div></div>
+    <div><div class="total-value" style="color:#3fb950">${counts.done}</div><div class="total-label">Done</div></div>
+    <div><div class="total-value" style="color:#58a6ff">${counts.scraping + counts.discovering}</div><div class="total-label">Active</div></div>
     <div><div class="total-value">${grandTotal.toLocaleString()}</div><div class="total-label">Total URLs</div></div>
-    <div><div class="total-value">${grandCompleted.toLocaleString()}</div><div class="total-label">Completed</div></div>
     <div><div class="total-value" style="color:#3fb950">${grandSuccess.toLocaleString()}</div><div class="total-label">Saved</div></div>
     <div><div class="total-value" style="color:#f85149">${grandFailed.toLocaleString()}</div><div class="total-label">Failed</div></div>
   `;
 
-  document.getElementById("refreshInfo").textContent = `Last refresh: ${new Date().toLocaleTimeString()} — ${activeSites} active`;
+  // Filters
+  const filterBtns = [
+    {id:"all", label:`All (${counts.all})`},
+    {id:"scraping", label:`Active (${counts.scraping + counts.discovering})`},
+    {id:"done", label:`Done (${counts.done})`},
+    {id:"waiting", label:`Waiting (${counts.waiting})`},
+  ];
+  document.getElementById("filters").innerHTML = filterBtns.map(b =>
+    `<button class="${currentFilter===b.id?'active':''}" onclick="currentFilter='${b.id}';refresh()">${b.label}</button>`
+  ).join("");
+
+  // Cards
+  let html = "";
+  allSites.forEach(site => {
+    const s = allStatuses[site.key];
+    const st = getStatus(s);
+
+    if (currentFilter !== "all") {
+      if (currentFilter === "scraping" && st !== "scraping" && st !== "discovering") return;
+      if (currentFilter === "done" && st !== "done") return;
+      if (currentFilter === "waiting" && st !== "waiting") return;
+    }
+
+    const total = s?.total || 0;
+    const comp = s?.completed || 0;
+    const ok = s?.success || 0;
+    const fail = s?.failed || 0;
+    const pct = s?.percent || (total > 0 ? Math.round(comp/total*1000)/10 : 0);
+    const rate = s?.rate_per_sec || 0;
+    const eta = s?.est_remaining_min ? `~${s.est_remaining_min}m` : "";
+    const fillClass = st === "done" ? "fill-green" : "fill-blue";
+
+    html += `<div class="card">
+      <div class="card-header">
+        <span class="card-title" title="${site.name}">${site.name}</span>
+        ${badgeHtml(st)}
+      </div>
+      <div class="progress-bar"><div class="progress-fill ${fillClass}" style="width:${pct}%"></div></div>
+      <div class="stats-row">
+        <span>${comp}/${total} (${pct}%)</span>
+        <span class="stat-ok">${ok} saved</span>
+        <span class="stat-fail">${fail} fail</span>
+        <span>${eta}</span>
+      </div>
+    </div>`;
+  });
+
+  document.getElementById("cards").innerHTML = html;
+  document.getElementById("refreshInfo").textContent = `Last refresh: ${new Date().toLocaleTimeString()}`;
 }
 
-refresh();
-setInterval(refresh, 5000);
+loadSites().then(() => { refresh(); setInterval(refresh, 5000); });
 </script>
 </body>
 </html>

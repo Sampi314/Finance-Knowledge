@@ -1,11 +1,12 @@
 {
+  "status": "done",
   "total": 1294,
-  "completed": 505,
+  "completed": 1294,
   "success": 380,
-  "failed": 125,
+  "failed": 914,
   "skipped": 0,
-  "percent": 39.0,
-  "rate_per_sec": 0.09,
-  "est_remaining_min": 145.9,
+  "percent": 100,
+  "rate_per_sec": 0,
+  "est_remaining_min": 0,
   "output_dir": "Forvis Mazars"
 }
