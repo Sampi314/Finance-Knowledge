@@ -1,0 +1,61 @@
+[pivotal180] Discovering URLs from https://pivotal180.com...
+[pivotal180] Map found 238 URLs
+  Seed https://pivotal180.com/: 29 links
+  Seed https://pivotal180.com/free-resources/: 34 links
+  Seed https://pivotal180.com/blog/: 6 links
+  Seed https://pivotal180.com/free-resources-project-finance-modeling/: 40 links
+[pivotal180] Seed pages found 68 links
+[pivotal180] 254 URLs to scrape
+[pivotal180] Skipping 5 already scraped
+  [pivotal180] 10/254 (3.9%) OK:10 FAIL:0
+  [pivotal180] 15/254 (5.9%) OK:15 FAIL:0
+  [pivotal180] 20/254 (7.9%) OK:20 FAIL:0
+  [pivotal180] 25/254 (9.8%) OK:25 FAIL:0
+  [pivotal180] 30/254 (11.8%) OK:30 FAIL:0
+  [pivotal180] 35/254 (13.8%) OK:35 FAIL:0
+  [pivotal180] 40/254 (15.7%) OK:40 FAIL:0
+  [pivotal180] 45/254 (17.7%) OK:45 FAIL:0
+  [pivotal180] 50/254 (19.7%) OK:50 FAIL:0
+  [pivotal180] 55/254 (21.7%) OK:55 FAIL:0
+  [pivotal180] 60/254 (23.6%) OK:60 FAIL:0
+  [pivotal180] 65/254 (25.6%) OK:65 FAIL:0
+  [pivotal180] 70/254 (27.6%) OK:70 FAIL:0
+  [pivotal180] 75/254 (29.5%) OK:75 FAIL:0
+  [pivotal180] 80/254 (31.5%) OK:80 FAIL:0
+  [pivotal180] 85/254 (33.5%) OK:85 FAIL:0
+  [pivotal180] 90/254 (35.4%) OK:90 FAIL:0
+  [pivotal180] 95/254 (37.4%) OK:95 FAIL:0
+  [pivotal180] 100/254 (39.4%) OK:100 FAIL:0
+  [pivotal180] 105/254 (41.3%) OK:105 FAIL:0
+  [pivotal180] 110/254 (43.3%) OK:110 FAIL:0
+  [pivotal180] 115/254 (45.3%) OK:115 FAIL:0
+  [pivotal180] 120/254 (47.2%) OK:120 FAIL:0
+  [pivotal180] 125/254 (49.2%) OK:125 FAIL:0
+  [pivotal180] 130/254 (51.2%) OK:130 FAIL:0
+  [pivotal180] 135/254 (53.1%) OK:135 FAIL:0
+  [pivotal180] 140/254 (55.1%) OK:140 FAIL:0
+  [pivotal180] 145/254 (57.1%) OK:145 FAIL:0
+  [pivotal180] 150/254 (59.1%) OK:150 FAIL:0
+  [pivotal180] 155/254 (61.0%) OK:155 FAIL:0
+  [pivotal180] 160/254 (63.0%) OK:160 FAIL:0
+  [pivotal180] 165/254 (65.0%) OK:165 FAIL:0
+  [pivotal180] 170/254 (66.9%) OK:170 FAIL:0
+  [pivotal180] 175/254 (68.9%) OK:175 FAIL:0
+  [pivotal180] 180/254 (70.9%) OK:180 FAIL:0
+  [pivotal180] 185/254 (72.8%) OK:185 FAIL:0
+  [pivotal180] 190/254 (74.8%) OK:190 FAIL:0
+  [pivotal180] 195/254 (76.8%) OK:195 FAIL:0
+  [pivotal180] 200/254 (78.7%) OK:200 FAIL:0
+  [pivotal180] 205/254 (80.7%) OK:205 FAIL:0
+  [pivotal180] 210/254 (82.7%) OK:210 FAIL:0
+  [pivotal180] 215/254 (84.6%) OK:215 FAIL:0
+  [pivotal180] 220/254 (86.6%) OK:220 FAIL:0
+  [pivotal180] 225/254 (88.6%) OK:225 FAIL:0
+  [pivotal180] 230/254 (90.6%) OK:230 FAIL:0
+  [pivotal180] 235/254 (92.5%) OK:235 FAIL:0
+  [pivotal180] 240/254 (94.5%) OK:240 FAIL:0
+  [pivotal180] 245/254 (96.5%) OK:245 FAIL:0
+  [pivotal180] 250/254 (98.4%) OK:250 FAIL:0
+  [pivotal180] 254/254 (100.0%) OK:254 FAIL:0
+
+[pivotal180] DONE: 254 saved, 0 failed, 5 skipped out of 254

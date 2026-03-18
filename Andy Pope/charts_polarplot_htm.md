@@ -1,0 +1,46 @@
+# Polar plot
+
+**Source:** https://www.andypope.info/charts/polarplot.htm
+
+---
+
+[![AJP Excel Information](https://www.andypope.info/Site_Images/excel_white.png)](https://www.andypope.info/index.htm)
+ AJP Excel Information
+
+[![](https://www.andypope.info/Site_Images/nav_pagereturn.png)](https://www.andypope.info/charts.htm "Go up a section")
+ ![](https://www.andypope.info/Site_Images/nav_pageback.png "Go Back to previous page")
+
+### Polar Plot add-in.
+
+ 
+
+|     |     |
+| --- | --- |
+|     | ![](https://www.andypope.info/charts/polarplotaddin.gif)<br>-------------------------------------------------------- |
+|     | ##### The [add-in](https://www.andypope.info/charts/polarplotter_addin.zip)<br> helps you to create a polar plot of your angle and distance data.<br><br>##### Examples charts created with the add-in.<br><br>##### ![](https://www.andypope.info/charts/ppexample1.gif)<br><br>##### ![](https://www.andypope.info/charts/ppexample2.gif)<br><br>##### ![](https://www.andypope.info/charts/ppexample3.gif)<br><br>##### This [workbook](https://www.andypope.info/charts/polarplot_examples.zip)<br> contains examples on polar plots.<br><br>*   ##### v1.1 Removal of unnecessary library references<br>    <br>*   ##### v1.2 Handles multiple distance data series  <br>    Allows suppression of line and marker<br>    <br>*   ##### v1.3 Updated invalid references<br>    <br>*   ##### v1.4 Correct handling of data references when creating chart sheet<br>    <br>*   ##### v1.5 Plot either clockwise or anti-clockwise,  <br>    Specify start angle,  <br>    Remember radian setting<br>    <br>*   #####  v1.6 Fix of bug when plotting multiple data series and changing plot direction or start angle<br>    <br>*   ##### v1.7 Fix of bug when calculating radians for clockwise plot |
+
+    
+[![](https://www.andypope.info/site_images/nav_download.png)](https://www.andypope.info/charts/polarplot_examples.zip)
+
+Created August 2004
+
+Last updated 5th August 2014 
+
+  
+           [![Return to main page](https://www.andypope.info/Site_Images/nav_home.png)](https://www.andypope.info/index.htm "Return to home page")
+ [![Chart Section](https://www.andypope.info/Site_Images/nav_charts.png)](https://www.andypope.info/charts.htm "Goto Charts Section")
+ [![VBA section](https://www.andypope.info/Site_Images/nav_vba.png)](https://www.andypope.info/vba.htm "Goto VBA Section")
+ [![Fun and games section](https://www.andypope.info/Site_Images/nav_fun.png)](https://www.andypope.info/fun.htm "Goto Fun & Games Section")
+ [![Forum files](https://www.andypope.info/Site_Images/nav_forum.png)](https://www.andypope.info/newsgroups.htm "Goto Forum Section")
+ [![Tips section](https://www.andypope.info/Site_Images/nav_tips.png)](https://www.andypope.info/tips.htm "Goto Tips & Tricks Section")
+ [![Links section](https://www.andypope.info/Site_Images/nav_links.png)](https://www.andypope.info/links.htm "Goto Excel Resources Section")
+ [![Book section](https://www.andypope.info/Site_Images/nav_books.png)](https://www.andypope.info/books.htm "Goto Books section")
+ [![Site information](https://www.andypope.info/Site_Images/nav_info.png)](https://www.andypope.info/about.htm "Goto About Section")
+ [![Site Search](https://www.andypope.info/Site_Images/nav_search.png)](https://www.andypope.info/search.htm "Goto Site Search")
+[![RSS feed](https://www.andypope.info/Site_Images/nav_rss.png)](https://www.andypope.info/feed/feed.xml "RSS Feed")
+ [![Top of page](https://www.andypope.info/Site_Images/nav_top.png)](https://www.andypope.info/charts/polarplot.htm#Top "Return to top of page")
+
+  
+  
+Microsoft® and Microsoft® Excel are registered trademarks of the Microsoft Corporation.  
+andypope.info is not associated with Microsoft. Copyright ©2007-2016 Andy Pope

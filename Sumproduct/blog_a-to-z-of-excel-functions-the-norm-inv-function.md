@@ -1,0 +1,184 @@
+# A to Z of Excel Functions: The NORM.INV Function
+
+**Source:** https://sumproduct.com/blog/a-to-z-of-excel-functions-the-norm-inv-function/
+
+---
+
+[Home](https://sumproduct.com/)
+
+\> A to Z of Excel Functions: The NORM.INV Function
+
+*   December 11, 2022
+
+A to Z of Excel Functions: The NORM.INV Function
+================================================
+
+A to Z of Excel Functions: The NORM.INV Function
+================================================
+
+12 December 2022
+
+_Welcome back to our regular A to Z of Excel Functions blog. Today we look at the **NORM.INV** function._
+
+**The NORM.INV function**
+
+Imagine I toss an unbiased coin; half of the time it will come down heads, half tails:
+
+![](https://sumproduct.com/wp-content/uploads/2025/05/8c42e5c3d75293d7de6e078e3021e390.jpg)
+
+It is not the most exciting chart I have ever constructed, but it’s a start.
+
+If I toss two coins, I get four possibilities: two Heads, a Head and a Tail, a Tail and a Head, and two Tails.
+
+![](https://sumproduct.com/wp-content/uploads/2025/05/cebafd6b710230128938f5cb64fbb3d4.jpg)
+
+In summary, I should get two heads a quarter of the time, one head half of the time and no heads a quarter of the time. Note that (1/4) + (1/2) + (1/4) = 1. These fractions are the probabilities of the events occurring and the sum of all possible outcomes must always add up to 1.
+
+The story is similar if we consider 16 coin tosses say:
+
+![](https://sumproduct.com/wp-content/uploads/2025/05/d9f3750b01022061145a1ea9bd5bdb44.jpg)
+
+Again, if you were to add up all of the individual probabilities, they would total to 1. Notice that in symmetrical distributions (such as this one) it is common for the most likely event (here, eight heads) to be the event at the midpoint.
+
+Of course, why should we stop at 16 coin tosses?
+
+![](https://sumproduct.com/wp-content/uploads/2025/05/daf577d100295d5c2d07a9962d56d96a.jpg)
+
+All of these charts represent **_probability distributions_**, _i.e._ it displays how the probabilities of certain events occurring are distributed. If we can formulate a probability distribution, we can estimate the likelihood of a particular event occurring (_e.g._ probability of precisely 47 heads from 100 coin tosses is 0.0666, probability of less than or equal to 25 heads occurring in 100 coin tosses is 2.82 x 10\-7).
+
+Now, I would like to ask the reader to verify this last chart. Assuming you can toss 100 coins, count the number of heads and record the outcome at one coin toss per second, it shouldn’t take you more than 4.0 X 1022**_centuries_** to generate every permutation. Even if we were to simulate this experiment using a computer programme capable of generating many calculations a second it would not be possible. For example, in February 2012, the _Japan Times_ announced a new computer that could compute 10,000,000,000,000,000 calculations per second. If we could use this computer, it would only take us a mere 401,969 years to perform this computation. Sorry, but I can’t afford the electricity bill.
+
+Let’s put this all into perspective. All I am talking about here is considering 100 coin tosses. If only business were that _simple_. Potential outcomes for a business would be much more complex. Clearly, if we want to consider all possible outcomes, we can only do this using some sampling technique based on understanding the underlying probability distributions.
+
+**_Probability Distributions_**
+
+If I plotted charts for 1,000 or 10,000 coin tosses similar to the above, I would generate similarly shaped distributions. This classic distribution which only allows for two outcomes is known as the **Binomial distribution** and is regularly used in probabilistic analysis.
+
+The 100 coin toss chart shows that the average (or ‘**expected**‘ or ‘**mean**‘) number of heads here is 50. This can be calculated using a weighted average in the usual way. The ‘spread’ of heads is clearly quite narrow (tapering off very sharply at less than 40 heads or greater than 60). This spread is measured by statisticians using a measure called **standard deviation** which is defined as the square root of the average value of the square of the difference between each possible outcome and the mean, _i.e._
+
+![](<Base64-Image-Removed>)
+
+where: **σ** = standard deviation
+
+**N** = total number of possible outcomes
+
+**Σ** = summation
+
+**xi** = each outcome event (from first **x1** to last **xN**)
+
+**μ** = mean or average
+
+The Binomial distribution is not the most common distribution used in probability analysis: that honour belongs to the **Gaussian** or **Normal distribution**:
+
+![](<Base64-Image-Removed>)
+
+The Central Limit Theorem states that the sampling distribution of the sample means approaches a normal distribution as the sample size gets larger — no matter what the shape of the population distribution. This is why this distribution is so important in probability and statistics.
+
+Generated by a complex mathematical formula, this distribution is defined by specifying the **mean** and **standard deviation** (see above). The Normal distribution’s population is spread as follow:
+
+![](<Base64-Image-Removed>)
+
+_i.e._ 68% of the population is within one standard deviation of the mean, 95% within two standard deviations and 99.7% within three standard deviations.
+
+The formula for the Normal distribution is given by
+
+![](<Base64-Image-Removed>)
+
+However, sometimes you may wish to determine **x** for a given probability, known as the inverse function. Excel has the function **NORM.INV** to calculate the inverse of the normal cumulative distribution for the specified mean and standard deviation.
+
+Its syntax is:
+
+**NORM.INV(probability, mean, standard\_deviation)**
+
+**NORM.INV** has the following arguments:
+
+*   **probability**: this is required and represents a probability corresponding to the normal distribution
+*   **mean**:this is required and denotes the arithmetic mean of the distribution
+*   **standard\_deviation** :this last argument is also required. This is the standard deviation of the distribution.
+
+It should be further noted that:
+
+*   since Excel 2007, Microsoft has updated many of its statistical functions. This function supersedes **NORMINV**. If you are new to both of these functions, I would suggest using **NORM.INV** as Microsoft has advised it may not support the original function in future versions of Excel
+*   if any argument is nonnumeric, **NORM.INV** returns the _#VALUE!_ error value
+*   if **probability** ≤0 or if ≥ 1, **NORM.INV** returns the _#NUM!_error value
+*   if **standard\_deviation** ≤ 0, **NORM.INV** returns the _#NUM!_ error value
+*   if **mean**\= 0 and **standard\_deviation** = 1, **NORM.INV** uses the standard normal distribution, **NORM.S.INV**
+*   given a value for **probability**, **NORM.INV**seeks that value **x** such that **NORM.DIST(x, mean, standard\_deviation, TRUE) = probability**. Thus, precision of **NORM.INV** depends upon the precision of **NORM.DIST**.
+
+Please see my example below:
+
+![](<Base64-Image-Removed>)
+
+**_Extending the Idea to Simulations Analysis_**
+
+For any given distribution, we cannot model every possible combination / permutation of outcomes. The aim is to analyse a representative sample based on a known, or assumed, probability distribution.
+
+There are various ways to sample, with the most popular approach being the “Monte Carlo” method, which involves picking data randomly (_i.e._ using no stratification or bias). Excel’s **RAND()** function picks a number between 0 and 1 randomly, which is very useful as cumulative probabilities can only range between 0 and 1.
+
+**NORM.INV(probability, mean, standard\_deviation)** returns the value **x** such that the cumulative probability specified (**probability**) represents the observed value of a Normal random variable with specified **mean** and **standard\_deviation** is less than or equal to **x**. In essence, this is the inverse function of **NORM.DIST(x, mean, standard\_deviation, TRUE)**.
+
+Therefore, we can get Excel to pick a random number between zero (0) and one (1), and for a given mean and standard deviation, generate a particular outcome appropriate to the probability distribution specified, which can then be used in the model as in the following illustration:
+
+![](<Base64-Image-Removed>)
+
+**\=NORM.INV(RAND(),Mean\_Sales,SD\_Sales)**
+
+The mean and standard deviation are easy to calculate – simply list all of your historical data and use the Excel functions **AVERAGE** for mean and **STDEV.S** for the standard deviation.
+
+Here, three variables, **Sales**,**Foreign Exchange** and **Gross Margin** all employ the **NORM.INV** function to generate the assumptions needed to calculate the Gross Profit. We can run the simulation a given number of times by running a simple one-dimensional Data Table.
+
+The actual approach is a little crafty though:
+
+![](<Base64-Image-Removed>)
+
+Since the variables use the **RAND** function to generate random numbers, each time the end user presses **ENTER** or **F9**, the variables will recalculate (this quality is known as ‘volatility’). I have created a Data Table (**ALT + D + T**) to create multiple trials (the headings are actually the outputs required using clever number formatting to disguise what they are). Once dynamic arrays become Generally Available, this technique will become even simpler.
+
+Since each Data Table entry causes the model to recalculate for each column input, the values will change automatically. On this basis, note that the column input cell in the example above refers to **E30** (the cell highlighted in yellow) which is unused by any formula on the spreadsheet.
+
+The example in the [attached Excel file](https://www.sumproduct.com/assets/user-upload/sp-simulation-examples1.xlsm)
+ has 1,000 rows (_i.e._1,000 simulations). Since the variables have been generated randomly, this is a simple Monte Carlo simulation – no fancy software or macros required!
+
+It only requires a quick collation step to summarise the outputs graphically:
+
+![](<Base64-Image-Removed>)
+
+Please refer to the file for more details.
+
+It should be noted that there are three key issues to consider:
+
+1.  not all variables are Normally distributed. Consequently, using the **NORM.INV** function may be inappropriate in some instances
+2.  the above example has assumed all variables are independent. If there are interrelationships or correlations between inputs, this simple approach would need to be revised accordingly
+3.  working with probabilities is notoriously counter-intuitive. Take care with interpreting results and always remember that the results only represent a sample of possible outcomes (the sample size may be too small for extrapolation to the entire population). If in doubt, consult an expert (hi, we are over here…).
+
+_We’ll continue our A to Z of Excel Functions soon. Keep checking back – there’s a new blog post every business day._
+
+[More Blog Articles](https://www.sumproduct.com/blog)
+
+*   [Log in](https://sumproduct.com/blog/a-to-z-of-excel-functions-the-norm-inv-function/#0)
+    
+*   [Register](https://sumproduct.com/blog/a-to-z-of-excel-functions-the-norm-inv-function/#0)
+    
+
+Remember me 
+
+Sign in
+
+      
+
+[Forgot your password?](https://sumproduct.com/blog/a-to-z-of-excel-functions-the-norm-inv-function/#0)
+
+Create account
+
+      
+
+Lost your password? Please enter your email address. You will receive mail with link to set new password.
+
+  
+
+Reset password
+
+[Back to login](https://sumproduct.com/blog/a-to-z-of-excel-functions-the-norm-inv-function/#0)
+
+[](https://sumproduct.com/blog/a-to-z-of-excel-functions-the-norm-inv-function/#0 "close")
+
+top

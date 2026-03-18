@@ -1,0 +1,173 @@
+# Pivotal180 Newsletter January 2026
+
+**Source:** https://pivotal180.com/pivotal180-newsletter-january-2026
+
+---
+
+[Skip to content](https://pivotal180.com/pivotal180-newsletter-january-2026/#fl-main-content)
+
+Pivotal180 Newsletter January 2026
+==================================
+
+By Alison Leckie | January 10, 2026
+
+Dear there,
+
+In this newsletter, we have included the following content:
+
+*   Free Resources Update
+*   Course Portfolio and Scheduled Courses
+*   Online Courses Available 
+
+Please feel free to check out all our videos on [Pivotal180’s YouTube.](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVmZs3m2nnW7lCdLW6lZ3lZW2BZFBV2GCtJGW5vZxNR1gDRD_W6T_2-n1kQbn0W2vSQ744q1Py3W4q0WS45rFQTMW3xtDxR8sbm1_W2Km_0m7885VWW4_sS9424z4MFW443M2l6tRDlgW7KKr5-76xs13Ml9tB5hxmtbW3V63dQ8cNWwgW94mYWf1hLlwfW6Pk65Q865TPSW6fMk7b6H1b9FW3m4g766Wtb9GV5jpwD32Dc7QV54VRv5PlflWW2gRNFQ19VHGnW2k_f-f12M8JfVSXNGk2MYyM1W9cQ8J76BJSVtV531NL19XDGJW7XDdpp99rVw8f1QFW-804)
+
+Kind regards,
+
+The Pivotal180 Team.
+
+[**Free Resources Update**](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVmZs3m2nnW7lCdLW6lZ3lmW8Cd-kk2bRsjdW64Nk9T1Q2Zk3W7SNm-R9kc_lgW6vVWzl46WZJ1W3z3T0G52ZQ_2W9ls5ns3KRCfhW33QVpK7VbPY8Mg42YVkWBSWW1z6pcj4jFPdRW14pG2r73YD7tW8FXLdX11DWrgW6Dc6531WcgMHW66dhZ_604dg6N4FQ2PC9sx0GN255pk99jPfyW6dlmp54k6gG0W7ML8BS7G5RhQW2lw7sZ6ZFP-8W163gsr1MFKshW5z1Yv172MW3CVWYVJ224TnB_N6RkTdpgTKH9W1NyHgx8B9q1RVN5m5Y8bVn01f3j1yp604)
+[**What Is a DSRA? What It Is and How It Works in Project Finance**](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVm-23m2nnW8wLKSR6lZ3ljW957lXw31kN2ZW35zLBd40ND5NW84Pydd88kpQGW3SDh1776wTCWW2dc9Vn3CCbXhW31yLx36x6g6sN2_T7-SGXRJHW1b3MX52MWD50N46F8XPl3sNjW4p9t7y4x2b9wW5v53GG2snY89W2GmVhJ497QWtW8pNSqp8JZDmZMYdJ42SX2PCW71hdwD7P19gqW8X-Wpb1pnS9SW8N722S7Nq_sNW8Vy4yp28mxvvW4z3tpD3bQRYjW8H7Y5-6wswg8N6vjKw51MPGwW4c7PTN9dqBNwW6tbyHv7F0YCsW7XQWv34JsLdTW5YM3V8429QKQW17-YQQ8nxhS7N776Vt062r2JW6j0HrL2-XSqpf4YJj7T04)
+
+The Debt Service Reserve Account, DSRA for short is one of the most common features in project finance loans. Yet it is also one of the more challenging and frequently misunderstood mechanics for junior analysts and other new modelers. [**Learn More**](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVm-23m2nnW8wLKSR6lZ3pCW3T8TGH2wWMdRW891v4d726ZlQW72_Mjf4jF2LyW7dlrzn8tb472V_Mh526BSyNlW6nqW973HrBhZW1gCw5c8Rjy9PW6_HM0r7x5czpW39bZJQ2WHLQVW8HmqPG6RCkkVW9h612L74VrfKW2w5RFj6Zksv1W9bgG8Q6qyP68W64vX9b2KDwC7W8VCyl127K9NpN3-bf-VJ_V05VR5tyQ2Pdx-BW7nxc-V7-Kz-sW1XpJyj8z7q2rW40Nllx1b1f0BN8_ZYVYdYZtGW5fLt5Y2wZDtPW3tmbyT5vYZB2W7hzs2V5mJYrkW6gYWs622jmTLW5xS7vm98mgvhW40mLNH4Bkxt1W7JDZgQ2TrFhzf51xvnj04)
+
+[**The Global Path Forward: Thoughts on the IEA World Energy**](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVm-23m2nnW8wLKSR6lZ3k-N3Hc-CZD4sGjW80xxTB6JGNVFN1PrtT1TsCsjN9bNjbKkHW_JW4nzd6x7njQvtW6Y0TlD3HYT8VW4V3B4M3-jPpcW4HybpM4r236JN4gSYtyk8ZvHW4vDbkH2xTMYyW8_P3RL4nwrgDW6qYCFd7CBqJYN5WVL18pfvqgW5TKKQM8VXHCvW3VL1BF3--GVNW8ZxprD5l_sfZVnqNJt1FtKZ7W8zNksl8bq6S7W6RtYdp9lT_VjW2wWhRL8kwL40W1F_v9D7lc8DwW1T-kf84_fHsdW6dTPBZ7-JbjNW4cc3B66_gXwXW6dxP8387VjZ5MWjbC53MyqxW80R51g34bcPVN5T3S28HGYV8f2XNGq804)
+
+On November 12th, 2025, the International Energy Agency (IEA) released their annual forward-looking report on global energy. As a company whose core experience and expertise are in the energy space, these reports are always interesting. [**Read Our Thoughts**](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVm-23m2nnW8wLKSR6lZ3nsW8tZ02D4Bzz_cN4VDqxgP1TRXV-wV4t3kFN5kN29g3vMHLz1XW6Zv4Wy28ztNkW37WG2_2YGnXJVdK_008pXpFRW6WHG7S5ZZqySW2X1dpX6rfhQrW3WfH7b2PTl-4W6q9Q_01L-RFvN2Rl1PmsS7WvW1ZbmxL3SRFQ2VF2rTl4Ww-FKN1XPFz53mjfxW9kfz3j35XpRVW48vdHc1x-844W8n5zcV3BpVlfW4B6wD141HdxGN7VG4jJ_61f9W98kV8C8k619rW4jn2TM2GnyzMW2l1cZh3vkqkCW3mSPtb13YFYpW68W-G173wbg7W17q_j36j3Z07W6yP1-x51rS0LVBLYnS7rH4yVddCwkz04)
+
+**[Project Finance and Renewable Energy PPAs -Webinar with Adarite Legal](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVm-23m2nnW8wLKSR6lZ3pTW2XrZXm5tl-4YW5798w22DTW8zW53Mzn-7jKXB6W6XP70t1B8YVcW5LVJlf3f29DsV5k71L57tczNW70-h4J6r6NVwN7Q3hYGy8KL1W6WhRZr8c2xnLW2ndKQt6Qrx6YW3vRXXf15fG67W8ywdyX3XjhzLW5pbWQR3RsZcmW85KTRT8VSXp0N5Qbc2j-vYXPW7vqjz68fSpYmW4GZ5KP4xmJMgW3VmVrs82C0LVW82RBJV16VHDlN1GTZN1HYw-5Vss4gD2jQ2y3W4Rc9dF6p_cYvW68d8YK8c2rvtW4GbhhF5GTS6JW7NQdkM2BP8sPW9hqbL_2v-yBsM-Q3BmtVDxCW79mT-3136skyf6y2FcK04)
+**
+
+ In this webinar, Pivotal180 and Adarite Legal discuss core project finance concepts along with structures and risk considerations for PPAs, with a focus on the Australian NEM. We then explore the intersection of project finance lending and PPAs, examining how PPA terms and risks can impact loan terms and project returns. [**Watch the Full Webinar**](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVm-23m2nnW8wLKSR6lZ3pHW7RZ8L12Px2FzVXtHbj7yK--7W755TKQ76VVY9W9bQMQS6vynSqW3sG8YV6qSG4XW3K2ZvQ8xf9StW5XH_Rs3PbVyVW6RPqCM33Hd5mN2yB6vrggpCvW9hP9sg55jSgqW4mTDHN669C_nVT7qFf4vPPz1W9c0FPx34r2-YW5MgRyG3n7H1QW9dzlx27NhF2KN3RdZrjNxc-cW6wdWNJ2Dm79fW52SNC48YsPw0W3gFhNp2MmfLCW7l1dKv8tnJz-W8KHM2P4QPh8bW5g79F47SctBHW80kqz71cQKTJW4wK48f1xw3dgW3K6QHP18G9_mW4-Rq9Z6BX30QW7LkJRV4snjnKVCMPxr1BDNw_dhpVT804)
+
+**[Why do developers and engineers need to understand project finance models?](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVm-l3m2nnW95jsWP6lZ3l6W74gFvx1bVBM2W69d7pJ3nsFK-W5HVhZ55LK6QDW1gCk8L5hJpznW7yG4KD4tYqhqW85CT011lsc9PW3Cg-q34_Yf0RW9gdJQq2pWgDjW6QqGs45mv6rkW4LKm0S819XlgW4jh4bs1msrPNW4JT4zS4wmnN6V1HQqc89R0KbW6Nq3x43Jk7jsW4Qx7KG6fyHr5N6S6Rq0bh3bBW89ZDGl7nVKB1W1q6rq92yB-r_W48-KPm6dDSQlW42pMB43QvLmxW5mQ75V2WmW1-VSpTyN6W9h1JW64v-9724yG2CW5CB0BR5qH8WpW8sWDt11sN5VjW909cvy7bb7MYW63KLRZ5P0VHXW1_Qx2R3f-DZwW3nd29z26JRb8W6gvzy16QWJq7f4rH3cY04)
+**
+
+Anyone making project development, design and investment decisions must understand models to make smart choices and spend their time wisely. Without a fundamental understanding of model drivers and relationships – knowing ‘what matters most’ – how can they make informed choices in contract negotiations or even decide where to direct their time and focus to add the most value [**Learn More**](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVm-l3m2nnW95jsWP6lZ3nvW2H8kmx2jb8RKW1qb0pH5L9c6bW259TVZ5PBl-_W7czvq96n82FrW3ps7XP7v1nNKN4D-X0KGss1_W8kbhQr5sWr-sW5RHTWs1Rhd__VdMmsC4W2MDRVqwPK24CSlxJN28BPNKktNJMW5sW-My8GNZyYN8XC9MN4bYyyN1QDDXwJQyQPW50BWHT5BRPfmW6950kR1s4SvpW46NpHt7HD7MRW8rQzvW2nPPDdW6JXvNj8-8_PbW3LmJ2w1SRJNwW7N_pyr6QqsX8W6QTzzQ97yyhKW2cmMdg5V5yNpW5qRsTl75cHSVW6YJF5k3L-8zWN3P2p6Vq754yW92fCh673xPHnW6tz4DX6T6xFfW580dr16Ljz4xW7ygnm38CGYbNf9dqf3v04)
+
+[**Course Portfolio and Scheduled Courses Qtr. 1 2026**](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVmZ83m2nnW6N1vHY6lZ3pdW32LSRQ81ZPBWW9jxXNt8vZn-MW2VL9_44K61lNW24zM-02y4dfDN1rjy6nNBnHRW18kjZ16_QQBjW26_J6544WsJbW7kYYzj478R_dW6r0n4s3SyBrnW86-Kmt47f2-HW2QDPk34YvFrrVNHZFm5rlWpXW2m3kT629yDY-W53SGWr5nnPhQW1bY9Dg8J2sJYW38M85X1cPQGPW7CmKY38pmZ8JW2WFJ1-51ncSLW4Ffv9c2cxQZ-V5W0F-3zmz-CW8s7c4J5TBXXZW7tmFWv2wZXmdf3jYryq04)
+
+The courses in our existing portfolio have been developed to equip participants with the knowledge and skills to tackle all the multi-faceted pieces of a transaction.
+
+We look forward to assisting you in demystifying project finance and tax equity.
+
+Our upcoming public live streaming and in-person courses are listed below.
+
+**Live Stream** 
+
+1.  Renewable Energy Project Finance Modeling January 27, 2026 [Register](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVmZM3m2nnW7Y8-PT6lZ3mSW3gC_fw5nXbCsN4LRsG4y-fPQW6BpRLK3j6N9kW3wKsPB3SxRWqW8WVmsJ7FPBtPW2-c09G265GmfW3j5Q4k7_GCSQW8RNfjN42lWqrV73kdh7Hn8yQW7D9tG257ncrlW43DHpR2TCpsjW3Ct_fN2RJt61W1S3DC51xBSJMW8MyZhB1K5kcZW7jxCDL1YFPVZW56qbT46PDqk-W3cvdMY928pYxW22b8xZ3gn0cgN4SbzfQJJ1NCW5VBb9d8cxjfGW88Tpbh61Yy8JW58XX8794GFXhW6CbyBX8LDzxlW7_2jfz6DzfXwW98k6Pr4hGqHSW3Y5K9G6rs7YTf7Q_DJ604)
+    
+2.  Tax Equity Essentials January 21 and 28, 2026 [Register](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVmZM3m2nnW7Y8-PT6lZ3m_W4QhwCb7hpSw1W4r4HDf3x_xvrW1ctHGF1y1vTtM7sPpwqHZPQW3H9t4s1bB2T2W2rN23z7G6SFMW6kVcs16yqRbRN39fpqsM8PzVW8G9Dmq3lTK_XW2LFCDR4LbRWMW5txH321t2YGKW7DC04h3NDLsZW5Jb_-X1tL3bKW2ynD5C2HlN32W4lnQGh3w4FH0W4Whk_B2wd8plN7bFgZp70Yp-W4FY9FM3BtFdXW6tc_Zx63Cty6W4d2gC65NfXHVW3lBsP53drhpYW3qlSNQ8P-4y7TSPG07PCG5HW7GTN0l7znkdcW8RxlLq6YLDlgW3bFcMM8PnrRLf4Gy0H004)
+    
+3.  Advanced Project Finance Debt Modeling begins February 2, 2026 [Register](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVmZM3m2nnW7Y8-PT6lZ3l3N4gtKgPpQL6vW1tC1-45Z6Gp6W6qPBHW3nf7nzW1rp3403KNJyCW8RvMWk4KmN_1W80wzvH2nxT_mW3wbtSn52tQyvW38TSsX27Bff-W7-Nxlt66hFk9W4m9gTb6RltJwW4c5lvV4BMqGTW6DrqT43HxV1SW2WxxtX781cD-W2gm24J4NqcwqV_tbM96JQNPbW8VNmk-8QlzpKV85dKL2bt3WsW6h92xw28_b0cVpYrXH97Cb_HW3SXClg3NDvcyW1lsk2M17mGQHW6Hm5nm5l080VW2Czszh24Zs9KW6-jSX78sBXRyN4W2dV1y3krGW7_Lkgj2_zb2kf5vhlgx04)
+    
+4.  Tax Equity and Hybrid Financial Modeling begins February 11, 2026 [Register](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVmZM3m2nnW7Y8-PT6lZ3msW5r5vTM1lLCt5W6mGP8p7qvS5fW4R08V-8qWMZ0W31WQD_7S52BhW8v1Fcr6CpKsSW8rLxn16zFJzdW2tt8lq9d20mxV7LG8B6lZ1YsW8xWTJP2wD7tNW86Y9K03W_YvGN1mGHTKgmlHDW6LcYtd5llRHVW6rb0MJ6fvVl3W6Ggmc45PYTfsN5G7xWD2Tb9rW7RWPBK8rcNxvW2nwXXy5QKpgsN14XyL4Px0hzW6tdGh74vMqFjVZL_g36PML33W5YsBXt6C6ZWsW1yp-qw4ywS8wN3RnGPbNcW35W6h918w6sdx1QW13Lr027ZZpx5W4xWj3p45g0pjf8fSzFn04)
+    
+5.  Introduction to Project Finance Modeling begins February 2026 [Reserve](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVmZ83m2nnW6N1vHY6lZ3ppW48gmlW9gpDdTW9gCq_P3393Y2W4HbZSf78mZ7gW6zJz4Q3mrWnYW83Tx7K4nGTdWW3T0_Sn6pNzrwW7xVGz12W15pJN3qn3k6n1nWzW7Y4htq2pSrhtW1Vy1pn2NpC9pW13sLsF6cYsmwW99CmFs618XwLW26ZHD_6DjDwhN3SfV_cz23MVW5bB3Zy8WWn8wVRYLmv16cY39W67W1j_7HNf4SW4Q1kcB7Dv095W3xmtvL7gV1K5N5Wn1Bm9y7mmW3h0kKp89q3dyW8k5Ykx6Dkj3Nf1D6F3q04)
+    
+6.  Battery Storage Financial Modeling begins February 2026 [Reserve](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVmZ83m2nnW6N1vHY6lZ3kKVsK15f1tMpPFV9qSNT49Jl36W6-c2zn7jJ512W7DCp6W3Ll5f4N1-85nh7wKtCVJTgFZ5XjhmpW7f0HTb4yv9q1W3wx4gr9g48m5W5ph2m760CnyMW5bLS7G6k6C71W5p1gFZ1_g04dW128PGP2cJs0-W2vgdsT2VxdnbW1XH4z36plLS7N1wkc0NTXnlNW5BWXXt80cb1GW605hfl68gwlTW6DzJfK8KytYkW62S8Lh8rqNKkW84CXsQ3szT3RW8DR1FV7xsBzNW5g7X3T1d4FjSf5H34rT04)
+    
+
+**Australia**
+
+**Live Stream** 
+
+*   Introduction to Project Finance Modeling begins January 29,2026 [Reserve](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVmZ83m2nnW6N1vHY6lZ3mxW8wzzPV7dD3tNW5SDFbY6NLRpwW4ccyNx2k9tKWW46NN2q5RPZwVW8P3Tr41q3tvjW1F-3L94RYqMdN6X87vhWh01vW1K0tRg3nfHMKW93dWVl8Rkk94W7f2Xsx6Xx7YsW67LR0R5XjvMVW2prxz_4BfdR0VwcqnP5MgP-HW1vs-yM8q_BlcW7TbNs63cW86LMQjvTCQdkVyW60yzQ982YjBhW7pZzTW3vWWyFW1gNMSN7-VBvyW2Rkvyn7TpbMbVkcZSy3ffP1ZW9fWSw74pHWwlf5q31gC04)
+    
+*   Renewable Energy Project Finance Modeling February 3, 2026 [Reserve](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVmZ83m2nnW6N1vHY6lZ3n7W1Hmq4n89P8yGW7dS3Hz7LHK7qW8gT2bC6dKLd2W4PnsPf6jY8BhW58LyQZ41Ph44W2zLXBr7NjBCfW95KWY_2nZ24-W2NMqzk7B6kczVTXl0593cpP_Vh7l2d7PrBh3W2JTmyy2z9kMgW7bMwKL66X6vzN18w_hXSZdcgW94DNjW27ZLSKW82wHHz1c_BBTW6KsxDK7Fm5HzW3Z-Y5R4KNSQ6V5n8vP8tJNhyW1_vzYZ8YqSX_W8z2BHN1h36vMW8l7mKm9jpBBrW8pLZgv7qm9thf9kS5G204)
+    
+*   Advanced Project Finance Debt Modeling begins February 2026. [Reserve](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVmZ83m2nnW6N1vHY6lZ3q0W1LBWtW7hjm_RW9kJrqc5K0ylbW1Hhw3n77fhZ1W73vfKL7mzc8FW8sh1vP2bMVfsW1_-V-F2fzypXN6BXQGQfRJV-W296LJM2mtTdKW5h4MJS6FhxH1W6sdTR84Bk6zJW2-0mqD9k1-PPW5MQz844NbXHpVPL5NX89YSnpW59c4wd4ZRGg2W7_CcHW7Dr5xFW1J12tc5N1sfpW1j6rXt4kswJWW38ntyB2rX-RqV-StLg67JL9FW6z7bxl1SfMz2N19_h77XcTCXVBD0fY316-XJf7YPByq04)
+    
+
+**In-Person**
+
+*   Battery Storage Financial Modeling in Sydney begins March16, 2026 [Reserve](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVmZ83m2nnW6N1vHY6lZ3kKVwWSQS4fKLqmW2g7bCS3_CFHwW57cN3-7y_wSCN1TfkbKhXlHTW1D5Hp67tB4tcW8sP1KG14n717W4zD5ys7346NXN7ngp0m1Ff23W61q7Tc5yM7y9F1k8mldyKClW8nqlMl144P0SVFtN9t1Mg-bNN37wMTXsm3BRW6H4z1j4WHr9BW4SmNYZ2wN0K-W1N87sf2chtwxW4b3J9y35nBvvW3zkpdn7-RYvTW5_Kpt_48L3TBW2bTxcx2qhtdMW7nmnWx4w-6qZW8vdNVb2NL9qTf2Z9cPj04)
+    
+
+Please register, reserve a place or contact us for any more information. [\[email protected\]](https://pivotal180.com/cdn-cgi/l/email-protection#0774666b627447776e716873666b363f372964686a)
+ or [\[email protected\]](https://pivotal180.com/cdn-cgi/l/email-protection#0564696c766a6b45756c736a716469343d352b666a68)
+
+**[Online](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVmZs3m2nnW7lCdLW6lZ3pGW67gmSv3kdFP7W4NxrbB18fwrpW1dJfGW6LprcmW5fD9_b9gdkLTW16JRhB7_B4jGW31L8hS3YftrnN9bm7Bv7lvpDV8QCpm2H1ynZVbCcfd7ygHj_W7zgwQV6XzzqfVJvyhq40tvH5W65f3v94VRXfRW46x11n3386T5W1FMHq56RpzSHW2qqpr07d0jSnW7pSyTK4dlBjBMfnWpy8NFG7W12xqM_6QpplfW6Mvd4t6Hb0_2W44tWn_6lZGn6W5BXhvq3BbrlVW5j0yhG2HV3zDW5PlHYl6lJwdyW8VfBJL2s1XPCf8cb1JT04)
+ Courses Available** 
+
+**[Project Finance Modeling](https://urldefense.proofpoint.com/v2/url?u=https-3A__cLWDc04.na1.hubspotlinks.com_Ctc_T9-2B113_cLWDc04_VWwjmV68G-5Fz-2DW8xPnqt3Lr4WGW2QY3Nh5GX138N4bXfJ-2D3m2nnW7lCdLW6lZ3kLW2FHVXd3h6L52W7krpCz2sDZr1W5YZXTX6Jnd4qW3CR75M90lYHvW6bYvFL2pdKKFW6CWNHv5HCT6gW42fx0L9f5Kk8W5XHTpj1w0StnW82Vyk09gjy4mN3R7wZXzvCPqN7skpMBZ46nwW8176JR8HYPt-5FN5bZ3bRWVCD9W4bc2wn4rncykMBC-5F3JJhJGPW59kB-2D-2D8JYJxDW5Dy7DK1b-2D3hSW7nGZ4z159LFfN7YymG679dHDW6ZNVRy2cCq07W4L96jT5lFwrbW6N3xDB7Ts45RW4LBscY2LJtzpW695SPZ8xljjcd7mHkF04&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=xOYyMQn6U76087RqzDDFGbgxNToqCe2GjXUhttTdzy0&m=Db-NbLLQUToMpFcio6Xg3F1EZ9-4MFpS4rCRnHiB2o_t6ry_QCA20CliYlVhvnqJ&s=wmcgpTLg5qteJVjn1JrxLXNFha66NN0DEN6vC8q6jxg&e= "https://urldefense.proofpoint.com/v2/url?u=https-3A__cLWDc04.na1.hubspotlinks.com_Ctc_T9-2B113_cLWDc04_VWwjmV68G-5Fz-2DW8xPnqt3Lr4WGW2QY3Nh5GX138N4bXfJ-2D3m2nnW7lCdLW6lZ3kLW2FHVXd3h6L52W7krpCz2sDZr1W5YZXTX6Jnd4qW3CR75M90lYHvW6bYvFL2pdKKFW6CWNHv5HCT6gW42fx0L9f5Kk8W5XHTpj1w0StnW82Vyk09gjy4mN3R7wZXzvCPqN7skpMBZ46nwW8176JR8HYPt-5FN5bZ3bRWVCD9W4bc2wn4rncykMBC-5F3JJhJGPW59kB-2D-2D8JYJxDW5Dy7DK1b-2D3hSW7nGZ4z159LFfN7YymG679dHDW6ZNVRy2cCq07W4L96jT5lFwrbW6N3xDB7Ts45RW4LBscY2LJtzpW695SPZ8xljjcd7mHkF04&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=xOYyMQn6U76087RqzDDFGbgxNToqCe2GjXUhttTdzy0&m=Db-NbLLQUToMpFcio6Xg3F1EZ9-4MFpS4rCRnHiB2o_t6ry_QCA20CliYlVhvnqJ&s=wmcgpTLg5qteJVjn1JrxLXNFha66NN0DEN6vC8q6jxg&e=")
+**
+
+Learn the concepts to develop a financial model related to PPP/P3s for both social and economic infrastructure. The course centers on a hospital PPP and toll road, although other sub-sectors are mentioned
+
+**[Renewable Energy Project Finance Modeling](https://urldefense.proofpoint.com/v2/url?u=https-3A__cLWDc04.na1.hubspotlinks.com_Ctc_T9-2B113_cLWDc04_VWwjmV68G-5Fz-2DW8xPnqt3Lr4WGW2QY3Nh5GX138N4bXfKg3m2nnW7Y8-2DPT6lZ3mkW5NDM027jgBxSN2KSyjjyyS7BN3nHQxh6RdHCN8JrqNH54kgqW1Q03z62cCxmFW1sPD5126M-5FZ1W4r8NVQ62kGhbW7X-5FTSX3TXWpNVlDXdS8Mq77JVc3C3J8jyXsHW5nHSFF8QYgcRW1SKw364Q-5Fd81W1nHdk86brkXnW6y-5FyWg2xfKclW5TK7CB6HjtP2W4005Yx5-5FSWpMW2lV72323nRpnVbyHlq1yXXHcVR4dlC2W-5FVcsW6gwhSn8g9nKmW5lrRxS90vVx6W7hYq6r4PQMQ1W4Bgmjw1yH99-2DVW490R8VMM4YW7v-2DTq-5F1TVz6yW1ytYQ32ckRYtdlQf3F04&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=xOYyMQn6U76087RqzDDFGbgxNToqCe2GjXUhttTdzy0&m=Db-NbLLQUToMpFcio6Xg3F1EZ9-4MFpS4rCRnHiB2o_t6ry_QCA20CliYlVhvnqJ&s=4YEuGRKyaebj57jU6iBdyEyCIm8W_cRsaABOxsuHHSo&e= "https://urldefense.proofpoint.com/v2/url?u=https-3A__cLWDc04.na1.hubspotlinks.com_Ctc_T9-2B113_cLWDc04_VWwjmV68G-5Fz-2DW8xPnqt3Lr4WGW2QY3Nh5GX138N4bXfKg3m2nnW7Y8-2DPT6lZ3mkW5NDM027jgBxSN2KSyjjyyS7BN3nHQxh6RdHCN8JrqNH54kgqW1Q03z62cCxmFW1sPD5126M-5FZ1W4r8NVQ62kGhbW7X-5FTSX3TXWpNVlDXdS8Mq77JVc3C3J8jyXsHW5nHSFF8QYgcRW1SKw364Q-5Fd81W1nHdk86brkXnW6y-5FyWg2xfKclW5TK7CB6HjtP2W4005Yx5-5FSWpMW2lV72323nRpnVbyHlq1yXXHcVR4dlC2W-5FVcsW6gwhSn8g9nKmW5lrRxS90vVx6W7hYq6r4PQMQ1W4Bgmjw1yH99-2DVW490R8VMM4YW7v-2DTq-5F1TVz6yW1ytYQ32ckRYtdlQf3F04&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=xOYyMQn6U76087RqzDDFGbgxNToqCe2GjXUhttTdzy0&m=Db-NbLLQUToMpFcio6Xg3F1EZ9-4MFpS4rCRnHiB2o_t6ry_QCA20CliYlVhvnqJ&s=4YEuGRKyaebj57jU6iBdyEyCIm8W_cRsaABOxsuHHSo&e=")
+**
+
+Learn how to develop a best-practice financial model and optimize it for both debt & equity investors for a renewable energy project finance deal. Using a case study, learn the concepts required to develop a financial model related to wind and solar.
+
+**[Battery Storage Financial Modeling](https://urldefense.proofpoint.com/v2/url?u=https-3A__cLWDc04.na1.hubspotlinks.com_Ctc_T9-2B113_cLWDc04_VWwjmV68G-5Fz-2DW8xPnqt3Lr4WGW2QY3Nh5GX138N4bXfKg3m2nnW7Y8-2DPT6lZ3mtW22xFdp97jzypW50G1Px7rHsgcW1T72wv4Qn2sMW3X8fkS4rPQRpW3PvlZx23LQcNW6l5k0B4XXQwtW8M-2DvbT800cM2W2y4YsR181QC4W30qnS824N8xcV4B-2DSj6S9ltnW8YMkMb6HkMRvW3-2DrfWY13HhxLW7h78251fqhSMW1WzcMQ6qh4tvN29q7ZZt-2D5TGW1xZln-2D18PT49Vq0ry43vZdz2W2hcCdQ2t3pgmW4RQ1x51GkRmcV9CVP-5F74wF2wVLCzYq65SC96W96jm3z79xh92W2RWHyP1k-5FqlfVcCbH95LxDYxV1SFpj37zx3jW7BX32y1rqMDXf1RgssC04&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=xOYyMQn6U76087RqzDDFGbgxNToqCe2GjXUhttTdzy0&m=Db-NbLLQUToMpFcio6Xg3F1EZ9-4MFpS4rCRnHiB2o_t6ry_QCA20CliYlVhvnqJ&s=ScGSFA_I0-EaoXpOPvoPujVQYKIpYxlXasQyGPuIgio&e= "https://urldefense.proofpoint.com/v2/url?u=https-3A__cLWDc04.na1.hubspotlinks.com_Ctc_T9-2B113_cLWDc04_VWwjmV68G-5Fz-2DW8xPnqt3Lr4WGW2QY3Nh5GX138N4bXfKg3m2nnW7Y8-2DPT6lZ3mtW22xFdp97jzypW50G1Px7rHsgcW1T72wv4Qn2sMW3X8fkS4rPQRpW3PvlZx23LQcNW6l5k0B4XXQwtW8M-2DvbT800cM2W2y4YsR181QC4W30qnS824N8xcV4B-2DSj6S9ltnW8YMkMb6HkMRvW3-2DrfWY13HhxLW7h78251fqhSMW1WzcMQ6qh4tvN29q7ZZt-2D5TGW1xZln-2D18PT49Vq0ry43vZdz2W2hcCdQ2t3pgmW4RQ1x51GkRmcV9CVP-5F74wF2wVLCzYq65SC96W96jm3z79xh92W2RWHyP1k-5FqlfVcCbH95LxDYxV1SFpj37zx3jW7BX32y1rqMDXf1RgssC04&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=xOYyMQn6U76087RqzDDFGbgxNToqCe2GjXUhttTdzy0&m=Db-NbLLQUToMpFcio6Xg3F1EZ9-4MFpS4rCRnHiB2o_t6ry_QCA20CliYlVhvnqJ&s=ScGSFA_I0-EaoXpOPvoPujVQYKIpYxlXasQyGPuIgio&e=")
+**
+
+This course provides an overview of standalone batteries and co-located batteries with wind or solar assets. It is designed to familiarize developers, investors, and lenders with the investment decisions and risks of battery storage projects.
+
+**[Mining and Critical Minerals](https://urldefense.proofpoint.com/v2/url?u=https-3A__cLWDc04.na1.hubspotlinks.com_Ctc_T9-2B113_cLWDc04_VWwjmV68G-5Fz-2DW8xPnqt3Lr4WGW2QY3Nh5GX138N4bXfKz3m2nnW8wLKSR6lZ3m0W8pCzBq8p2V-5FVW892Z9L59yrHWW4PJHTP3CNLkNVmQHxH8MGVCKW37dC2t7T7vW7VshN2g8n8-2D8pW9lyQwh2X4cHSW32H-2D6F2-2DHxqwW10PGyn4pR3h4W8qF-5F-5Fc6-2DT4wqW2m-5FNt328H5TmW7cM2rz7YHgJ2W1N9Bvx17zhDyW304MPw8Lr55SN1V92nlzSfCpW4BXM4F1Z1xBCW4FVGp35-2DQSKgVx39D-5F7B8S98W6pSlcP4RMY1JF8bNGxybk1sW4cKz0z5KnyD2N4bCLnmL89MYW3pRyf35T-2DLWyN6ym9tFdfqNVW6MJdX38x91-2DyW972WhS24pjRFW6xX5v64wLx1xW3XsDb84J4nbjf84n2mq04&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=xOYyMQn6U76087RqzDDFGbgxNToqCe2GjXUhttTdzy0&m=Db-NbLLQUToMpFcio6Xg3F1EZ9-4MFpS4rCRnHiB2o_t6ry_QCA20CliYlVhvnqJ&s=aCLE3Gtyrrq0DkBk8iUlh54aESbjJgID4oH7fJOwPXU&e= "https://urldefense.proofpoint.com/v2/url?u=https-3A__cLWDc04.na1.hubspotlinks.com_Ctc_T9-2B113_cLWDc04_VWwjmV68G-5Fz-2DW8xPnqt3Lr4WGW2QY3Nh5GX138N4bXfKz3m2nnW8wLKSR6lZ3m0W8pCzBq8p2V-5FVW892Z9L59yrHWW4PJHTP3CNLkNVmQHxH8MGVCKW37dC2t7T7vW7VshN2g8n8-2D8pW9lyQwh2X4cHSW32H-2D6F2-2DHxqwW10PGyn4pR3h4W8qF-5F-5Fc6-2DT4wqW2m-5FNt328H5TmW7cM2rz7YHgJ2W1N9Bvx17zhDyW304MPw8Lr55SN1V92nlzSfCpW4BXM4F1Z1xBCW4FVGp35-2DQSKgVx39D-5F7B8S98W6pSlcP4RMY1JF8bNGxybk1sW4cKz0z5KnyD2N4bCLnmL89MYW3pRyf35T-2DLWyN6ym9tFdfqNVW6MJdX38x91-2DyW972WhS24pjRFW6xX5v64wLx1xW3XsDb84J4nbjf84n2mq04&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=xOYyMQn6U76087RqzDDFGbgxNToqCe2GjXUhttTdzy0&m=Db-NbLLQUToMpFcio6Xg3F1EZ9-4MFpS4rCRnHiB2o_t6ry_QCA20CliYlVhvnqJ&s=aCLE3Gtyrrq0DkBk8iUlh54aESbjJgID4oH7fJOwPXU&e=")
+**
+
+Learn how to develop a financial model for a copper project with a typical mine plan including ore mined, waste mined, input grades, high and low-grade stockpiling, and processing recoveries. Understand the key drivers of mining.
+
+**[Tax Equity and Hybrid Modeling](https://urldefense.proofpoint.com/v2/url?u=https-3A__cLWDc04.na1.hubspotlinks.com_Ctc_T9-2B113_cLWDc04_VWwjmV68G-5Fz-2DW8xPnqt3Lr4WGW2QY3Nh5GX138N4bXfKg3m2nnW7Y8-2DPT6lZ3pwW4xj-2DCj1c7YntVp6tHK1TQKgFVn349p6Ck1wlW2KlfXT2fzggqW58qyQ67K4lM-5FW2tqjkn1XG6J0N4qqRh-2D7jng-5FW8XKWN65s99zfW3hYVj06DXxjXN1xS6k4W1QChW98kXG36RTzKlW103jhr62RSGhW8F90105SKm-5F1W3y2fR12jzMN-5FW2Ddkbs7wkYY6W6l3mqb57zThkVhHNmk5d9mX8W99ch097BbytxW5tFHRr4kfs05VqLrcX3DMT26W57Nknr4mYX7bW7X-5FPS07Kr-2DY6W8wx8jq1H9YntN8Qgg-2DsWpFWBW57ZgY65-2D55jvW7-5F1R218HtsLpf2X3t5q04&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=xOYyMQn6U76087RqzDDFGbgxNToqCe2GjXUhttTdzy0&m=Db-NbLLQUToMpFcio6Xg3F1EZ9-4MFpS4rCRnHiB2o_t6ry_QCA20CliYlVhvnqJ&s=W1Pvqhjf6rnFGROuKQDJ0-w2LTVdjozSTyuEj7en78A&e= "https://urldefense.proofpoint.com/v2/url?u=https-3A__cLWDc04.na1.hubspotlinks.com_Ctc_T9-2B113_cLWDc04_VWwjmV68G-5Fz-2DW8xPnqt3Lr4WGW2QY3Nh5GX138N4bXfKg3m2nnW7Y8-2DPT6lZ3pwW4xj-2DCj1c7YntVp6tHK1TQKgFVn349p6Ck1wlW2KlfXT2fzggqW58qyQ67K4lM-5FW2tqjkn1XG6J0N4qqRh-2D7jng-5FW8XKWN65s99zfW3hYVj06DXxjXN1xS6k4W1QChW98kXG36RTzKlW103jhr62RSGhW8F90105SKm-5F1W3y2fR12jzMN-5FW2Ddkbs7wkYY6W6l3mqb57zThkVhHNmk5d9mX8W99ch097BbytxW5tFHRr4kfs05VqLrcX3DMT26W57Nknr4mYX7bW7X-5FPS07Kr-2DY6W8wx8jq1H9YntN8Qgg-2DsWpFWBW57ZgY65-2D55jvW7-5F1R218HtsLpf2X3t5q04&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=xOYyMQn6U76087RqzDDFGbgxNToqCe2GjXUhttTdzy0&m=Db-NbLLQUToMpFcio6Xg3F1EZ9-4MFpS4rCRnHiB2o_t6ry_QCA20CliYlVhvnqJ&s=W1Pvqhjf6rnFGROuKQDJ0-w2LTVdjozSTyuEj7en78A&e=")
+**
+
+Gain an overview of the tax equity structures commonly used in U.S. renewable energy investments, with a focus on the development of a financial model. Dive deep into tax capital accounts, deficit restoration obligations, stop loss allocations, and HLBV accounting.
+
+**[Financial Modeling Fundamentals](https://urldefense.proofpoint.com/v2/url?u=https-3A__cLWDc04.na1.hubspotlinks.com_Ctc_T9-2B113_cLWDc04_VWwjmV68G-5Fz-2DW8xPnqt3Lr4WGW2QY3Nh5GX138N4bXfKg3m2nnW7Y8-2DPT6lZ3lzW7hKTCh8sstk9W17N8Ry7Rt-5FLhW2gL6MB2nd4JkW7nspRY5Y2ychW7h7RGX4ZQ-5FXbW29B9m-5F65MprkW6DdCpB3RR4-2DrN28-2DnMZz2wZSW6XFvL-5F7kDj04W8jzKpd2B9CtHV8hBRV4Pj-2DkpW17ZpLF7H0SLRN6kb4pqTHRcqW1-5FG9rw1SZ-5FMgW8lLGB78nmM69N6p4fZSPzMw6W3XhNLj6NcNcrW1Lb3Yx2bBNkKV5s-5Fyb18WQXdV2L2-5Fp7MQ-5FvSW2w9RR540pC9LW8x525-2D2-5FDvKmW3sBs012htXqyN3bWHpSkzDcKN88-5F2S12vCFYVWdqBG2l9tjhf64lJLF04&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=xOYyMQn6U76087RqzDDFGbgxNToqCe2GjXUhttTdzy0&m=Db-NbLLQUToMpFcio6Xg3F1EZ9-4MFpS4rCRnHiB2o_t6ry_QCA20CliYlVhvnqJ&s=qCI0IJJCYEGT4FeRlkU3jhkvrsKWtXrhdm5f_Kq3w5s&e= "https://urldefense.proofpoint.com/v2/url?u=https-3A__cLWDc04.na1.hubspotlinks.com_Ctc_T9-2B113_cLWDc04_VWwjmV68G-5Fz-2DW8xPnqt3Lr4WGW2QY3Nh5GX138N4bXfKg3m2nnW7Y8-2DPT6lZ3lzW7hKTCh8sstk9W17N8Ry7Rt-5FLhW2gL6MB2nd4JkW7nspRY5Y2ychW7h7RGX4ZQ-5FXbW29B9m-5F65MprkW6DdCpB3RR4-2DrN28-2DnMZz2wZSW6XFvL-5F7kDj04W8jzKpd2B9CtHV8hBRV4Pj-2DkpW17ZpLF7H0SLRN6kb4pqTHRcqW1-5FG9rw1SZ-5FMgW8lLGB78nmM69N6p4fZSPzMw6W3XhNLj6NcNcrW1Lb3Yx2bBNkKV5s-5Fyb18WQXdV2L2-5Fp7MQ-5FvSW2w9RR540pC9LW8x525-2D2-5FDvKmW3sBs012htXqyN3bWHpSkzDcKN88-5F2S12vCFYVWdqBG2l9tjhf64lJLF04&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=xOYyMQn6U76087RqzDDFGbgxNToqCe2GjXUhttTdzy0&m=Db-NbLLQUToMpFcio6Xg3F1EZ9-4MFpS4rCRnHiB2o_t6ry_QCA20CliYlVhvnqJ&s=qCI0IJJCYEGT4FeRlkU3jhkvrsKWtXrhdm5f_Kq3w5s&e=")
+**
+
+Building a model from a blank spreadsheet, this course bridges the gap between theoretical learning and practical application. Participants will build a best-practice financial model and will learn the frameworks for evaluating your business and projects, including future cash flows, income statement, balance sheet, and financial statement analysis.
+
+**[Introduction to Project Finance Modeling](https://urldefense.proofpoint.com/v2/url?u=https-3A__cLWDc04.na1.hubspotlinks.com_Ctc_T9-2B113_cLWDc04_VWwjmV68G-5Fz-2DW8xPnqt3Lr4WGW2QY3Nh5GX138N4bXfKg3m2nnW7Y8-2DPT6lZ3mMW3bgTT552bMNYW3xMZfj5JZP3hW2sKMl-5F1TtBYlW8lfCMN8PPsRvW2s-5FD5H7lF5NzVPrL157JvsDhW7Jm-5F-2Dy4qYnctW5PG2mf88nVYNW1Nv5n07-5F9PFSW67L94-2D1LN3DGW6Rq3tj5dQ7mjW2n91jF8rqgCDW1gbPl275Nl54W3SYBDy7JQFt1W8-2DDWg487HJHVW7qwVJy2PqwybW5325nz8PHQj-2DW3RBRKX1B65GGW7mr45Y7qhMWPW6dGf1Q2BnbYsW8tbC0s247-2D6cW2XslJR7hs-5FlMW5vr-5FDJ3tfTGJVqCcmG999JHfW3VzX2Q1FJkjdW697BG01S4Yj1f454stP04&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=xOYyMQn6U76087RqzDDFGbgxNToqCe2GjXUhttTdzy0&m=Db-NbLLQUToMpFcio6Xg3F1EZ9-4MFpS4rCRnHiB2o_t6ry_QCA20CliYlVhvnqJ&s=t8uTYcRMP-YEuIg6uX-WAuraH_Tf9hCuZMZCvrocnEo&e= "https://urldefense.proofpoint.com/v2/url?u=https-3A__cLWDc04.na1.hubspotlinks.com_Ctc_T9-2B113_cLWDc04_VWwjmV68G-5Fz-2DW8xPnqt3Lr4WGW2QY3Nh5GX138N4bXfKg3m2nnW7Y8-2DPT6lZ3mMW3bgTT552bMNYW3xMZfj5JZP3hW2sKMl-5F1TtBYlW8lfCMN8PPsRvW2s-5FD5H7lF5NzVPrL157JvsDhW7Jm-5F-2Dy4qYnctW5PG2mf88nVYNW1Nv5n07-5F9PFSW67L94-2D1LN3DGW6Rq3tj5dQ7mjW2n91jF8rqgCDW1gbPl275Nl54W3SYBDy7JQFt1W8-2DDWg487HJHVW7qwVJy2PqwybW5325nz8PHQj-2DW3RBRKX1B65GGW7mr45Y7qhMWPW6dGf1Q2BnbYsW8tbC0s247-2D6cW2XslJR7hs-5FlMW5vr-5FDJ3tfTGJVqCcmG999JHfW3VzX2Q1FJkjdW697BG01S4Yj1f454stP04&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=xOYyMQn6U76087RqzDDFGbgxNToqCe2GjXUhttTdzy0&m=Db-NbLLQUToMpFcio6Xg3F1EZ9-4MFpS4rCRnHiB2o_t6ry_QCA20CliYlVhvnqJ&s=t8uTYcRMP-YEuIg6uX-WAuraH_Tf9hCuZMZCvrocnEo&e=")
+**
+
+This course is designed to give participants a strong foundation in the core concepts that impact investments and debt structuring in project finance transactions.
+
+It’s ideal for beginner modelers, students and professionals who don’t build models daily, but need to understand project finance models and concepts. If you’re a developer, engineer, accountant, or lawyer this could be the right course for you.
+
+[**A Quick Look Into Data Centers**](https://clwdc04.na1.hubspotlinks.com/Ctc/T9+113/cLWDc04/VVvLGt5L8fgZW12nk-c90V477W22vCbp5J5yLFN1xVmZM3m2nnW7Y8-PT6lZ3lsN2VM_KlpB7yZW4bvd0G8m6ZCSW6_VkpH6dkHV-W3-9z696xQmC2W68V7-q5sKtbpW4KZZyt7VXgkvW69dlj043v5_LW1q8WX27k4nBrW6K0BZG7fL44xW5GdYZG941GXwW8ySJK-2ygTq3VM0GHj76MpwNVZjddX7yYLQWW6_WcHh1Vv_kgW362t715XF8S4W2r6Lgw1YQHxvW94jXRm8YZ1kvW6ZTmng8T6J-RM1Q1rVG54K6W8LmyTY2xph1PVLSYDy8fP_87VnhjbN4YY-WJVp37VN6mSx3nW82jzY04_sWyPW2gBzsN4Bj7qXW5wSrF_7C8nJ5f8DD7x-04)
+
+A free 5-video mini-course. Get a quick look at how retail and wholesale data center facilities earn revenue, the major cost drivers that shape their performance, and how they fit within the real estate / infrastructure spectrum. A great starting point if you’re curious about one of today’s most dynamic asset classes.
+
+#### Share This Resource
+
+[](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpivotal180.com%2Fpivotal180-newsletter-january-2026%2F)
+
+[](https://twitter.com/share?url=https%3A%2F%2Fpivotal180.com%2Fpivotal180-newsletter-january-2026%2F)
+
+[](https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fpivotal180.com%2Fpivotal180-newsletter-january-2026%2F)
+
+[](https://pivotal180.com/cdn-cgi/l/email-protection#ccf3aea3a8b5f1a4b8b8bcbfe9ff8de9fe8ae9fe8abca5baa3b8ada0fdf4fce2afa3a1e9fe8abca5baa3b8ada0fdf4fce1a2a9bbbfa0a9b8b8a9bee1a6ada2b9adbeb5e1fefcfefae9fe8a)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20200'%3E%3C/svg%3E)
+
+### Alison Leckie
+
+[https://www.linkedin.com/in/alison-leckie-56023364/](https://www.linkedin.com/in/alison-leckie-56023364/)
+
+Complexity simplified.
+----------------------
+
+Advisory, financial modeling, and training courses within climate change, sustainable finance, renewable energy, and infrastructure.  
+We don’t just teach you how to build models. We teach you how to do deals.
+
+[VIEW ALL OF OUR COURSES](https://pivotal180.com/all-courses/)
+
+[ENQUIRE ABOUT OUR SERVICES](https://pivotal180.com/contact-us/#form)
+
+[Scroll To Top](https://pivotal180.com/pivotal180-newsletter-january-2026/#)
+
+### Download Free Brochure
+
+Fill out the form to download your brochure now.
+
+"\*" indicates required fields
+
+First Name\*
+
+Last Name\*
+
+Email\*
+
+CAPTCHA

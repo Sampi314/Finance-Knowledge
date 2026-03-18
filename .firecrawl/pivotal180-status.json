@@ -1,0 +1,12 @@
+{
+  "status": "done",
+  "total": 254,
+  "completed": 254,
+  "success": 254,
+  "failed": 0,
+  "skipped": 5,
+  "percent": 100,
+  "rate_per_sec": 0,
+  "est_remaining_min": 0,
+  "output_dir": "Pivotal180"
+}

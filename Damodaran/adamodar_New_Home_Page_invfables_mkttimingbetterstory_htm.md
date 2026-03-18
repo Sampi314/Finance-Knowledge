@@ -1,0 +1,12 @@
+# Market timing trumps stock selection
+
+**Source:** https://pages.stern.nyu.edu/~adamodar/New_Home_Page/invfables/mkttimingbetterstory.htm
+
+---
+
+Market timing trumps stock selection
+------------------------------------
+
+In a 1986 article, a group of researchers raised the shackles of many an active portfolio manager by estimating that as much as 93.6% of the variation in quarterly performance at professionally managed portfolios could be explained by asset allocation, i.e., the mix of stocks, bonds and cash at these portfolios. In a different study in 1992, Shilling examined the effect on your annual returns of being able to stay out of the market during bad months. He concluded that an investor who would have missed the 50 weakest months of the market between 1946 and 1991 would have seen his annual returns almost double from 11.2% to 19%. Ibbotson examined the relative importance of asset allocation and security selection of 94 balanced mutual funds and 58 pension funds, all of which had to make both asset allocation and security selection decisions. Using ten years of data through 1998, Ibbotson finds that about 40% of the differences in returns across funds can be explained by their asset allocation decisions and 60% by security selection.  When it comes to the level of returns, almost all of the returns can be explained by the asset allocation decision. Collectively, these studies suggest that the asset allocation decision has important consequences for your returns, and its importance increases with your time horizon.
+
+While how much of actual portfolio returns are due to asset allocation is open to debate, there can be no denying that market timing has a much bigger and speedier payoff than stock selection. It should come as no surprise that investors who have been disappointed with their stock selection skills turn to or at least try market timing in the hope of earning these high returns.  Professional money managers are not immune from the allure of market timing either. To the extent that mutual fund managers believe that they can time stock markets, they will adjust how much they hold in cash and stocks. Thus, a portfolio manager who believes that the stock market is over valued and is ripe for a correction will hold a substantial portion of her portfolio in cash.

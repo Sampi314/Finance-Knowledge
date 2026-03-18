@@ -1,0 +1,21 @@
+# Commodity company characteristics
+
+**Source:** https://pages.stern.nyu.edu/~adamodar/New_Home_Page/littlebook/commoditycompanies.htm
+
+---
+
+ [![littlebook](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/Budimage/littlebook.gif)](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/littlebook.htm)
+ The Little Book of Valuation
+
+Characteristics of commodity companies
+--------------------------------------
+
+            While commodity companies can range the spectrum from food grains to precious metals and cyclical firms can be in diverse business, they do share some common factors that can affect both how we view them and the values we assign to them.
+
+1.  The Economic/Commodity price cycle: Cyclical companies are at the mercy of the economic cycle. While it is true that good management and the right strategic and business choices can make some cyclical firms less exposed to movements in the economy, the odds are high that all cyclical companies will see revenues decrease in the face of a significant economic downturn. Unlike firms in many other businesses, commodity companies are, for the most part, price takers. In other words, even the largest oil companies have to sell their output at the prevailing market price. Not surprisingly, the revenues of commodity companies will be heavily impacted by the commodity price. In fact, as commodity companies mature and output levels off, almost all of the variance in revenues can be traced to where we are in the commodity price cycle. When commodity prices are on the upswing, all companies that produce that commodity benefit, whereas during a downturn, even the best companies in the business will see the effects on operations.
+2.  Volatile earnings and cash flows: The volatility in revenues at cyclical and commodity companies will be magnified at the operating income level because these companies tend to have high operating leverage (high fixed costs). Thus, commodity companies may have to keep mines (mining), reserves (oil) and fields (agricultural) operating even during low points in price cycles, because the costs of shutting down and reopening operations can be prohibitive.
+3.  Volatility in earnings flows into volatility in equity values and debt ratios: While this does not have to apply for all cyclical and commodity companies, the large infrastructure investments that are needed to get these firms started has led many of them to be significant users of debt financing. Thus, the volatility in operating income that we referenced earlier, manifests itself in even greater swing in net income.
+4.  Even the healthiest firms can be put at risk if macro move is very negative: Building on the theme that cyclical and commodity companies are exposed to cyclical risk over which they have little control and that this risk can be magnified as we move down the income statement, resulting in high volatility in net income, even for the healthiest and most mature firms in the sector, it is easy to see why we have to be more concerned about distress and survival with cyclical and commodity firms than with most others. An extended economic downturn or a lengthy phase of low commodity prices can put most of these companies at risk.
+5.  Finite resources: With commodity companies, there is one final shared characteristic. There is a finite quantity of natural resources on the planet; if oil prices increase, we can explore for more oil but we cannot create oil. When valuing commodity companies, this will not only play a role in what our forecasts of future commodity prices will be but may also operate as a constraint on our normal practice of assuming perpetual growth (in our terminal value computations).
+
+In summary, then, when valuing commodity and cyclical companies, we have to grapple with the consequences of economic and commodity price cycles and how shifts in these cycles will affect revenues and earnings. We also have to come up with ways of dealing with the possibility of distress, induced not by bad management decisions or firm specific choices, but by macro economic forces.

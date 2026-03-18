@@ -1,0 +1,35 @@
+[fullstackmodeller] Discovering URLs from https://www.fullstackmodeller.com...
+[fullstackmodeller] Map found 145 URLs
+[fullstackmodeller] 145 URLs to scrape
+[fullstackmodeller] Skipping 3 already scraped
+  [fullstackmodeller] 5/145 (3.4%) OK:5 FAIL:0
+  [fullstackmodeller] 10/145 (6.9%) OK:10 FAIL:0
+  [fullstackmodeller] 15/145 (10.3%) OK:15 FAIL:0
+  [fullstackmodeller] 20/145 (13.8%) OK:20 FAIL:0
+  [fullstackmodeller] 25/145 (17.2%) OK:25 FAIL:0
+  [fullstackmodeller] 30/145 (20.7%) OK:30 FAIL:0
+  [fullstackmodeller] 35/145 (24.1%) OK:35 FAIL:0
+  [fullstackmodeller] 40/145 (27.6%) OK:40 FAIL:0
+  [fullstackmodeller] 45/145 (31.0%) OK:45 FAIL:0
+  [fullstackmodeller] 50/145 (34.5%) OK:50 FAIL:0
+  [fullstackmodeller] 55/145 (37.9%) OK:55 FAIL:0
+  [fullstackmodeller] 60/145 (41.4%) OK:60 FAIL:0
+  [fullstackmodeller] 65/145 (44.8%) OK:65 FAIL:0
+  [fullstackmodeller] 70/145 (48.3%) OK:70 FAIL:0
+  [fullstackmodeller] 75/145 (51.7%) OK:75 FAIL:0
+  [fullstackmodeller] 80/145 (55.2%) OK:80 FAIL:0
+  [fullstackmodeller] 85/145 (58.6%) OK:85 FAIL:0
+  [fullstackmodeller] 90/145 (62.1%) OK:90 FAIL:0
+  [fullstackmodeller] 95/145 (65.5%) OK:95 FAIL:0
+  [fullstackmodeller] 100/145 (69.0%) OK:100 FAIL:0
+  [fullstackmodeller] 105/145 (72.4%) OK:105 FAIL:0
+  [fullstackmodeller] 110/145 (75.9%) OK:110 FAIL:0
+  [fullstackmodeller] 115/145 (79.3%) OK:115 FAIL:0
+  [fullstackmodeller] 120/145 (82.8%) OK:120 FAIL:0
+  [fullstackmodeller] 125/145 (86.2%) OK:125 FAIL:0
+  [fullstackmodeller] 130/145 (89.7%) OK:130 FAIL:0
+  [fullstackmodeller] 135/145 (93.1%) OK:135 FAIL:0
+  [fullstackmodeller] 140/145 (96.6%) OK:140 FAIL:0
+  [fullstackmodeller] 145/145 (100.0%) OK:145 FAIL:0
+
+[fullstackmodeller] DONE: 145 saved, 0 failed, 3 skipped out of 145

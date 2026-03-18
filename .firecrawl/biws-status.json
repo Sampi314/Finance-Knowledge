@@ -1,0 +1,12 @@
+{
+  "status": "done",
+  "total": 207,
+  "completed": 207,
+  "success": 207,
+  "failed": 0,
+  "skipped": 0,
+  "percent": 100,
+  "rate_per_sec": 0,
+  "est_remaining_min": 0,
+  "output_dir": "BIWS"
+}

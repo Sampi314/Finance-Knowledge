@@ -1,0 +1,49 @@
+[macabacus] Discovering URLs from https://macabacus.com...
+[macabacus] Map found 443 URLs
+[macabacus] 220 URLs to scrape
+  [macabacus] 5/220 (2.3%) OK:5 FAIL:0
+  [macabacus] 10/220 (4.5%) OK:10 FAIL:0
+  [macabacus] 15/220 (6.8%) OK:15 FAIL:0
+  [macabacus] 20/220 (9.1%) OK:20 FAIL:0
+  [macabacus] 25/220 (11.4%) OK:25 FAIL:0
+  [macabacus] 30/220 (13.6%) OK:30 FAIL:0
+  [macabacus] 35/220 (15.9%) OK:35 FAIL:0
+  [macabacus] 40/220 (18.2%) OK:40 FAIL:0
+  [macabacus] 45/220 (20.5%) OK:45 FAIL:0
+  [macabacus] 50/220 (22.7%) OK:50 FAIL:0
+  [macabacus] 55/220 (25.0%) OK:55 FAIL:0
+  [macabacus] 60/220 (27.3%) OK:60 FAIL:0
+  [macabacus] 65/220 (29.5%) OK:65 FAIL:0
+  [macabacus] 70/220 (31.8%) OK:70 FAIL:0
+  [macabacus] 75/220 (34.1%) OK:75 FAIL:0
+  [macabacus] 80/220 (36.4%) OK:80 FAIL:0
+  [macabacus] 85/220 (38.6%) OK:85 FAIL:0
+  [macabacus] 90/220 (40.9%) OK:90 FAIL:0
+  [macabacus] 95/220 (43.2%) OK:95 FAIL:0
+  [macabacus] 100/220 (45.5%) OK:100 FAIL:0
+  [macabacus] 105/220 (47.7%) OK:105 FAIL:0
+  [macabacus] 110/220 (50.0%) OK:110 FAIL:0
+  [macabacus] 115/220 (52.3%) OK:115 FAIL:0
+  [macabacus] 120/220 (54.5%) OK:120 FAIL:0
+  [macabacus] 125/220 (56.8%) OK:125 FAIL:0
+  [macabacus] 130/220 (59.1%) OK:130 FAIL:0
+  [macabacus] 135/220 (61.4%) OK:135 FAIL:0
+  [macabacus] 140/220 (63.6%) OK:140 FAIL:0
+  [macabacus] 145/220 (65.9%) OK:145 FAIL:0
+  [macabacus] 150/220 (68.2%) OK:150 FAIL:0
+  [macabacus] 155/220 (70.5%) OK:155 FAIL:0
+  [macabacus] 160/220 (72.7%) OK:160 FAIL:0
+  [macabacus] 165/220 (75.0%) OK:165 FAIL:0
+  [macabacus] 170/220 (77.3%) OK:170 FAIL:0
+  [macabacus] 175/220 (79.5%) OK:175 FAIL:0
+  [macabacus] 180/220 (81.8%) OK:180 FAIL:0
+  [macabacus] 185/220 (84.1%) OK:185 FAIL:0
+  [macabacus] 190/220 (86.4%) OK:190 FAIL:0
+  [macabacus] 195/220 (88.6%) OK:195 FAIL:0
+  [macabacus] 200/220 (90.9%) OK:200 FAIL:0
+  [macabacus] 205/220 (93.2%) OK:205 FAIL:0
+  [macabacus] 210/220 (95.5%) OK:210 FAIL:0
+  [macabacus] 215/220 (97.7%) OK:215 FAIL:0
+  [macabacus] 220/220 (100.0%) OK:220 FAIL:0
+
+[macabacus] DONE: 220 saved, 0 failed, 0 skipped out of 220

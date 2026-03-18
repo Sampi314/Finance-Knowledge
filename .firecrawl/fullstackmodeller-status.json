@@ -1,0 +1,12 @@
+{
+  "status": "done",
+  "total": 145,
+  "completed": 145,
+  "success": 145,
+  "failed": 0,
+  "skipped": 3,
+  "percent": 100,
+  "rate_per_sec": 0,
+  "est_remaining_min": 0,
+  "output_dir": "Full Stack Modeller"
+}

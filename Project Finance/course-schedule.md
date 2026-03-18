@@ -1,0 +1,17 @@
+# Edward Bodmer – Project and Corporate Finance
+
+**Source:** https://edbodmer.com/course-schedule
+
+---
+
+| Course/Webinar | Sessions | Time per Session | Course Start | Days per Week From First Day | Course Time Paris | Course Time Malaysia | Course Time in Chicago | Max Partip | Price/  <br>Donation | Book a Place | Outline |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| In House Course | NA  | NA  | NA  | NA  | NA  | NA  | NA  | NA  | $6,500 |     |     |
+| Renewable and Hydrogen Analysis | 5   | 2 Hours | Later in 2025 |     | 15:00 | 9:00 PM | 9:00 AM |     |     |     |     |
+| Circular Reference Webinar | 4   | 1.5 Hours | Autumn 2025 | TBD | 13:00 | 7:00 PM | 6:00 AM | No Limit |     | [Register](https://edbodmer.com/udf-parallel-model-webinar/) | [Webinar Outline](https://edbodmer.com/wp-content/uploads/2025/07/UDF-Webinar-1.pdf) |
+| Weekend Modelling Sessions | Many Sessions | 2.5 Hours | Mid Aug 2025 | Sat or Sun | 14:00 | 8:00 PM | 7:00 AM | NA  | $100.00 | [Free Signup](https://edbodmer.com/sign-up-for-weekend-sessions-without-payment/ "Scenario and Sensitivity")<br>  <br>  <br>[Donate 100](https://edbodmer.com/product/casestudies/ "product") | [Course Description](https://edbodmer.com/wp-content/uploads/2025/07/Virtual-Modelling-Classes-on-Weekends.pdf "Project Finance Modelling Cases") |
+| Evaluate your Model |     | 4-5 Hours |     |     |     |     |     | 1   | $300.00 | [Schedule a Session](https://edbodmer.com/product/special-topics-in-project-finance-modelling/ "Project Finance Modelling Cases") | [Evaluation Method](https://edbodmer.com/wp-content/uploads/2025/07/Model-Evaluations.pdf "Upstream Oil Outline") |
+
+[Click on This Button for Form to Receive Comprehensive Google Drive with My Excel Files Organised, My Collection of Articles, Case Studies I Use, My Course Slides, Examples of Contracts and Other Information](https://edbodmer.com/contat-us/)
+
+![](https://pixel.wp.com/g.gif?v=ext&blog=182904628&post=18437&tz=0&srv=edbodmer.com&j=1%3A13.2.3&host=edbodmer.com&ref=&fcp=0&rand=0.2604571700445367)

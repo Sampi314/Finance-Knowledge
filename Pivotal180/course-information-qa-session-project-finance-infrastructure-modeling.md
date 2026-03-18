@@ -1,0 +1,130 @@
+# Project Finance and Infrastructure Modeling Course Info Q&A
+
+**Source:** https://pivotal180.com/course-information-qa-session-project-finance-infrastructure-modeling
+
+---
+
+[Skip to content](https://pivotal180.com/course-information-qa-session-project-finance-infrastructure-modeling/#fl-main-content)
+
+Project Finance and Infrastructure Modeling Course Info, Q&A
+============================================================
+
+By Haydn Palliser | October 23, 2020
+
+Our Course information and QA sessions are the best way to learn about our training programs.
+---------------------------------------------------------------------------------------------
+
+**Video Transcript** 
+---------------------
+
+Welcome everyone to today’s Project Finance and Infrastructure Modeling session. I’m really glad you’re here and it’s nice to meet you.
+
+If you have any questions throughout, please feel free just to jump in and use the chat feature on Zoom, and I’ll answer them as soon as I can. I’ve also got some time dedicated in the backend as well so if you’d rather just wait, do you feel better doing so? please also do that.
+
+I’ll try to keep this as brief as I can, trying to keep it to 15 minutes so you can ask as many questions as you need to. Before diving into deep detail, I think it’s worthwhile just introducing ourselves.
+
+If you’re taking a financial modeling training course, you would love to probably know that there are people actually leading the course have experience and they know what they’re doing. So this is us on the screen. That’s me on the bottom left Haydn Palliser and Dan Gross on the bottom right. And with Pivotal 180 courses, you’re being taught by Dan or myself. We’re not also people who’ve just studied this academically, we’re also not people that only have a couple of years of experience. I’ve certainly got a few more gray hairs than that and Dan if he had hair has a few more gray hairs than me.
+
+We have invested in or advise on billions of dollars worth of transactions over a number of decades and all across the world. We like to say we worked on all of the major continents except for Antarctica. And I said, all the courses are led by either Dan or myself.
+
+My introduction being a financial advisor in project finance for around 15 years, I’ve covered renewable energy, infrastructure, mining oil, and gas under the New Zealand, Australia, Singapore, Abu Dhabi, Germany, UK, and the US. So a lot of different countries. After working in Sydney, after my early days as an engineer, I worked for a company called Navigator Project Finance. I then led a company called Corality across Americas, Europe, Middle East and Africa region before I became a partner in an accounting firm called Mazars. I was co-head there of the infrastructure and energy practice across the Americas. And for a period of time now, I was also the global head of financial modeling. So I’ve had financial modeling engagements and project finance engagements, evaluations, or transactions or strategy or airlines. I’ve done a lot of different financial modeling. And as part of my job, I’ve trained over a thousand analysts all around the world. I’m also a lecturer at Yale university and an adjunct professor at Columbia.
+
+Now Dan is similar, but also a little bit different. So Dan’s career start off at General Electric, where he ultimately became the head of Renewable Energy Investments. At the time they were the largest investor in power assets in the US. After he moved across to Goldman Sachs, where he was in this special situations group, basically investing Goldman Sachs own money into private equity. And he ultimately seeded a couple of really very well known companies in the US. One of which was SunEdison upon which he was on the board of, he got off that well before the business went under. After, he raised his own fund of around $1 billion in 2009. That was no easy feat at that time in the market. And during that time, that’s when Dan really found his true passion in teaching. And he’s been teaching since then, both at Columbia, as an adjunct professor and as a lecturer at Yale. We actually met each other at Columbia and we now co-teach there together. So we’ve had a lot of real world experience. We’re not just sort of the academics, we’re not people without the full broad experience, but we really have a true passion for teaching. And we really taken a lot of years to develop the material we have got and the thought process and the way of approaching things. And we truly care about how people assimilate information.
+
+So that’s enough about us. And we can move on to the next piece.
+
+And really the first question we get asked is why take our course? And I think the first one is if you want to distinguish yourself either from other people in your team or from other organizations and doing our course, you can significantly improve your best practice modeling skills with a real emphasis on the concepts and focusing on what’s important to the transaction, not just how to code every single line and a model, but what really matters. And best practice models are critical in project finance.
+
+This could be a chance to maybe impress your colleagues or business partners with some new found clarity. And it also will give you a chance to consolidate your understanding of how all of the legal documents tie together with a model and how to structure and how to size an investment. It’s not just modeling, it’s how to do a transaction. Obviously, if you’re looking to find a job in the sector, this course will certainly arm you with some of the tools that you would need in say, job interviews.
+
+Most job interviews will include a financial modeling component and financial modeling will be, assuming you are an analyst or an associate, will it be a large part of your job. So the course will certainly help you ace your interview and your first few years on the job. But as I said earlier, it’s not just about financial modeling. You need to be able to speak concretely about deals structures and documents required and what are the commercial realities of what you’re actually modeling.
+
+It’s also a good chance to take a step back and refresh yourself. Often you follow this one trajectory, you leave university, you do a bunch of things. You never get a chance to step back and consolidate all of your thoughts into why are you doing what you’re doing? So you may have been involved in project finance for five or six or seven years and often those people are the ones that love the course the most. They go, I wish I knew this, two years or three years ago, five years ago.
+
+You also might only only deal with  one aspect of project finance. Maybe you’re in origination’s on a debt desk. Maybe you’re in the investing team on the equity side. You don’t always have a chance to see how all these pieces come together. So it’s also a great way just to get that broader understanding.
+
+Who attends our course?
+
+Clearly we get a number of students. So they’re looking to get a job and this course gives you all the right skills. If you’re a student looking to get into a job and also help ace the interview, as I said.
+
+But really we have the two biggest cohorts in these deals. First is what we call the first to fourth year, maybe fifth year analysts and associates or financial modelers. And these are the people that in their day jobs need to build financial models, review financial models, read loan documents. And so what they do in this course, or what you do in this course, if you’re on of those is apply these skills the very next day. It’s not an academic course. We build a model from scratch, discuss the doctrines, we tie out things. We talk out things tied together. So this really is about learning the skills you need for your job tomorrow.
+
+But we also get a lot of what I like to call mid career changes. And perhaps you’re MBA students, perhaps you have been an engineer, you’ve been dealing with construction contracts the last five or six years. Or you’ve been working on a bond trading desk, and you’d like to transfer the skills you already have into the skills you need into the project finance world. You need to understand how to build these really complex financial models. They’re more complicated than you might find in typical corporate finance or M&A roles. You also need to understand how the legal documents tie together. Those concepts themselves may be quite new to you, but you already have a pretty good understanding of finance. And so this is really another major part about people that come in our courses. So these, second and third bullet points here are the majority of people.
+
+However, there are also a lot of senior participants, so maybe you’re in a business development role. You don’t get quite so involved in all the details of project finance transaction, but you’d like to understand it just that little bit more. It could be, you’ve got less than a project finance background, but you’re actually responsible for running a financial modeling team. Maybe you’re a general manager and that financial modeling team reports to you. And ultimately you make decisions off that financial model. How do you ask the right questions of those people? You need to learn, what are the questions that need to ask or to check the analyst or the financial modeler has done their job. Or you just have to evaluate their work as a whole. Are they doing what I expected? Do your models look anything like what I would want on a paper or any course. If not, then it might give you cause for concern. So you don’t do this work every day, but you have to review it. And again, it’s a chance to step back instead of, look at the bigger picture as well.
+
+I think the other group here though, maybe not necessarily senior participants, but I categorize in the same sort of way is government employees. Maybe you don’t do financial models every day to assess deals, but you’re a government employee and you have to negotiate against the private sector. You might be in a public-private partnership team in a government organization. And you have to evaluate whether, say an unsolicited offer to build a hospital or a toll road represents value for money for you as the government. And you’d also like to back calculate the economics of the private sector, is this a reasonable deal? Are the returns reasonable for the type of thing they’re doing? You need to understand how the private sector thinks and this course will helping you think through exactly that, how to invest and develop things.
+
+So what’s covered in the course.
+
+Well look, ultimately we’re building a wall street caliber project finance model from scratch. Clearly, we’re doing that. But we firmly believe at Pivotal 180 you cannot learn modeling if you do not understand the broader transaction. It’s not just about modeling. The model is extremely critical, but you need to understand how it ties together with risks and documentation. So what are the risks? How they mitigate it? How do the contracts deal with risk? And one of the most critical elements for me to actually model? We are not just modeling coders, and we find that many of the other trainers in the project finance training world are just that, they don’t cover things that we do like the documents, risk and build what we think are the world’s best financial models. One thing to note here is this course, as I said, is designed to be as international as possible. So the financial model actually covers both what we call a pass through structure in the US where tax is not paid at the project company level. It’s paid by Ultimate Insurance but we also cover when tax is paid at the SPV or the project level, which is much more common through the rest of the world. So we look at both structures and we model them both. So suitable for people all across the world. We have a model familiarization video. If you’d like to look and see what’s in the model itself, but ultimately we learn how to size debt, how to structure it, work out the repayments with DSCR sculpting. We model the covenants such as the debt service coverage ratio, the DSCR or the loan life courage ratio, the LLCR. We calculate all the operational calculations determine what are the project cash flows. We run scenarios and sensitivities. We’re constantly doing that throughout the course. If we add something, how does that change the economics or different parties. Calculate tax and depreciation, and learn how to build three-way financial statements. Understand the different types of investors in equity and the types of returns they may expect. Debt service and maintenance reserve accounts, shareholder loans, outputs, given ultimately you make a decision off this model. We have to have well presented outputs to tell a story, and finally, how to optimize a transaction with an introduction into VBA.
+
+How do we teach? Well, there’s a couple of different options for you.
+
+Number one is online self-paced learning, and you have 12 months of access to this. And then the 12 months you have unlimited access everything’s available on day one, and in this once, you would lose access unless you purchase the subscription on the back end, which is a hundred dollars a year. And we’re always adding things to the course modeling course you would have seen a lot of information that probably almost gone up by about 30% or 40% since we launched it. And there’s over 20 hours of actual content on here on video content. So it’s likely gonna take you at least 40 to 50 hours, maybe 60 hours to complete.
+
+Our livestream courses have replaced what used to be out in person public courses pre COVID. And it’s certainly a premium learning product. And here you can just buy a place on a session to open to other people from other organizations, which is a great chance for networking. And these were in person classes. So now we run them by a zone, but they run as nine sessions, two and a half hour sessions each time. And the idea behind that is an eight hour Zoom session, no matter how exciting we can try to think because it’s just too hard to learn. It’s not the optimal learning environment. And what we also do is we record all of the online sessions. So you can just go back and review the concepts to catch up, or maybe you missed a class. So you can just jump back into that and watch all that again. And if you’ve got the livestream class, you get free access to the Online self-paced course And what’s really good about this platform is in between the sessions. So we typically run about two sessions per week, but in between the sessions, we actually give you a homework and of course it’s optional, but the homework is there. It’s provided to you to either review topics that we covered in class. Maybe dive deep into something. We don’t have time to cover, which will be available on your online portal or perhaps it’s to complete an exercise, to just practice what you’ve learned. We find that everyone learns at a different speed. So although we go as slow as we can to really reinforce learning concepts in class, if it was too fast for you, you’ve got time in between classes to catch up. So we’ve got really good feedback for that reason. And obviously given it’s a live session, we will give you detailed feedback on your model and your homework, and you can ask any sort of question you would like. So we may go off topic off the usual sort of structure the courses because people interested in certain things. And we often end up staying around a little bit after class to answer additional questions as well. It is run across different timelines.
+
+So what’s kind of fun about this one is you could be sitting in Toronto, Canada and running a course with someone in Johannesburg in South Africa and someone in Geneva in Switzerland and someone in Tokyo, Japan. So that’s kind of fun about it too. I’ll tell you courses are sort of the most premium product and because we’ve worked all over the world and we’ve done work in lots of different sectors. We can tell the course sort of to any type of deal. So we have Tailored courses in the past there is specific technology say maybe toll road in Ghana or hydropower project in Vietnam.
+
+We have Tailored courses based on specific term sheets provided by clients and going beyond that even to specific local tax regimes, but also given that experience, we can go way broader than our sort of typical list of courses. So we can teach things such as corporate governance or asset management or valuations, whatever other topic that is important to you. And with both the live stream and the Tailored class, you will also get free, full access to our online course. In addition to the course here, we talk about project balance and infrastructure. We also have our new energy calls and our tax equity courses.We are in the process of working out some other courses as well outside of the project finance game, we are working on those courses at the moment. So we can also tell the courses that are not even in Project Planning. So whatever you’re interested in.
+
+Before I go to questions, I’d like to also quickly demonstrate the online learning platform, ’cause I think it’s worthwhile just seeing how that looks.
+
+I’ll take of some questions, Actually let me ask some of the questions that answer your questions. Cause there’s this few here.
+
+The first question is; Is the model useful for any country? How tailored is the tax? The tax is tailored generically, if that makes sense. So we cover both the pass through structure. So there’s no tax the project company level has paid the ultimate investor. And we do tax at the project level. we look at things like retained earnings, traps on dividends. We look at what we discussed, alternative minimum tax, but it’s broadly generic for what I would say is the most sort of common structure that I’ve seen all around the world. So it’s not specifically tailored to one country, it talks about a lot of different countries and uses different tax rights. If your interested in something more tailored than that, to say a project in Japan, then we can certainly tailor things, anything you would like session. Okay
+
+How long will I have sessions? How frequently they care and what days of the week? So the live sessions are 2 1/2 hours. Sometimes we might schedule something for three hours and they typically twice per week, depending on schedules and someone’s day up to three times a week. And we say, it’s the week, it varies. Typically we like to do a Tuesday, Thursday, on a two session week. Is there a way to transition from the online course? The live stream course? Yes, if you buy an online course and you then decide Online self-pace is not right for me I wanna have an instructor talk me through things, then you can buy the livestream course We’ll give you a full credit for the online course. Only online course, you have access to see what others are posting in the discussion session. So there is a discussion forum on the online platform, which I’ll show you briefly. You can see everybody’s questions on the discussion forum unless they hide it. Which is actually pretty rare. Most of the time people want to share their questions. But if you’re not comfortable with that you can make it private.
+
+Is there an overlap between the infra calls and renewables? Yes. Ultimately the way you structure and scope debt between renewables and most project finance deals is relatively similar. How you cap a debt service reserve account of similar, how you do it three way statements is similar, how you calculate book depreciation and tax depreciation is similar with some differences in terms of the specific methods, but there’s a lot of overlap from that sense. The big differences are in terms of operational calculations. Clearly very different at PPP which is done as our hospital, public-private partnership, this’s their main model. And they have toll road models download that is very different to when you have an idea transaction and you’ve got to consider things like the authority or the government themselves putting their money into the project. So there isn’t differences there. And actually the Project Finance and Infrastructure Model is slightly larger with a few more things in it than the Renewables course. And that it has a maintenance reserve account in there. It’s got tax in a three-way statements. There’s an option to turn that on and off. So it’s a little bit more international, the renewables course, which is a little bit more tailored towards the US market.
+
+Do you focus only on PPPs or P3 that’s public-private partnerships at the moment primarily, but we will be boarding this out. So the cooperative finance skills are the same. If you’re looking into mining transaction, if you look at oil and gas transaction, there’s not that much difference from most of the items, except for the operational calculations, a couple of different ratios, but largely they’re similar. We’ll be broadening this out on infrastructure world shortly, but we will also be adding some additional sub sectors of the course at the time.
+
+Final question is this course, design to people who already work in project finance. No, it’s not. It starts from the absolute basics. We’ve got great feedback from people who have done this course with 10 years experience and equally great feedback from people who are fresh out of college or in college. It really starts from the bottom up and you can kind of pick and choose what you focus on.
+
+So with that actually I’m gonna open up the online platform and just show you a quick demonstration of that. So here we are in the online platform and I’m in the Project Finance and Infrastructure course. On the left hand side here, we can see a bunch of what we call chapters. The chapters are big groups of information like Project Finance, Term Loans. And within each of those chapters, we have lessons which are going to detail each of those different topics. So for example, here is a video with a white screen and us talking through something which you can just play and stop. What you can do with us, which is great. You can speed it up. You can see I’ve got mine set to 1 1/2 times speed. And because I’m tired of listening to our own voices, but you can put on any speed you’d like and play . Now what you also see in these videos is there is a full video transcription. So if you’re not sure if you wanna watch this video, you think I want to watch this seven minute video and you quickly scroll through and see if there’s anything new that I do not know in here. Maybe come across something and say, what’s this amortization thing? I don’t understand what that thing is. You could copy that amortization text and you come up here. If you select subtitles, I can either turn them on. Once they’re on, I can click this top arrow or I can just search a video and I could either copy it or type in amortization. And when I click on amortization here, it’s gonna take me to the exact point of the video where amortization is discussed. So it’s really searchable. Well, this topic has no discussions as they’re relatively simple video discussions are located in the top right here. So you can post any questions you’d like to in here. And as you post the question, you’ll see the responses from the instructor come up below. And again, as you create this, you can make this private if you’d like. Now these lessons could be a video like I’m showing here, or it could be a quiz. It could be a download that you need. There’s a bunch of different lessons all the way through that you can watch. But we ultimately recommend that you go top to bottom on this to understand everything, because the course really doesn’t build on itself. And of course we have available things like our slides so if you like look at the slides, you can simply click on the slide lessons and see those ones as well. So instead of backup all of our videos that’s something for you to review yourselves.
+
+So I don’t think there’s any further questions. So I think that covers us for today. So thank you so much for sticking with me today. And any questions feel free to email. Thank you.
+
+#### Share This Resource
+
+[](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fpivotal180.com%2Fcourse-information-qa-session-project-finance-infrastructure-modeling%2F)
+
+[](https://twitter.com/share?url=https%3A%2F%2Fpivotal180.com%2Fcourse-information-qa-session-project-finance-infrastructure-modeling%2F)
+
+[](https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fpivotal180.com%2Fcourse-information-qa-session-project-finance-infrastructure-modeling%2F)
+
+[](https://pivotal180.com/cdn-cgi/l/email-protection#b58ad7dad1cc88ddc1c1c5c69086f49087f39087f3c5dcc3dac1d4d9848d859bd6dad89087f3d6dac0c7c6d098dcdbd3dac7d8d4c1dcdadb98c4d498c6d0c6c6dcdadb98c5c7dadfd0d6c198d3dcdbd4dbd6d098dcdbd3c7d4c6c1c7c0d6c1c0c7d098d8dad1d0d9dcdbd29087f3)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20200'%3E%3C/svg%3E)
+
+### Haydn Palliser
+
+[https://www.linkedin.com/in/haydnpalliser/](https://www.linkedin.com/in/haydnpalliser/)
+
+Complexity simplified.
+----------------------
+
+Advisory, financial modeling, and training courses within climate change, sustainable finance, renewable energy, and infrastructure.  
+We don’t just teach you how to build models. We teach you how to do deals.
+
+[VIEW ALL OF OUR COURSES](https://pivotal180.com/all-courses/)
+
+[ENQUIRE ABOUT OUR SERVICES](https://pivotal180.com/contact-us/#form)
+
+[Scroll To Top](https://pivotal180.com/course-information-qa-session-project-finance-infrastructure-modeling/#)
+
+### Download Free Brochure
+
+Fill out the form to download your brochure now.
+
+"\*" indicates required fields
+
+First Name\*
+
+Last Name\*
+
+Email\*
+
+CAPTCHA

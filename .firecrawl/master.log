@@ -1,0 +1,13 @@
+=== Starting all 8 sites in parallel ===
+Dashboard: open scrape_dashboard.html
+
+Started: Damodaran (PID 19234)
+Started: Macabacus (PID 19235)
+Started: CFI (PID 19236)
+Started: Wall Street Prep (PID 19237)
+Started: BIWS (PID 19238)
+Started: Forvis Mazars (PID 19239)
+Started: Pivotal180 (PID 19240)
+Started: Full Stack Modeller (PID 19241)
+
+All 8 sites launched. Monitoring...
