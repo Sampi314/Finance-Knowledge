@@ -1,0 +1,14 @@
+{
+  "status": "done",
+  "total": 50,
+  "completed": 50,
+  "success": 50,
+  "failed": 0,
+  "skipped": 0,
+  "percent": 100,
+  "rate_per_sec": 0,
+  "est_remaining_min": 0,
+  "output_dir": "ChallengeJP",
+  "key": "challengejp",
+  "name": "ChallengeJP"
+}

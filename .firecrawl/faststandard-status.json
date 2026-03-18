@@ -1,0 +1,13 @@
+{
+  "total": 183,
+  "completed": 55,
+  "success": 55,
+  "failed": 0,
+  "skipped": 0,
+  "percent": 30.1,
+  "rate_per_sec": 0.16,
+  "est_remaining_min": 13.0,
+  "output_dir": "FAST Standard",
+  "key": "faststandard",
+  "name": "FAST Standard"
+}
