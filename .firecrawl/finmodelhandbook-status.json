@@ -1,12 +1,12 @@
 {
   "total": 226,
-  "completed": 60,
-  "success": 60,
+  "completed": 175,
+  "success": 175,
   "failed": 0,
   "skipped": 0,
-  "percent": 26.5,
-  "rate_per_sec": 0.17,
-  "est_remaining_min": 15.9,
+  "percent": 77.4,
+  "rate_per_sec": 0.2,
+  "est_remaining_min": 4.2,
   "output_dir": "Financial Modelling Handbook",
   "key": "finmodelhandbook",
   "name": "Financial Modelling Handbook"

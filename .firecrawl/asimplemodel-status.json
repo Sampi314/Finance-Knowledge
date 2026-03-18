@@ -1,12 +1,12 @@
 {
   "total": 290,
-  "completed": 40,
-  "success": 40,
+  "completed": 110,
+  "success": 110,
   "failed": 0,
   "skipped": 0,
-  "percent": 13.8,
-  "rate_per_sec": 0.12,
-  "est_remaining_min": 34.5,
+  "percent": 37.9,
+  "rate_per_sec": 0.13,
+  "est_remaining_min": 22.8,
   "output_dir": "A Simple Model",
   "key": "asimplemodel",
   "name": "A Simple Model"
