@@ -31,7 +31,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Double-entry bookkeeping
 - [x] done — Debits and credits
 - [x] done — The income statement
-- [ ] pending — Revenue recognition
+- [x] done — Revenue recognition
 - [ ] pending — COGS and gross margin
 - [ ] pending — Operating expenses
 - [ ] pending — EBITDA
