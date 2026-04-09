@@ -15,7 +15,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 ## Foundations
 
 - [x] done — Time value of money
-- [ ] pending — Present value
+- [x] done — Present value
 - [ ] pending — Future value
 - [ ] pending — Compound interest
 - [ ] pending — Simple vs compound returns
