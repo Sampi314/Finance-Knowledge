@@ -27,7 +27,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 
 ## Accounting
 
-- [ ] pending — The accounting equation
+- [x] done — The accounting equation
 - [ ] pending — Double-entry bookkeeping
 - [ ] pending — Debits and credits
 - [ ] pending — The income statement
