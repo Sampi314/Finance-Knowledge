@@ -1,4 +1,4 @@
-# sites_100.json schema
+# scripts/sites_100.json schema
 
 Each entry is a JSON object with these fields. The file is a JSON array.
 
@@ -10,7 +10,7 @@ Each entry is a JSON object with these fields. The file is a JSON array.
 | `include` | string | yes | Comma-separated path prefixes to crawl, or empty string for whole site. e.g. `/blog,/resources`. |
 | `folder` | string | yes | Display name for the folder under `99_Raw/`. May contain spaces. |
 
-## Example entries (already in sites_100.json)
+## Example entries (already in scripts/sites_100.json)
 
 ```json
 {"key": "mergersandinquisitions", "name": "Mergers & Inquisitions", "url": "https://mergersandinquisitions.com", "include": "/financial-modeling,/investment-banking,/private-equity,/hedge-funds,/real-estate,/articles", "folder": "Mergers and Inquisitions"}

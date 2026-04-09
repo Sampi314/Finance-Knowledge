@@ -13,6 +13,7 @@ A self-building Obsidian vault that turns scraped finance content from ~20 sourc
 50_Interview_QA/ interview-style questions and answers
 90_Sources/      pointer notes back to raw scraped articles
 99_Raw/          raw Firecrawl output from ~20 finance sites — read-only
+scripts/         scraper scripts and sites_100.json (untouched by automation)
 .github/         auto-approve workflow + frontmatter validator
 .claude/         the /discover-finance-sites skill for adding new sources
 docs/            design specs and implementation plans
@@ -49,7 +50,7 @@ In Claude Code (or another Claude environment that loads this repo's `.claude/sk
 /discover-finance-sites <topic hint>
 ```
 
-Claude will search the web with Firecrawl, present up to 8 candidate sites, wait for your approval (`approve 1,3,5` or `approve all`), then crawl approved sites in parallel and open a PR adding them to `sites_100.json` and `99_Raw/`. The next Jules run will pick up the new content.
+Claude will search the web with Firecrawl, present up to 8 candidate sites, wait for your approval (`approve 1,3,5` or `approve all`), then crawl approved sites in parallel and open a PR adding them to `scripts/sites_100.json` and `99_Raw/`. The next Jules run will pick up the new content.
 
 ## Auto-approve PR workflow
 
@@ -84,4 +85,4 @@ After cloning this repo, do these once:
 
 ## Existing scraper (untouched by automation)
 
-The Python scripts at the repo root (`scrape_with_firecrawl.py`, `scrape_site.py`, etc.) and `sites_100.json` are the existing crawl primitive. Jules never touches them. Claude's discovery skill only appends new entries to `sites_100.json` and writes new folders under `99_Raw/`.
+The Python scripts under `scripts/` (`scrape_with_firecrawl.py`, `scrape_site.py`, etc.) and `scripts/sites_100.json` are the existing crawl primitive. Jules never touches them. Claude's discovery skill only appends new entries to `scripts/sites_100.json` and writes new folders under `99_Raw/`.

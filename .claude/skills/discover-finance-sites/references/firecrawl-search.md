@@ -1,6 +1,6 @@
 # Firecrawl commands for the discovery skill
 
-The repo already uses Firecrawl via the `firecrawl:firecrawl-cli` plugin. Use that plugin where possible — it's the same one already used by `scrape_with_firecrawl.py`.
+The repo already uses Firecrawl via the `firecrawl:firecrawl-cli` plugin. Use that plugin where possible — it's the same one already used by `scripts/scrape_with_firecrawl.py`.
 
 ## Search
 
@@ -26,19 +26,19 @@ Use this in Step 4 to inspect a candidate before recommending it.
 
 ## Crawl an entire site
 
-For Step 8 (the actual content crawl), use the existing `scrape_with_firecrawl.py` script — do NOT invent a new crawl path:
+For Step 8 (the actual content crawl), use the existing `scripts/scrape_with_firecrawl.py` script — do NOT invent a new crawl path:
 
 ```bash
-python scrape_with_firecrawl.py --site "<site key>" --url "<site url>" --include "<include paths>" --output "99_Raw/<folder>/"
+python scripts/scrape_with_firecrawl.py --site "<site key>" --url "<site url>" --include "<include paths>" --output "99_Raw/<folder>/"
 ```
 
-If `scrape_with_firecrawl.py` does not support these flags exactly, read the script first and call it with the right invocation. The point is: **reuse the existing scraper, don't bypass it**.
+If `scripts/scrape_with_firecrawl.py` does not support these flags exactly, read the script first and call it with the right invocation. The point is: **reuse the existing scraper, don't bypass it**.
 
 Run the crawl as a background bash task:
 
 ```
 Bash tool, run_in_background: true
-command: python scrape_with_firecrawl.py --site "<key>" ...
+command: python scripts/scrape_with_firecrawl.py --site "<key>" ...
 ```
 
 ## Rate limits

@@ -17,7 +17,7 @@ This skill discovers new finance sources, gets the user's approval, and crawls t
 
 ### Step 1 — Read the existing inventory
 
-Read `sites_100.json` at the repo root. Build a set of:
+Read `scripts/sites_100.json`. Build a set of:
 
 - Domains already covered (extract from each entry's `url` field)
 - `key` slugs already used
@@ -44,7 +44,7 @@ If the user gave a hint like `infrastructure project finance`, build queries fro
 
 Discard search results matching any of:
 
-- Domains already in `sites_100.json` (compare normalized hostname).
+- Domains already in `scripts/sites_100.json` (compare normalized hostname).
 - Aggregator sites: `reddit.com`, `quora.com`, `youtube.com`, `wikipedia.org`, `medium.com` (tag pages).
 - Paywall or login-only sites (heuristic: title contains "Subscribe to read", "Sign in to continue").
 - Pure landing pages (no `/blog`, `/articles`, `/resources`, `/learn` paths visible).
@@ -57,7 +57,7 @@ For each remaining candidate (up to 8):
 2. Locate an articles/blog/resources index.
 3. Summarize what the site covers in 2-3 sentences (topics, depth, format).
 4. Estimate overlap with existing sources by comparing topic keywords against existing folder names under `99_Raw/`. Return `Low`, `Medium`, or `High`.
-5. Propose `include` paths for the scraper (e.g. `/blog,/resources`) — match what already-similar entries in `sites_100.json` use.
+5. Propose `include` paths for the scraper (e.g. `/blog,/resources`) — match what already-similar entries in `scripts/sites_100.json` use.
 
 ### Step 5 — Present the candidates
 
@@ -77,12 +77,12 @@ Then ask the user verbatim:
 
 Do not crawl anything until the user replies with an approval. If the user asks follow-up questions about a candidate, answer them, then re-prompt for approval.
 
-### Step 7 — Append to sites_100.json
+### Step 7 — Append to scripts/sites_100.json
 
 For each approved site:
 
 1. Build the entry following `references/sites-json-schema.md`.
-2. Insert it into `sites_100.json`, preserving the existing JSON formatting style (one entry per line, terminating comma except on the last entry).
+2. Insert it into `scripts/sites_100.json`, preserving the existing JSON formatting style (one entry per line, terminating comma except on the last entry).
 3. Sort the entries alphabetically by `key` after inserting.
 
 ### Step 8 — Crawl in parallel
@@ -109,11 +109,11 @@ Use a 30-minute hard timeout per crawl. If a crawl exceeds the timeout, kill it 
 
 After all crawls have finished (or timed out):
 
-1. Check `git status` — confirm only `sites_100.json` and files under `99_Raw/<new folder>/` are changed.
+1. Check `git status` — confirm only `scripts/sites_100.json` and files under `99_Raw/<new folder>/` are changed.
 2. Create a branch: `claude/discover-<yyyymmdd-hhmm>`.
 3. Stage and commit:
    ```bash
-   git add sites_100.json 99_Raw/<new folder 1>/ 99_Raw/<new folder 2>/ ...
+   git add scripts/sites_100.json 99_Raw/<new folder 1>/ 99_Raw/<new folder 2>/ ...
    git commit -m "feat: discover and crawl <N> new finance sources
 
    Sources added:
@@ -135,7 +135,7 @@ Stop.
 
 ## Hard rules
 
-- Never write outside `sites_100.json` and `99_Raw/<new folder>/`.
+- Never write outside `scripts/sites_100.json` and `99_Raw/<new folder>/`.
 - Never modify existing files under `99_Raw/`.
 - Never approve a site on the user's behalf — always wait for explicit `approve` reply.
 - Never run more than 8 crawls in parallel (rate-limit safety).

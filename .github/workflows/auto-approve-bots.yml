@@ -60,9 +60,9 @@ jobs:
           AUTHOR="${{ github.event.pull_request.user.login }}"
           # Jules allowlist
           ALLOW='^(00_Meta|10_MOCs|20_Concepts|30_Examples|40_Formulas|50_Interview_QA|90_Sources)/'
-          # Claude allowlist adds 99_Raw/ and sites_100.json
+          # Claude allowlist adds 99_Raw/ and scripts/sites_100.json
           if [[ "$AUTHOR" == "claude[bot]" || "$AUTHOR" == "claude-code[bot]" ]]; then
-            ALLOW='^(00_Meta|10_MOCs|20_Concepts|30_Examples|40_Formulas|50_Interview_QA|90_Sources|99_Raw)/|^sites_100\.json$'
+            ALLOW='^(00_Meta|10_MOCs|20_Concepts|30_Examples|40_Formulas|50_Interview_QA|90_Sources|99_Raw)/|^scripts/sites_100\.json$'
           fi
           BAD=$(grep -vE "$ALLOW" /tmp/changed.txt || true)
           if [ -n "$BAD" ]; then
