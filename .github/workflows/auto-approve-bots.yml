@@ -132,8 +132,15 @@ jobs:
         run: |
           set -euo pipefail
           AUTHOR="${{ github.event.pull_request.user.login }}"
+          TITLE="${{ github.event.pull_request.title }}"
           if [[ "$AUTHOR" != "google-labs-jules[bot]" && "$AUTHOR" != "jules-bot" ]]; then
             echo "Not a Jules PR, skipping backlog check"
+            exit 0
+          fi
+          # Notification PRs (Jules signaling no work) — leave open, do not merge.
+          if [[ "$TITLE" == *"Backlog complete"* || "$TITLE" == *"Blocked on"* ]]; then
+            echo "Notification PR ($TITLE) — leaving open for manual review, no merge"
+            echo "NOTIFICATION_PR=true" >> "$GITHUB_ENV"
             exit 0
           fi
           BASE="${{ github.event.pull_request.base.sha }}"
@@ -153,12 +160,14 @@ jobs:
           echo "Backlog check passed: 1 concept transitioned pending→done"
 
       - name: Approve PR
+        if: env.NOTIFICATION_PR != 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh pr review --approve "${{ github.event.pull_request.number }}"
 
       - name: Enable auto-merge (squash)
+        if: env.NOTIFICATION_PR != 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
