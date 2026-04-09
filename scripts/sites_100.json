@@ -103,5 +103,13 @@
   {"key": "ibinterviewq", "name": "IB Interview Questions", "url": "https://ibinterviewquestions.com", "include": "/ib-interview-guide,/blog", "folder": "IB Interview Questions"},
   {"key": "quantusfinance", "name": "Quantus Finance", "url": "https://quantus.finance", "include": "", "folder": "Quantus Finance"},
   {"key": "financialmodelingnyc", "name": "Financial Modeling NYC", "url": "https://www.financial-modeling.com", "include": "", "folder": "Financial Modeling NYC"},
-  {"key": "joinleland", "name": "Leland", "url": "https://www.joinleland.com", "include": "/library", "folder": "Leland"}
+  {"key": "joinleland", "name": "Leland", "url": "https://www.joinleland.com", "include": "/library", "folder": "Leland"},
+  {"key": "10xsheets", "name": "10XSheets", "url": "https://www.10xsheets.com", "include": "/blog,/templates", "folder": "10XSheets"},
+  {"key": "askatlantis", "name": "Ask Atlantis", "url": "https://www.askatlantis.com", "include": "/blog", "folder": "Ask Atlantis"},
+  {"key": "f1f9", "name": "F1F9", "url": "https://www.f1f9.com", "include": "", "folder": "F1F9"},
+  {"key": "golimelight", "name": "Limelight", "url": "https://www.golimelight.com", "include": "/blog", "folder": "Limelight"},
+  {"key": "ryanoconnellfin", "name": "Ryan O'Connell Finance", "url": "https://ryanoconnellfinance.com", "include": "/blog,/courses,/video,/calculators", "folder": "Ryan OConnell Finance"},
+  {"key": "valuationmasterclass", "name": "Valuation Master Class", "url": "https://valuationmasterclass.com", "include": "", "folder": "Valuation Master Class"},
+  {"key": "valutico", "name": "Valutico", "url": "https://valutico.com", "include": "", "folder": "Valutico"},
+  {"key": "wallstreetplaybook", "name": "Wall Street Playbook", "url": "https://www.wallstreetplaybook.org", "include": "/blog,/playbooks", "folder": "Wall Street Playbook"}
 ]
