@@ -53,11 +53,11 @@ Discard search results matching any of:
 
 For each remaining candidate (up to 8):
 
-1. Firecrawl-fetch the homepage.
-2. Locate an articles/blog/resources index.
+1. Firecrawl-fetch the homepage **and** call `/v1/map` on the base URL to get the full URL list. **Do not skip the map call** — marketing-heavy homepages frequently camouflage content-heavy `/blog`, `/cheatsheets`, or `/resources` backends, and judging from the homepage alone produces false negatives. The URL map is the source of truth for "is this a content site?"
+2. Skim the URL list for topical paths (`/blog/*`, `/cheatsheets/*`, `/resources/*`, `/learn/*`) and pick a handful of representative titles to confirm depth. If the map returns >1,000 URLs and the paths look like coach/profile/category SEO pages, treat it as an aggregator and discard per Step 3.
 3. Summarize what the site covers in 2-3 sentences (topics, depth, format).
 4. Estimate overlap with existing sources by comparing topic keywords against existing folder names under `99_Raw/`. Return `Low`, `Medium`, or `High`.
-5. Propose `include` paths for the scraper (e.g. `/blog,/resources`) — match what already-similar entries in `scripts/sites_100.json` use.
+5. Propose `include` paths for the scraper (e.g. `/blog,/resources`) — match what already-similar entries in `scripts/sites_100.json` use, and prefer narrow paths over the whole site when the map shows hundreds of URLs.
 
 ### Step 5 — Present the candidates
 
@@ -129,9 +129,11 @@ After all crawls have finished (or timed out):
 
 After the PR is open, tell the user:
 
-> "PR opened: <PR URL>. The auto-merge workflow will validate and land it. The next Jules hourly run will start synthesizing the new content into concepts."
+> "PR opened: <PR URL>. The auto-approve workflow only fires for PRs authored by the bot accounts (`google-labs-jules[bot]`, `jules-bot`, `claude[bot]`, `claude-code[bot]`), and this PR was opened via the local `gh` CLI which counts as human-authored — so the workflow will skip it. Reply `merge it` if you want me to squash-merge directly. After merge, the next Jules hourly run will start synthesizing the new content into concepts."
 
 Stop.
+
+**Note on merging**: You cannot self-approve via `gh pr review --approve` because GitHub treats the PR author and reviewer as the same identity. Skip the approval step and go straight to `gh pr merge --squash --delete-branch <num>` — it works without an approval as long as the repo has no required-review branch protection.
 
 ## Hard rules
 
