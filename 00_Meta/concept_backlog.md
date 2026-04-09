@@ -22,7 +22,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Discount rate
 - [x] done — Risk and return basics
 - [x] done — The risk-free rate
-- [ ] pending — Inflation and real vs nominal
+- [x] done — Inflation and real vs nominal
 - [ ] pending — Annuity and perpetuity
 
 ## Accounting

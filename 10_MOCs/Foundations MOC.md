@@ -17,6 +17,7 @@ Core financial concepts every analyst needs before touching valuation, modeling,
 - [[Compound interest]]
 - [[Simple vs compound returns]]
 - [[Discount rate]]
+- [[Inflation and real vs nominal]]
 
 ## 2. Risk and return
 
