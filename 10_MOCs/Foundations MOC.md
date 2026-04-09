@@ -15,6 +15,7 @@ Core financial concepts every analyst needs before touching valuation, modeling,
 - [[Present value]]
 - [[Future value]]
 - [[Compound interest]]
+- [[Simple vs compound returns]]
 
 ## 2. Risk and return
 
