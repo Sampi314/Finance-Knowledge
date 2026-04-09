@@ -16,7 +16,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 
 - [x] done — Time value of money
 - [x] done — Present value
-- [ ] pending — Future value
+- [x] done — Future value
 - [ ] pending — Compound interest
 - [ ] pending — Simple vs compound returns
 - [ ] pending — Discount rate
