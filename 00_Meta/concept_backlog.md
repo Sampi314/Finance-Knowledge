@@ -20,7 +20,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Compound interest
 - [x] done — Simple vs compound returns
 - [x] done — Discount rate
-- [ ] pending — Risk and return basics
+- [x] done — Risk and return basics
 - [ ] pending — The risk-free rate
 - [ ] pending — Inflation and real vs nominal
 - [ ] pending — Annuity and perpetuity

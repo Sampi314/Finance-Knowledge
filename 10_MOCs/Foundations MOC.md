@@ -20,4 +20,4 @@ Core financial concepts every analyst needs before touching valuation, modeling,
 
 ## 2. Risk and return
 
-(none yet)
+- [[Risk and return basics]]
