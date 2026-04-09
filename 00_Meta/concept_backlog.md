@@ -29,7 +29,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 
 - [x] done — The accounting equation
 - [x] done — Double-entry bookkeeping
-- [ ] pending — Debits and credits
+- [x] done — Debits and credits
 - [ ] pending — The income statement
 - [ ] pending — Revenue recognition
 - [ ] pending — COGS and gross margin
