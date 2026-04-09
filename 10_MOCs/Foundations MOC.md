@@ -12,6 +12,7 @@ Core financial concepts every analyst needs before touching valuation, modeling,
 ## 1. Time and money
 
 - [[Time value of money]]
+- [[Present value]]
 
 ## 2. Risk and return
 
