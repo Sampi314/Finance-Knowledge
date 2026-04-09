@@ -12,6 +12,7 @@ The three financial statements and how they connect. Required reading before fin
 ## 1. The income statement
 
 (none yet)
+- [[The income statement]]
 
 ## 2. The balance sheet
 
