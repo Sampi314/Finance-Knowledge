@@ -4,7 +4,7 @@ title: Wall Street Prep - Double Entry Bookkeeping - Debit vs. Credit System
 site: Wall Street Prep
 url: "https://www.wallstreetprep.com/knowledge/double-entry-accounting"
 raw_path: 99_Raw/Wall Street Prep/knowledge_double-entry-accounting.md
-contributed_to: ["[[Double-entry bookkeeping]]"]
+contributed_to: ["[[Double-entry bookkeeping]]", "[[Debits and credits]]"]
 updated: 2026-04-09
 ---
 

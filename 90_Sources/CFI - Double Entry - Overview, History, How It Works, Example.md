@@ -4,7 +4,7 @@ title: CFI - Double Entry - Overview, History, How It Works, Example
 site: Corporate Finance Institute
 url: "https://corporatefinanceinstitute.com/resources/accounting/double-entry"
 raw_path: 99_Raw/CFI/resources_accounting_double-entry.md
-contributed_to: ["[[Double-entry bookkeeping]]"]
+contributed_to: ["[[Double-entry bookkeeping]]", "[[Debits and credits]]"]
 updated: 2026-04-09
 ---
 

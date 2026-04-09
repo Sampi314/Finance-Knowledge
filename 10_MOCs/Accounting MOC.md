@@ -17,6 +17,7 @@ The three financial statements and how they connect. Required reading before fin
 
 - [[The accounting equation]]
 - [[Double-entry bookkeeping]]
+- [[Debits and credits]]
 
 (none yet)
 
