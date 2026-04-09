@@ -14,7 +14,6 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 
 ## Foundations
 
-- [ ] pending — Time value of money
 - [x] done — Time value of money
 - [ ] pending — Present value
 - [ ] pending — Future value
