@@ -4,7 +4,6 @@ import os
 import json
 import urllib.request
 import urllib.parse
-import time
 
 INPUT = ".firecrawl/andypope-excel-links.txt"
 OUTPUT_DIR = "Andy Pope/files"

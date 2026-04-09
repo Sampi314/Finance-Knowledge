@@ -32,7 +32,7 @@ def url_to_filename(url, title):
 def categorize(url, title):
     """Assign a subfolder based on URL path."""
     path = urlparse(url).path.lower()
-    title_lower = (title or "").lower()
+    (title or "").lower()
 
     if "/product/" in path or "/product-category/" in path or "/product-tag/" in path:
         return "Courses"
@@ -129,11 +129,11 @@ def main():
         stats["with_content"] += 1
         categories[category] = categories.get(category, 0) + 1
 
-    print(f"\nExtraction complete:")
+    print("\nExtraction complete:")
     print(f"  Total pages: {stats['total']}")
     print(f"  With content: {stats['with_content']}")
     print(f"  Skipped: {stats['skipped']}")
-    print(f"\nCategories:")
+    print("\nCategories:")
     for cat, count in sorted(categories.items(), key=lambda x: -x[1]):
         print(f"  {cat}: {count} pages")
 
