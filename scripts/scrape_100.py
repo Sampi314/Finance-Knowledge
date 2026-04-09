@@ -3,7 +3,12 @@
 Bulk scrape 100 financial modelling websites using self-hosted Firecrawl.
 Runs sites in batches to avoid overwhelming the Firecrawl instance.
 """
-import json, os, re, sys, time, urllib.request, urllib.parse
+import json
+import os
+import re
+import time
+import urllib.request
+import urllib.parse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 FIRECRAWL = "http://localhost:3002/v1"
@@ -204,8 +209,6 @@ def main():
     print(f"\n{len(remaining)} sites to scrape ({len(skip_keys)} already done)")
 
     # Process in batches
-    from concurrent.futures import ProcessPoolExecutor
-    import multiprocessing
 
     # Use threading batches instead of processes for simplicity
     batch_size = MAX_CONCURRENT_SITES

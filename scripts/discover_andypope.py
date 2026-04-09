@@ -2,7 +2,6 @@
 """Discover all URLs on andypope.info by scraping section pages."""
 import json
 import urllib.request
-import re
 
 FIRECRAWL = "http://localhost:3002/v1/scrape"
 SEED_URLS = [

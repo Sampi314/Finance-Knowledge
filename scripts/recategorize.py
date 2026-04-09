@@ -2,7 +2,6 @@
 """Recategorize files in Project Finance/Other into better subfolders."""
 
 import os
-import re
 import shutil
 
 BASE = "Project Finance"

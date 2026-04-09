@@ -8,7 +8,6 @@ import pytest
 from validate_frontmatter import (
     parse_frontmatter,
     validate_note,
-    REQUIRED_KEYS,
     ValidationError,
 )
 

@@ -4,7 +4,6 @@
 import asyncio
 import os
 import re
-import json
 from urllib.parse import urlparse
 
 OUTPUT_DIR = "Project Finance"

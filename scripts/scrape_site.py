@@ -3,7 +3,13 @@
 Discover URLs and scrape a site using self-hosted Firecrawl.
 Usage: python3 scrape_site.py <key> <base_url> <output_dir> [--include-paths /a,/b] [--seed-urls url1,url2]
 """
-import json, os, re, sys, time, urllib.request, urllib.parse
+import json
+import os
+import re
+import sys
+import time
+import urllib.request
+import urllib.parse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 FIRECRAWL = "http://localhost:3002/v1"
@@ -178,7 +184,6 @@ def main():
 
     if skipped > 0:
         print(f"[{key}] Skipping {skipped} already scraped")
-        completed_base = completed
 
     update_status()
 
@@ -216,7 +221,7 @@ def main():
 
             if completed % 5 == 0 or completed == total:
                 update_status()
-                elapsed = time.time() - start_time
+                time.time() - start_time
                 print(f"  [{key}] {completed}/{total} ({round(completed/total*100,1)}%) OK:{success} FAIL:{failed}")
 
     # Final status

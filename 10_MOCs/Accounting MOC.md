@@ -16,6 +16,7 @@ The three financial statements and how they connect. Required reading before fin
 ## 2. The balance sheet
 
 - [[The accounting equation]]
+- [[Double-entry bookkeeping]]
 
 (none yet)
 
