@@ -1,6 +1,6 @@
 ---
 type: source
-title: BIWS - The Time Value of Money: Excel Calculations and Real-Life Examples
+title: "BIWS - The Time Value of Money: Excel Calculations and Real-Life Examples"
 site: Breaking Into Wall Street
 url: https://breakingintowallstreet.com/kb/finance/time-value-of-money
 raw_path: 99_Raw/BIWS/kb_finance_time-value-of-money.md

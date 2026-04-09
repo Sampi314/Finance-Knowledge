@@ -79,6 +79,6 @@ If the discount rate were higher, say 10%, that Year 10 cash flow would be worth
 
 - [[BIWS - The Time Value of Money: Excel Calculations and Real-Life Examples]]
 - [[Wall Street Prep - DCF Interview Questions | Intrinsic Value Concepts]]
-- [[Pivotal180 - What Ohtani’s Contract can Teach us About Discount Rates]]
+- [[Pivotal180 - What Ohtanis Contract can Teach us About Discount Rates]]
 - [[Pivotal180 - Glossary of Terms for Project Finance Training]]
 - [[A Simple Model - Discounted Cash Flow Model Overview | A Simple Model]]
