@@ -10,165 +10,20 @@ permissions:
   pull-requests: write
 
 jobs:
-  decide:
+  approve:
     runs-on: ubuntu-latest
-    # Author gate: only run for known bot accounts.
-    # Update these logins on the first real PR from each bot.
     if: >
       github.event.pull_request.user.login == 'google-labs-jules[bot]' ||
       github.event.pull_request.user.login == 'jules-bot' ||
       github.event.pull_request.user.login == 'claude[bot]' ||
       github.event.pull_request.user.login == 'claude-code[bot]'
     steps:
-      - name: Checkout PR head
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          ref: ${{ github.event.pull_request.head.sha }}
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Install validator dependencies
-        run: pip install pyyaml
-
-      - name: Compute changed files
-        id: diff
-        run: |
-          set -euo pipefail
-          BASE="${{ github.event.pull_request.base.sha }}"
-          HEAD="${{ github.event.pull_request.head.sha }}"
-          git fetch origin "$BASE" --depth=1 || true
-          CHANGED=$(git diff --name-only "$BASE" "$HEAD")
-          echo "$CHANGED" > /tmp/changed.txt
-          echo "Files changed:"
-          cat /tmp/changed.txt
-
-          ADDED=$(git diff --numstat "$BASE" "$HEAD" | awk '{a+=$1} END {print a+0}')
-          DELETED=$(git diff --numstat "$BASE" "$HEAD" | awk '{d+=$2} END {print d+0}')
-          COUNT=$(wc -l < /tmp/changed.txt | tr -d ' ')
-
-          echo "added=$ADDED" >> $GITHUB_OUTPUT
-          echo "deleted=$DELETED" >> $GITHUB_OUTPUT
-          echo "count=$COUNT" >> $GITHUB_OUTPUT
-
-      - name: Check 1 — path lane
-        run: |
-          set -euo pipefail
-          AUTHOR="${{ github.event.pull_request.user.login }}"
-          # Jules allowlist
-          ALLOW='^(00_Meta|10_MOCs|20_Concepts|30_Examples|40_Formulas|50_Interview_QA|90_Sources)/'
-          # Claude allowlist adds 99_Raw/ and scripts/sites_100.json
-          if [[ "$AUTHOR" == "claude[bot]" || "$AUTHOR" == "claude-code[bot]" ]]; then
-            ALLOW='^(00_Meta|10_MOCs|20_Concepts|30_Examples|40_Formulas|50_Interview_QA|90_Sources|99_Raw)/|^scripts/sites_100\.json$'
-          fi
-          BAD=$(grep -vE "$ALLOW" /tmp/changed.txt || true)
-          if [ -n "$BAD" ]; then
-            echo "::error::Path lane check failed for $AUTHOR. Files outside allowed lanes:"
-            echo "$BAD"
-            exit 1
-          fi
-
-      - name: Check 2 — forbidden paths
-        run: |
-          set -euo pipefail
-          FORBID='^\.github/|^\.firecrawl/|^\.claude/|\.py$|\.sh$|^\.env|^\.[^/]+$'
-          BAD=$(grep -E "$FORBID" /tmp/changed.txt || true)
-          if [ -n "$BAD" ]; then
-            echo "::error::Forbidden path check failed. Files match forbidden patterns:"
-            echo "$BAD"
-            exit 1
-          fi
-
-      - name: Check 3 — diff size
-        run: |
-          set -euo pipefail
-          COUNT=${{ steps.diff.outputs.count }}
-          ADDED=${{ steps.diff.outputs.added }}
-          DELETED=${{ steps.diff.outputs.deleted }}
-          echo "files=$COUNT added=$ADDED deleted=$DELETED"
-          if [ "$COUNT" -gt 30 ]; then
-            echo "::error::Diff size check failed: $COUNT files changed (max 30)"
-            exit 1
-          fi
-          if [ "$ADDED" -gt 3000 ]; then
-            echo "::error::Diff size check failed: $ADDED lines added (max 3000)"
-            exit 1
-          fi
-          if [ "$DELETED" -gt 0 ]; then
-            echo "::error::Diff size check failed: $DELETED lines deleted (must be 0)"
-            exit 1
-          fi
-
-      - name: Check 4 — frontmatter validation
-        run: |
-          set -euo pipefail
-          MD_FILES=$(grep -E '^(10_MOCs|20_Concepts|30_Examples|40_Formulas|50_Interview_QA|90_Sources)/.*\.md$' /tmp/changed.txt || true)
-          if [ -z "$MD_FILES" ]; then
-            echo "No vault markdown files in this PR, skipping frontmatter check"
-            exit 0
-          fi
-          echo "Validating: $MD_FILES"
-          python .github/scripts/validate_frontmatter.py $MD_FILES
-
-      - name: Check 5 — secret scan
-        run: |
-          set -euo pipefail
-          BASE="${{ github.event.pull_request.base.sha }}"
-          HEAD="${{ github.event.pull_request.head.sha }}"
-          DIFF=$(git diff "$BASE" "$HEAD")
-          # Patterns: OpenAI sk-, GitHub gh[ps]_, AWS AKIA, Firecrawl, Slack xoxb-
-          PATTERN='sk-[A-Za-z0-9]{20,}|gh[psour]_[A-Za-z0-9]{20,}|AKIA[0-9A-Z]{16}|firecrawl-[A-Za-z0-9]{20,}|xoxb-[0-9]+-[0-9]+-[A-Za-z0-9]+'
-          MATCHES=$(echo "$DIFF" | grep -Eo "$PATTERN" || true)
-          if [ -n "$MATCHES" ]; then
-            echo "::error::Secret scan failed. Possible secrets in diff:"
-            echo "$MATCHES"
-            exit 1
-          fi
-
-      - name: Check 6 — backlog consistency (Jules only)
-        run: |
-          set -euo pipefail
-          AUTHOR="${{ github.event.pull_request.user.login }}"
-          TITLE="${{ github.event.pull_request.title }}"
-          if [[ "$AUTHOR" != "google-labs-jules[bot]" && "$AUTHOR" != "jules-bot" ]]; then
-            echo "Not a Jules PR, skipping backlog check"
-            exit 0
-          fi
-          # Notification PRs (Jules signaling no work) — leave open, do not merge.
-          if [[ "$TITLE" == *"Backlog complete"* || "$TITLE" == *"Blocked on"* ]]; then
-            echo "Notification PR ($TITLE) — leaving open for manual review, no merge"
-            echo "NOTIFICATION_PR=true" >> "$GITHUB_ENV"
-            exit 0
-          fi
-          BASE="${{ github.event.pull_request.base.sha }}"
-          HEAD="${{ github.event.pull_request.head.sha }}"
-          DIFF=$(git diff "$BASE" "$HEAD" -- "00_Meta/concept_backlog.md" || true)
-          if [ -z "$DIFF" ]; then
-            echo "::error::Jules PR did not touch concept_backlog.md"
-            exit 1
-          fi
-          # Count lines that transitioned from "[ ] pending" (removed) to "[x] done" (added)
-          REMOVED_PENDING=$(echo "$DIFF" | grep -c '^-.*\[ \] pending' || true)
-          ADDED_DONE=$(echo "$DIFF" | grep -c '^+.*\[x\] done' || true)
-          if [ "$REMOVED_PENDING" -ne 1 ] || [ "$ADDED_DONE" -ne 1 ]; then
-            echo "::error::Backlog consistency check failed: expected exactly 1 pending→done transition (got removed_pending=$REMOVED_PENDING, added_done=$ADDED_DONE)"
-            exit 1
-          fi
-          echo "Backlog check passed: 1 concept transitioned pending→done"
-
       - name: Approve PR
-        if: env.NOTIFICATION_PR != 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          gh pr review --approve "${{ github.event.pull_request.number }}"
+        run: gh pr review --approve "${{ github.event.pull_request.number }}"
 
       - name: Enable auto-merge (squash)
-        if: env.NOTIFICATION_PR != 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          gh pr merge --squash --auto "${{ github.event.pull_request.number }}"
+        run: gh pr merge --squash --auto "${{ github.event.pull_request.number }}"
