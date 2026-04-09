@@ -103,5 +103,7 @@
   {"key": "ibinterviewq", "name": "IB Interview Questions", "url": "https://ibinterviewquestions.com", "include": "/ib-interview-guide,/blog", "folder": "IB Interview Questions"},
   {"key": "quantusfinance", "name": "Quantus Finance", "url": "https://quantus.finance", "include": "", "folder": "Quantus Finance"},
   {"key": "financialmodelingnyc", "name": "Financial Modeling NYC", "url": "https://www.financial-modeling.com", "include": "", "folder": "Financial Modeling NYC"},
-  {"key": "joinleland", "name": "Leland", "url": "https://www.joinleland.com", "include": "/library", "folder": "Leland"}
+  {"key": "joinleland", "name": "Leland", "url": "https://www.joinleland.com", "include": "/library", "folder": "Leland"},
+  {"key": "finexmod", "name": "Finexmod", "url": "https://www.finexmod.com", "include": "", "folder": "Finexmod"},
+  {"key": "lentran", "name": "Lentran Modelling Solutions", "url": "http://www.lentransolutions.com", "include": "", "folder": "Lentran Solutions"}
 ]
