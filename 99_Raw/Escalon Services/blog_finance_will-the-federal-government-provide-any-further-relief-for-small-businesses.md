@@ -1,0 +1,169 @@
+# Will the federal government provide any further relief for small businesses? - Escalon
+
+**Source:** https://escalon.services/blog/finance/will-the-federal-government-provide-any-further-relief-for-small-businesses
+
+---
+
+Accounting & Finance
+
+Will the federal government provide any further relief for small businesses?
+============================================================================
+
+*   3 min Read
+*   March 28, 2022
+    
+
+### Author
+
+![](<Base64-Image-Removed>)
+
+##### Escalon
+
+### Table of Contents
+
+Main Street is struggling with climbing prices on inventory, supplies, labor, transportation and more due to rising inflation, right on the heels of COVID-19-related inflation, and many are hoping for a helping hand. In a survey conducted Jan. 24-30, 2022,  [62%](https://www.surveymonkey.com/curiosity/cnbc-small-business-q1-2022/)
+ of small business owner respondents indicated they supported more federal assistance for small businesses.  
+  
+
+However, Congress gave no signal that financial relief for small businesses would be forthcoming in recent discussions over the federal government’s spending bill. Any future pandemic-related relief seems likely to be evaluated by Congress on a case-by-case basis rather than part of a sweeping package.   
+  
+  
+
+For the time being, Congress’ time appears to be consumed with dealing with the Russia-Ukraine war, President Joe Biden’s Build Back Better plan and Ketanji Brown Jackson’s Supreme Court confirmation hearing. As a result, business groups fear pressing concerns like the disrupted supply chain, rising inflation, labor shortages and soaring energy costs will not get the attention they need.  
+  
+  
+
+Industry groups had been holding out hope for the rekindling of measures like the [Employer Retention Credit](https://escalon.services/blog/3-small-business-tax-credits-you-may-be-able-to-claim/)
+ and Restaurant Revitalization Fund. The latter programs came with price tags of $50 billion and $8 billion respectively. However, given the hefty price tag of the RRF and the fact that it targeted only one industry, efforts had shifted to restoring the ERC, whose end date was moved up from its original Jan. 1, 2022, to Oct. 1, 2021.  
+  
+  
+
+According to policy watchers, all may not be lost. Federal spending for several agencies is higher now than it was during the Trump administration. Some consider it a good sign that the current administration is undertaking greater social investment. On the state level, the allocation of funds provided in the American Rescue Plan — which at one point was in jeopardy of being clawed back in an effort to balance the budget — has provided an upside for small businesses. The plan gave states considerable latitude in terms of how they distributed the funds, and many allocated them to support small firms.  
+  
+  
+
+In the meantime, small business proponents like the [Main Street Alliance](https://mainstreetalliance.org/)
+ favor grants over programs like the [Paycheck Protection Program](https://escalon.services/blog/new-study-gauges-the-impact-of-ppp-money/)
+, which included forgivable loans but were not made available to many eligible candidates. “Grants are much more efficient and provide relief more quickly,” said Didier Trinh, the organization’s director of policy and political impact. “States know how to administer grant programs at the local level.”  
+  
+  
+
+According to small business owners, their [three main challenges](https://escalon.services/blog/federal-reserve-survey-most-small-businesses-still-not-back-to-pre-pandemic-levels/)
+ warrant support from the White House, Democrats and Republicans alike. But many think the legislative docket in the run-up to midterm elections will not have much room for small business relief measures that could help them stay afloat in this year of rising costs and inflation.
+
+Talk to our team today to learn how Escalon can help take your company to the next level.
+-----------------------------------------------------------------------------------------
+
+*   ![](<Base64-Image-Removed>)
+    
+    ### Expertise you can trust
+    
+    Our team is made up of seasoned professionals who bring years of industry experience to the table. You gain a trusted advisor who understands your business inside out.
+    
+*   ![](<Base64-Image-Removed>)
+    
+    ### Quality and consistency
+    
+    Say goodbye to the hassles of hiring, training and managing in-house finance teams. You will never have to worry about unexpected leave of absence or retraining new employees.
+    
+*   ![](<Base64-Image-Removed>)
+    
+    ### Scalability and Flexibility
+    
+    Whether you’re a small business or a global powerhouse, our solutions scale with your needs. We eliminate inefficiencies, reduce costs and help you focus on growing your business.
+    
+
+### Contact Us Today!
+
+Tap into the latest insights from experts in your industry
+----------------------------------------------------------
+
+[![](<Base64-Image-Removed>)](https://escalon.services/blog/nonprofit/cash-flow-management-strategies-for-nonprofits-with-seasonal-funding)
+
+##### Nonprofit
+
+[Cash Flow Management Strategies for Nonprofits With Seasonal Funding](https://escalon.services/blog/nonprofit/cash-flow-management-strategies-for-nonprofits-with-seasonal-funding)
+  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Ask the finance director of almost any nonprofit what keeps them up at night, and cash flow will be near...
+
+[![](<Base64-Image-Removed>)](https://escalon.services/blog/finance/state-income-tax-nexus-101)
+
+##### Accounting & Finance
+
+[State Income Tax Nexus 101](https://escalon.services/blog/finance/state-income-tax-nexus-101)
+
+-----------------------------------------------------------------------------------------------
+
+You hired your first remote employee in Texas. A sales rep was sent to work out of a co-working space...
+
+[![](<Base64-Image-Removed>)](https://escalon.services/blog/nonprofit/top-grant-accounting-mistakes-nonprofits-make)
+
+##### Nonprofit
+
+[Top Grant Accounting Mistakes Nonprofits Make](https://escalon.services/blog/nonprofit/top-grant-accounting-mistakes-nonprofits-make)
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Grant funding is the lifeblood of many nonprofit organizations. It fuels programs, sustains operations, and enables the kind of long-term...
+
+[![](<Base64-Image-Removed>)](https://escalon.services/blog/life-sciences/transfer-pricing-considerations-for-life-sciences-companies-expanding-globally)
+
+##### Life Sciences
+
+[Transfer Pricing Considerations for Life Sciences Companies Expanding Globally](https://escalon.services/blog/life-sciences/transfer-pricing-considerations-for-life-sciences-companies-expanding-globally)
+  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Global expansion is one of the most exciting milestones a life sciences company can hit. New markets, new clinical partnerships,...
+
+[![](<Base64-Image-Removed>)](https://escalon.services/blog/finance/the-role-of-accounting-software-in-simplifying-audit-prep)
+
+##### Accounting & Finance
+
+[The Role of Accounting Software in Simplifying Audit Prep](https://escalon.services/blog/finance/the-role-of-accounting-software-in-simplifying-audit-prep)
+  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+If you have ever spent the weeks before an audit digging through spreadsheets, chasing down receipts, or reconciling accounts that should have...
+
+[![](<Base64-Image-Removed>)](https://escalon.services/blog/taxes/the-smb-owners-audit-preparation-timeline-90-days-out)
+
+##### Taxes
+
+[The SMB Owner’s Audit Preparation Timeline: 90 Days Out](https://escalon.services/blog/taxes/the-smb-owners-audit-preparation-timeline-90-days-out)
+ 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Three months before your audit starts is when you should begin serious preparation, not three days. Yet many business owners...
+
+[![](<Base64-Image-Removed>)](https://escalon.services/blog/taxes/the-cost-of-waiting-why-proactive-voluntary-disclosure-agreement-vda-filing-almost-always-beats-an-audit)
+
+##### Taxes
+
+[The Cost of Waiting: Why Proactive Voluntary Disclosure Agreement (“VDA”) Filing Almost Always Beats an Audit](https://escalon.services/blog/taxes/the-cost-of-waiting-why-proactive-voluntary-disclosure-agreement-vda-filing-almost-always-beats-an-audit)
+ 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Unaddressed, historical state tax exposure is often an outgrowth of being focused on building a company and not properly keeping track of  an expanding state and local tax footprint. The exposure accumulated as the...
+
+[![](<Base64-Image-Removed>)](https://escalon.services/blog/taxes/rd-tax-credits-for-non-tech-companies-are-you-missing-out)
+
+##### Taxes
+
+[R&D Tax Credits for Non-Tech Companies: Are You Missing Out?](https://escalon.services/blog/taxes/rd-tax-credits-for-non-tech-companies-are-you-missing-out)
+ 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+When most business owners hear "R&D tax credit," they immediately think of software companies and biotech firms. This narrow perception costs non-tech businesses billions...
+
+[![](<Base64-Image-Removed>)](https://escalon.services/blog/taxes/5-business-triggers-that-should-prompt-an-immediate-nexus-review)
+
+##### Taxes
+
+[5 Business Triggers That Should Prompt an Immediate Nexus Review](https://escalon.services/blog/taxes/5-business-triggers-that-should-prompt-an-immediate-nexus-review)
+ 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+There is a persistent myth in the world of state and local tax compliance that a nexus review is something...
