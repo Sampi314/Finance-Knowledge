@@ -97,5 +97,11 @@
   {"key": "beancounter", "name": "Bean Counter", "url": "https://www.dwmbeancounter.com", "include": "", "folder": "Bean Counter"},
   {"key": "freebookkeeping", "name": "Free Bookkeeping", "url": "https://www.freebookkeepingaccounting.com", "include": "", "folder": "Free Bookkeeping"},
   {"key": "masterexcelfunc", "name": "Master Excel Functions", "url": "https://masterexcelfunctions.com", "include": "", "folder": "Master Excel Functions"},
-  {"key": "financialmodelslab", "name": "Financial Models Lab", "url": "https://financialmodelslab.com", "include": "/blogs", "folder": "Financial Models Lab"}
+  {"key": "financialmodelslab", "name": "Financial Models Lab", "url": "https://financialmodelslab.com", "include": "/blogs", "folder": "Financial Models Lab"},
+  {"key": "finmodelacademy", "name": "Financial Modeling Academy", "url": "https://www.financialmodelingacademy.com", "include": "/toolbox,/coding,/best-practices,/finance-basics,/design,/financing,/tricks", "folder": "Financial Modeling Academy"},
+  {"key": "uplevered", "name": "UpLevered", "url": "https://uplevered.com", "include": "/content,/how-to-build-an-lbo-model,/private-equity-case-study-distribution-lbo", "folder": "UpLevered"},
+  {"key": "ibinterviewq", "name": "IB Interview Questions", "url": "https://ibinterviewquestions.com", "include": "/ib-interview-guide,/blog", "folder": "IB Interview Questions"},
+  {"key": "quantusfinance", "name": "Quantus Finance", "url": "https://quantus.finance", "include": "", "folder": "Quantus Finance"},
+  {"key": "financialmodelingnyc", "name": "Financial Modeling NYC", "url": "https://www.financial-modeling.com", "include": "", "folder": "Financial Modeling NYC"},
+  {"key": "joinleland", "name": "Leland", "url": "https://www.joinleland.com", "include": "/library", "folder": "Leland"}
 ]
