@@ -4,7 +4,7 @@ title: "Wall Street Prep - Compound Interest"
 site: "Wall Street Prep"
 url: "https://www.wallstreetprep.com/knowledge/compound-interest"
 raw_path: "99_Raw/Wall Street Prep/knowledge_compound-interest.md"
-contributed_to: ["[[Future value]]"]
+contributed_to: ["[[Future value]]", "[[Compound interest]]"]
 updated: 2026-04-09
 ---
 
