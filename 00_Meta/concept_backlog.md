@@ -23,7 +23,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Risk and return basics
 - [x] done — The risk-free rate
 - [x] done — Inflation and real vs nominal
-- [ ] pending — Annuity and perpetuity
+- [x] done — Annuity and perpetuity
 
 ## Accounting
 
