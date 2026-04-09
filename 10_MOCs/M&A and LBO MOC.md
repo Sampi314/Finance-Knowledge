@@ -1,0 +1,26 @@
+---
+type: moc
+title: M&A and LBO MOC
+chapter_order: 5
+updated: 2026-04-09
+---
+
+# M&A and LBO — reading order
+
+Mergers, acquisitions, and leveraged buyouts: deal structures, accretion-dilution, sponsor returns.
+
+## 1. M&A fundamentals
+
+(none yet)
+
+## 2. Accretion-dilution analysis
+
+(none yet)
+
+## 3. LBO mechanics
+
+(none yet)
+
+## 4. Sponsor returns and exits
+
+(none yet)
