@@ -19,7 +19,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Future value
 - [x] done — Compound interest
 - [x] done — Simple vs compound returns
-- [ ] pending — Discount rate
+- [x] done — Discount rate
 - [ ] pending — Risk and return basics
 - [ ] pending — The risk-free rate
 - [ ] pending — Inflation and real vs nominal

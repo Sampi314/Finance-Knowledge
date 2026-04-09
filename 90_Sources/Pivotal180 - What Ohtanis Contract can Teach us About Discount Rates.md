@@ -4,7 +4,7 @@ title: Pivotal180 - What Ohtani’s Contract can Teach us About Discount Rates
 site: Pivotal180
 url: https://pivotal180.com/what-ohtanis-contract-can-teach-us-about-discount-rates
 raw_path: 99_Raw/Pivotal180/what-ohtanis-contract-can-teach-us-about-discount-rates.md
-contributed_to: ["[[Time value of money]]"]
+contributed_to: ["[[Time value of money]]", "[[Discount rate]]"]
 updated: 2026-04-09
 ---
 
