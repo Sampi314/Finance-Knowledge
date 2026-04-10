@@ -37,6 +37,7 @@ The three financial statements and how they connect. Required reading before fin
 (none yet)
 
 ## 3. The cash flow statement
+- [[The cash flow statement]]
 
 (none yet)
 
