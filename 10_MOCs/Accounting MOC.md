@@ -10,6 +10,7 @@ updated: 2026-04-09
 The three financial statements and how they connect. Required reading before financial modeling.
 
 ## 1. The income statement
+- [[Depreciation and amortization]]
 
 (none yet)
 - [[The income statement]]
