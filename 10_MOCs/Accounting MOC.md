@@ -29,6 +29,7 @@ The three financial statements and how they connect. Required reading before fin
 - [[Debits and credits]]
 - [[Current assets]]
 - [[Non-current assets]]
+- [[Current liabilities]]
 
 (none yet)
 
