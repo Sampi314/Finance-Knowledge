@@ -40,7 +40,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Net income
 - [x] done — The balance sheet
 - [x] done — Current assets
-- [ ] pending — Non-current assets
+- [x] done — Non-current assets
 - [ ] pending — Working capital
 - [ ] pending — Current liabilities
 - [ ] pending — Long-term debt
