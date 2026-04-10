@@ -16,6 +16,7 @@ The three financial statements and how they connect. Required reading before fin
 - [[Revenue recognition]]
 - [[COGS and gross margin]]
 - [[Operating expenses]]
+- [[EBITDA]]
 
 ## 2. The balance sheet
 
