@@ -19,6 +19,7 @@ The three financial statements and how they connect. Required reading before fin
 - [[Operating expenses]]
 - [[EBITDA]]
 - [[EBIT]]
+- [[Net income]]
 
 ## 2. The balance sheet
 
