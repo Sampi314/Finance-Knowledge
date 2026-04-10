@@ -36,7 +36,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Operating expenses
 - [x] done — EBITDA
 - [x] done — EBIT
-- [ ] pending — Depreciation and amortization
+- [x] done — Depreciation and amortization
 - [ ] pending — Net income
 - [ ] pending — The balance sheet
 - [ ] pending — Current assets
