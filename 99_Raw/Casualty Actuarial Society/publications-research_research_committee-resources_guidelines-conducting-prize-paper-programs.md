@@ -1,0 +1,15 @@
+# Guidelines for Conducting Prize Paper Programs | Casualty Actuarial Society
+
+**Source:** https://www.casact.org/publications-research/research/committee-resources/guidelines-conducting-prize-paper-programs
+
+---
+
+Guidelines for Conducting Prize Paper Programs
+==============================================
+
+1.  CAS research committees have oversight responsibility for the various CAS research prizes, including those chosen as part of call paper programs. Certain prizes, such as the Hachemeister Prize and Michelbacher Significant Achievement Award, have a committee solely devoted to picking prizewinners. But, for call paper programs, a prize committee with a separate prize committee chairperson should be selected to coordinate each prize paper selection. The prize paper program chair is responsible for gathering volunteers to serve on the prize committee and organizing the review of eligible papers. The prize paper program chair is afforded some flexibility in conducting the program, but must ensure that the prizewinner selection process is impartial and unbiased.
+2.  The review of papers and selection of the prizewinner may be conducted by members of the responsible CAS standing committee or by outside volunteers serving only on the prize committee. In addition, volunteers from outside the committee might be needed when specific expertise is required to review papers on a particular topic.
+3.  When practical, judges should not have knowledge of the authors of the papers included in the prize competition. This may not be possible for programs such as the ARIA and Hachmeister Prizes, which review papers that have been previously published in professional journals. However, for prize paper programs sponsored by CAS research committees that review papers not yet published, the anonymity practice should be followed when possible.
+4.  The method used for judging papers should be objective and fair. Methods vary among the prize programs. It is possible that not all papers written for a Call Paper Program move forward to the prize committee, if certain basic criteria are not met. Papers are typically graded on: practicality, contribution to literature, clarity of presentation, originality, understandability of ideas, and thorough treatment of ideas.
+5.  CAS prize paper program awards are normally presented during a CAS meeting or seminar. Prizewinners should be selected at least six weeks prior to the date of the award presentation. This will allow time to notify the winner (and allow for travel arrangements to be made for the prize presentation) and to obtain a plaque and prepare a check for the winner. The notification of the prizewinner should be considered as the final milestone in the process, and [**the dates of other milestones**](https://www.casact.org/sites/default/files/2021-02/research_manual_cpptimeline.pdf)
+     in conducting the process should be established accordingly to meet this deadline. Generally, the chair of the committee that managed the prize paper program makes the award presentation.

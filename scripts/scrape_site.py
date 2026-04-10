@@ -47,12 +47,13 @@ def discover_urls_scrape_links(seed_urls):
     return list(all_links)
 
 def scrape_url(url):
-    result = api("scrape", {"url": url, "timeout": 120000, "waitFor": 3000})
+    # No waitFor on first attempt — most blog content is server-rendered.
+    # Retry with a 2s wait for SPA-style sites.
+    result = api("scrape", {"url": url, "timeout": 60000})
     if result and result.get("success"):
         return result
-    # Retry once on failure
-    time.sleep(2)
-    return api("scrape", {"url": url, "timeout": 120000, "waitFor": 5000})
+    time.sleep(1)
+    return api("scrape", {"url": url, "timeout": 120000, "waitFor": 2000})
 
 def url_to_filename(url):
     parsed = urllib.parse.urlparse(url)

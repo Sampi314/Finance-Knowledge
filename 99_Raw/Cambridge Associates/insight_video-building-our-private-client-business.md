@@ -1,0 +1,70 @@
+# Video: Building Our Private Client Business - Cambridge Associates
+
+**Source:** https://www.cambridgeassociates.com/insight/video-building-our-private-client-business
+
+---
+
+[Skip to Main Content](https://www.cambridgeassociates.com/insight/video-building-our-private-client-business/#main)
+
+Video: Building Our Private Client Business
+===========================================
+
+Cambridge Associates  
+
+Aug 11, 2023
+
+![Video: Building Our Private Client Business](https://www.cambridgeassociates.com/wp-content/uploads/2023/08/newyork_nyc_1000x667px.png)
+
+Since the early 1980s, we have been building custom portfolios to help private clients and family offices grow their wealth and continue their legacies. Drawing on deep experience and dedicated partnerships, we work with our clients to help meet their goals and preserve their private wealth. Today, our clients span the globe, with the practice making up a large portion of our business.
+
+In this video, our co-founder, Jim Bailey, and CEO, [David Druley](https://www.cambridgeassociates.com/people/david-druley/)
+, discuss how this business came to be — beginning with David Rockefeller. Watch now to learn more.
+
+* * *
+
+**  
+About Cambridge Associates**
+
+Cambridge Associates is a global investment firm with 50+ years of institutional investing experience. The firm aims to help pension plans, endowments & foundations, healthcare systems, and private clients achieve their investment goals and maximize their impact on the world. Cambridge Associates delivers a range of services, including outsourced CIO, non-discretionary portfolio management, staff extension and alternative asset class mandates. [Contact us](https://www.cambridgeassociates.com/contact-us/)
+ today.
+
+Learn more about our Private Client Practice
+--------------------------------------------
+
+[Learn more](https://www.cambridgeassociates.com/private-clients-family-offices/)
+
+**Last Updated:** Mar 04, 2026
+
+### This website is directed and intended to be accessed by persons who satisfy any of the following criteria:
+
+1.  A professional client or an eligible counterparty\*
+2.  A financial advisor or financial intermediary acting on behalf of a professional client or eligible counterparty\*
+3.  An employee or prospective employee
+
+If you satisfy any of these criteria, please click confirm to proceed:
+
+ Please check this box to remember my choice
+
+ Decline
+
+\*As defined in the Markets in Financial Instruments Directive (Directive 2014/65/EC) as amended or updated (MiFID)
+
+### This website is directed and intended to be accessed by persons who satisfy any of the following criteria:
+
+1.  A regulated financial entity\*
+2.  An institutional investor, investment professional and other entities or individuals who are qualified to operate in financial markets involving regulated financial activity as defined by its local country regulator
+3.  An employee or prospective employee
+
+If you satisfy any of these criteria, please click confirm to proceed:
+
+ Please check this box to remember my choice
+
+ Decline
+
+\*An entity regulated by its local country regulator which may include banks, collective investment schemes, endowments, foundations, investment managers, insurance companies, pension funds and intermediaries
+
+The information contained herein is not suitable for retail investors.
+
+Please contact us if you have any questions: [ContactCA@cambridgeassociates.com](mailto:ContactCA@cambridgeassociates.com)
+
+If you clicked decline in error, please [click here](https://www.cambridgeassociates.com/?clearRP=1)

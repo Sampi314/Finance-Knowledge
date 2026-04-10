@@ -1,0 +1,120 @@
+# 2023 Outlook: Private Investments - Cambridge Associates
+
+**Source:** https://www.cambridgeassociates.com/insight/2023-outlook-private-investments
+
+---
+
+[Skip to Main Content](https://www.cambridgeassociates.com/insight/2023-outlook-private-investments/#main)
+
+2023 Outlook: Private Investments
+=================================
+
+[![Picture of Co-Head of North American Private Equity Research](https://www.cambridgeassociates.com/wp-content/uploads/2022/03/Keirsten-Lawton-square.jpg)](https://www.cambridgeassociates.com/people/keirsten-lawton/)
+
+[Keirsten Lawton, CFA](https://www.cambridgeassociates.com/people/keirsten-lawton/)
+ Co-Head of North American Private Equity Research
+
+  
+
+[![Picture of Managing Director, Private Investment Strategy Research](https://www.cambridgeassociates.com/wp-content/uploads/2022/03/Slotsky-Caryn-web.png)](https://www.cambridgeassociates.com/people/caryn-slotsky/)
+
+[Caryn Slotsky](https://www.cambridgeassociates.com/people/caryn-slotsky/)
+ Managing Director, Private Investment Strategy Research
+
+  
+
+[![Picture of Head of Asia-Pacific Private Investments](https://www.cambridgeassociates.com/wp-content/uploads/2022/03/Ramaswami-Vish-web.png)](https://www.cambridgeassociates.com/people/vish-ramaswami/)
+
+[Vish Ramaswami](https://www.cambridgeassociates.com/people/vish-ramaswami/)
+ Head of Asia-Pacific Private Investments
+
+Dec 07, 2022
+
+![2023 Outlook: Private Investments](https://www.cambridgeassociates.com/wp-content/uploads/2022/12/CA-Globe-for-Outlook-01-scaled-e1717700782120.jpg)
+
+We expect the cyclical backdrop to impact private equity and venture capital returns, ultimately influencing recently invested vintages the most. That said, we think the 2023 vintage could perform well.
+
+### Private Equity Will Sail in Stormy Seas in 2023
+
+_Keirsten Lawton, Co-Head of US Private Equity Research, and Caryn Slotsky, Senior Investment Director, Private Investment Strategy Research_
+
+We expect continued headwinds for private equity (PE). Weak economic activity, difficult political environments, and tight credit markets will pressure current valuations and slow investment and realization activity. While public equities quickly reflected these concerns in 2022, private markets reacted more slowly. Multiples are trending lower but strong earnings growth has mitigated the mark-to-market impact thus far.
+
+In 2022, we saw a drop in activity. Heading into 2023, transaction activity should continue to be slower as valuations settle and lending costs increase, and this lull should favor buyers. General partners (GPs) with mature assets to sell may delay exits given volatile markets pressured by uncertainty. Investors should expect longer holds, and perhaps more GP-sponsored continuation vehicles.
+
+Fewer realizations will result in fewer limited partner (LP) distributions, which since the beginning of 2011 have averaged $1.49 for every PE dollar drawn, enabling new PE commitments. However, in 2023 we do expect capital calls to pick up given GPs have near-record dry powder. We believe new investment activity, while slower than recent years, will precede a return to robust realizations. The potential of fewer distributions raises the specter of liquidity concerns for LPs as they might need to fund their PE commitments from other sources for the first time in years.
+
+In the current market, GPs are focusing on company-specific actions, risks, and opportunities. From a value creation perspective, revenue growth and EBITDA margins are primary levers of returns, but amid a tight labor market, GPs are also seeking to pull the talent management lever. On the risk side, GPs are revisiting recession scenarios, managing expenses, and monitoring sales. They have raised prices to compensate for higher inflation, which might not be a sustainable strategy.
+
+COVID-era PE returns were strong but largely unrealized and not likely to be sustained in the current market. History has shown that funds deployed at high valuations based on high growth expectations (such as the pre-GFC vintages) posted below-average net internal rates of return, and it is likely that recent vintages will suffer the same fate. Conversely, recession-era vintages, invested at more moderate valuations, have historically outperformed growth expectations and achieved multiple expansion at exit. So, while today’s environment could hurt current portfolios, the 2023 vintage could benefit from the valuation reset.
+
+[![Chart showing private equity has outperformed public markets, especially in post-recession periods.](https://publishedresearch.cambridgeassociates.com/wp-content/uploads/2022/12/2022-12-Outlook-PE-Keirsten.png)](https://publishedresearch.cambridgeassociates.com/wp-content/uploads/2022/12/2022-12-Outlook-PE-Keirsten.png)
+
+* * *
+
+### Venture Capital Interest in India and Southeast Asia Will Continue to Increase in 2023
+
+_Vish Ramaswami, Managing Director, Head of Asia PE/VC Research_
+
+Geopolitical dynamics and the uncertainty generated by China’s zero-COVID policy have dampened investor activity in China venture capital (VC). Concurrently, interest has increased in India and Southeast Asia as potential alternative growth and venture markets, which we expect will continue next year.
+
+In India, the entrepreneur ecosystem is maturing and there has been a buildup of strong domestic and foreign VC presence. Government and private-sector initiatives introduced over the past decade have facilitated the development of financial and digital infrastructure, creating a fertile opportunity set for start-ups operating in the domestic consumer and enterprise space. Consumer technology, fintech, and software-as-a-service (SaaS) deals have dominated investment activity, leading to a rise in the number of India unicorns in recent years. While the India VC market is looking more proven and attractive vis-à-vis a decade ago, investors should be mindful that the market depth and track record of managers will continue to take time to build.
+
+The same investment themes apply in Southeast Asia, given the rise of internet penetration in markets such as Indonesia and Vietnam. The region likely boasts the second-largest slate of VC managers in Asia after China. However, the market is fragmented across many countries with varied levels of infrastructure development and talent pools, posing unique challenges to scaling and growing businesses. As a result, Southeast Asia VC still lags China or India VC and requires more validation.
+
+In China, the story is mixed. Consumer technology themes have plateaued, given market developments and regulatory headwinds. But China’s increased emphasis on self-sufficiency and innovation in the clean energy and “deep technology” sectors (e.g., semiconductors, automation), supported by the already well-developed supply chain and advanced manufacturing capabilities, presents a secular growth opportunity for companies in these areas. A core challenge is whether the US or Chinese government will place restrictions on investing in these sectors. Meanwhile, any clarity on the lifting of China’s zero-COVID policy could trigger a rebound in China’s growth prospects and its financial markets, leading to a renewed surge in China VC deal activity and fundraising.
+
+[![Chart showing that Asia-based venture capital has produced strong returns relative to other markets.](https://publishedresearch.cambridgeassociates.com/wp-content/uploads/2022/12/2022-12-Outlook-Asia-VC-Vish.png)](https://publishedresearch.cambridgeassociates.com/wp-content/uploads/2022/12/2022-12-Outlook-Asia-VC-Vish.png)
+
+* * *
+
+**[Keirsten Lawton, CFA](https://www.cambridgeassociates.com/people/keirsten-lawton/)
+** - Keirsten Lawton is Co-Head of North American Private Equity Research and a Partner at Cambridge Associates.
+
+**[Caryn Slotsky](https://www.cambridgeassociates.com/people/caryn-slotsky/)
+** - Caryn Slotsky is a Managing Director for the Private Investment Strategy Research team at Cambridge Associates.
+
+**[Vish Ramaswami](https://www.cambridgeassociates.com/people/vish-ramaswami/)
+** - Vish Ramaswami is a Partner and the Head of Asia-Pacific Private Investments at Cambridge Associates.
+
+**  
+About Cambridge Associates**
+
+Cambridge Associates is a global investment firm with 50+ years of institutional investing experience. The firm aims to help pension plans, endowments & foundations, healthcare systems, and private clients achieve their investment goals and maximize their impact on the world. Cambridge Associates delivers a range of services, including outsourced CIO, non-discretionary portfolio management, staff extension and alternative asset class mandates. [Contact us](https://www.cambridgeassociates.com/contact-us/)
+ today.
+
+**Last Updated:** Mar 04, 2026
+
+### This website is directed and intended to be accessed by persons who satisfy any of the following criteria:
+
+1.  A professional client or an eligible counterparty\*
+2.  A financial advisor or financial intermediary acting on behalf of a professional client or eligible counterparty\*
+3.  An employee or prospective employee
+
+If you satisfy any of these criteria, please click confirm to proceed:
+
+ Please check this box to remember my choice
+
+ Decline
+
+\*As defined in the Markets in Financial Instruments Directive (Directive 2014/65/EC) as amended or updated (MiFID)
+
+### This website is directed and intended to be accessed by persons who satisfy any of the following criteria:
+
+1.  A regulated financial entity\*
+2.  An institutional investor, investment professional and other entities or individuals who are qualified to operate in financial markets involving regulated financial activity as defined by its local country regulator
+3.  An employee or prospective employee
+
+If you satisfy any of these criteria, please click confirm to proceed:
+
+ Please check this box to remember my choice
+
+ Decline
+
+\*An entity regulated by its local country regulator which may include banks, collective investment schemes, endowments, foundations, investment managers, insurance companies, pension funds and intermediaries
+
+The information contained herein is not suitable for retail investors.
+
+Please contact us if you have any questions: [ContactCA@cambridgeassociates.com](mailto:ContactCA@cambridgeassociates.com)
+
+If you clicked decline in error, please [click here](https://www.cambridgeassociates.com/?clearRP=1)
