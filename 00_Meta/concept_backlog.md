@@ -49,7 +49,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — The cash flow statement
 - [x] done — Cash from operations
 - [x] done — Cash from investing
-- [ ] pending — Cash from financing
+- [x] done — Cash from financing
 - [ ] pending — Free cash flow
 - [ ] pending — FCFF vs FCFE
 - [ ] pending — Accruals vs cash accounting

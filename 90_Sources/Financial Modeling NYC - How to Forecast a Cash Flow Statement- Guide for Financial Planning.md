@@ -4,7 +4,7 @@ title: "Financial Modeling NYC - How to Forecast a Cash Flow Statement- Guide fo
 site: Financial Modeling NYC
 url: https://www.financial-modeling.com/how-to-forecast-a-cash-flow-statement
 raw_path: 99_Raw/Financial Modeling NYC/how-to-forecast-a-cash-flow-statement.md
-contributed_to: ["[[Cash from operations]]"]
+contributed_to: ["[[Cash from operations]]", "[[Cash from financing]]"]
 updated: 2026-04-10
 ---
 
