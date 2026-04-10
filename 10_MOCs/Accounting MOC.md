@@ -32,6 +32,7 @@ The three financial statements and how they connect. Required reading before fin
 - [[Current liabilities]]
 - [[Long-term debt]]
 - [[Shareholders equity]]
+- [[Retained earnings]]
 
 (none yet)
 
