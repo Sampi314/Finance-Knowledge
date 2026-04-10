@@ -14,6 +14,7 @@ The three financial statements and how they connect. Required reading before fin
 (none yet)
 - [[The income statement]]
 - [[Revenue recognition]]
+- [[COGS and gross margin]]
 
 ## 2. The balance sheet
 

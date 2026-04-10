@@ -32,7 +32,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Debits and credits
 - [x] done — The income statement
 - [x] done — Revenue recognition
-- [ ] pending — COGS and gross margin
+- [x] done — COGS and gross margin
 - [ ] pending — Operating expenses
 - [ ] pending — EBITDA
 - [ ] pending — EBIT
