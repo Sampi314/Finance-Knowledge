@@ -41,6 +41,7 @@ The three financial statements and how they connect. Required reading before fin
 - [[Cash from operations]]
 - [[Cash from investing]]
 - [[Cash from financing]]
+- [[Free cash flow]]
 
 (none yet)
 

@@ -50,7 +50,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Cash from operations
 - [x] done — Cash from investing
 - [x] done — Cash from financing
-- [ ] pending — Free cash flow
+- [x] done — Free cash flow
 - [ ] pending — FCFF vs FCFE
 - [ ] pending — Accruals vs cash accounting
 - [ ] pending — Deferred revenue
