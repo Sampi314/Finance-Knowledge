@@ -44,7 +44,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Working capital
 - [x] done — Current liabilities
 - [x] done — Long-term debt
-- [ ] pending — Shareholders equity
+- [x] done — Shareholders equity
 - [ ] pending — Retained earnings
 - [ ] pending — The cash flow statement
 - [ ] pending — Cash from operations
