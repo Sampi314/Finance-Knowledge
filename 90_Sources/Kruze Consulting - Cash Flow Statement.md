@@ -4,7 +4,7 @@ title: "Kruze Consulting - Cash Flow Statement"
 site: Kruze Consulting
 url: https://kruzeconsulting.com/blog/cash-flow-statement
 raw_path: 99_Raw/Kruze Consulting/blog_cash-flow-statement.md
-contributed_to: ["[[The cash flow statement]]"]
+contributed_to: ["[[The cash flow statement]]", "[[Cash from operations]]"]
 updated: 2026-04-10
 ---
 
