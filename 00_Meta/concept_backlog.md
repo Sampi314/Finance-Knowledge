@@ -47,7 +47,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Shareholders equity
 - [x] done — Retained earnings
 - [x] done — The cash flow statement
-- [ ] pending — Cash from operations
+- [x] done — Cash from operations
 - [ ] pending — Cash from investing
 - [ ] pending — Cash from financing
 - [ ] pending — Free cash flow
