@@ -33,7 +33,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — The income statement
 - [x] done — Revenue recognition
 - [x] done — COGS and gross margin
-- [ ] pending — Operating expenses
+- [x] done — Operating expenses
 - [ ] pending — EBITDA
 - [ ] pending — EBIT
 - [ ] pending — Depreciation and amortization
