@@ -48,5 +48,6 @@ The three financial statements and how they connect. Required reading before fin
 
 ## 4. Working capital and accruals
 - [[Working capital]]
+- [[Accruals vs cash accounting]]
 
 (none yet)

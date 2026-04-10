@@ -52,7 +52,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Cash from financing
 - [x] done — Free cash flow
 - [x] done — FCFF vs FCFE
-- [ ] pending — Accruals vs cash accounting
+- [x] done — Accruals vs cash accounting
 - [ ] pending — Deferred revenue
 - [ ] pending — Accounts receivable and DSO
 - [ ] pending — Accounts payable and DPO
