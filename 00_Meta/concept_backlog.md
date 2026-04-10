@@ -39,7 +39,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Depreciation and amortization
 - [x] done — Net income
 - [x] done — The balance sheet
-- [ ] pending — Current assets
+- [x] done — Current assets
 - [ ] pending — Non-current assets
 - [ ] pending — Working capital
 - [ ] pending — Current liabilities
