@@ -40,6 +40,7 @@ The three financial statements and how they connect. Required reading before fin
 - [[The cash flow statement]]
 - [[Cash from operations]]
 - [[Cash from investing]]
+- [[Cash from financing]]
 
 (none yet)
 
