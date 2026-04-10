@@ -54,7 +54,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — FCFF vs FCFE
 - [x] done — Accruals vs cash accounting
 - [x] done — Deferred revenue
-- [ ] pending — Accounts receivable and DSO
+- [x] done — Accounts receivable and DSO
 - [ ] pending — Accounts payable and DPO
 - [ ] pending — Inventory and DIO
 
