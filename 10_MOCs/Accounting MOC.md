@@ -50,5 +50,6 @@ The three financial statements and how they connect. Required reading before fin
 - [[Working capital]]
 - [[Accruals vs cash accounting]]
 - [[Deferred revenue]]
+- [[Accounts receivable and DSO]]
 
 (none yet)
