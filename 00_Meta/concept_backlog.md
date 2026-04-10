@@ -34,7 +34,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Revenue recognition
 - [x] done — COGS and gross margin
 - [x] done — Operating expenses
-- [ ] pending — EBITDA
+- [x] done — EBITDA
 - [ ] pending — EBIT
 - [ ] pending — Depreciation and amortization
 - [ ] pending — Net income
