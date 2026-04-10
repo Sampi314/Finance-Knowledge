@@ -51,5 +51,6 @@ The three financial statements and how they connect. Required reading before fin
 - [[Accruals vs cash accounting]]
 - [[Deferred revenue]]
 - [[Accounts receivable and DSO]]
+- [[Accounts payable and DPO]]
 
 (none yet)
