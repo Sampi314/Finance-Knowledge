@@ -37,5 +37,6 @@ The three financial statements and how they connect. Required reading before fin
 (none yet)
 
 ## 4. Working capital and accruals
+- [[Working capital]]
 
 (none yet)

@@ -41,7 +41,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — The balance sheet
 - [x] done — Current assets
 - [x] done — Non-current assets
-- [ ] pending — Working capital
+- [x] done — Working capital
 - [ ] pending — Current liabilities
 - [ ] pending — Long-term debt
 - [ ] pending — Shareholders equity
