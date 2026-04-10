@@ -4,7 +4,7 @@ title: "Escalon Services - Cash Flow Statement- Essential Tips for Accurate Fina
 site: Escalon Services
 url: https://escalon.services/blog/finance/cash-flow-statement-direct-versus-indirect-cash-flow-accounting-methods
 raw_path: 99_Raw/Escalon Services/blog_finance_cash-flow-statement-direct-versus-indirect-cash-flow-accounting-methods.md
-contributed_to: ["[[The cash flow statement]]"]
+contributed_to: ["[[The cash flow statement]]", "[[Cash from investing]]"]
 updated: 2026-04-10
 ---
 
