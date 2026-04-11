@@ -71,7 +71,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Beta
 - [x] done — Levered vs unlevered beta
 - [x] done — Equity risk premium
-- [ ] pending — Cost of debt
+- [x] done — Cost of debt
 - [ ] pending — Pre-tax vs after-tax cost of debt
 - [ ] pending — Capital structure
 - [ ] pending — WACC
