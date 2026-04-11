@@ -18,6 +18,7 @@ Intrinsic and relative valuation methods, from DCF to trading multiples to prece
 (none yet)
 
 ## 3. Intrinsic valuation (DCF)
+- [[Intrinsic vs relative valuation]]
 
 (none yet)
 
