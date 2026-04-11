@@ -4,7 +4,7 @@ title: "IB Interview Questions - How to Calculate WACC Step-by-Step"
 site: "IB Interview Questions"
 url: "https://ibinterviewquestions.com/blog/how-to-calculate-wacc-guide"
 raw_path: "99_Raw/IB Interview Questions/blog_how-to-calculate-wacc-guide.md"
-contributed_to: ["[[Discount rate]]", "[[The risk-free rate]]"]
+contributed_to: ["[[Discount rate]]", "[[The risk-free rate]]", "[[Cost of debt]]"]
 updated: 2026-04-09
 ---
 
