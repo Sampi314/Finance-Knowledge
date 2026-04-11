@@ -67,7 +67,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Net debt
 - [x] done — Minority interest
 - [x] done — Cost of equity
-- [ ] pending — CAPM
+- [x] done — CAPM
 - [ ] pending — Beta
 - [ ] pending — Levered vs unlevered beta
 - [ ] pending — Equity risk premium
