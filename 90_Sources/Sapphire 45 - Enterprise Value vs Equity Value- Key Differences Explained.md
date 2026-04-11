@@ -4,7 +4,7 @@ title: "Sapphire 45 - Enterprise Value vs Equity Value: Key Differences Explaine
 site: "Sapphire 45"
 url: "https://resources.s45.ai/blogs/enterprise-value-equity-value-key-differences"
 raw_path: "99_Raw/Sapphire 45/blogs_enterprise-value-equity-value-key-differences.md"
-contributed_to: ["[[Enterprise value]]"]
+contributed_to: ["[[Enterprise value]]", "[[Equity value]]"]
 updated: 2026-04-11
 ---
 
