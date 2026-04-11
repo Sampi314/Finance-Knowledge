@@ -34,6 +34,7 @@ Intrinsic and relative valuation methods, from DCF to trading multiples to prece
 - [[Free cash flow projection]]
 - [[Intrinsic vs relative valuation]]
 - [[DCF valuation]]
+- [[Terminal value]]
 
 (none yet)
 
