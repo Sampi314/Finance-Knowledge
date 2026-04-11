@@ -1,7 +1,7 @@
 ---
 type: formula
 title: "Free cash flow formula"
-used_in: ["[[Free cash flow]]"]
+used_in: ["[[Free cash flow]]", "[[Free cash flow projection]]"]
 updated: 2026-04-10
 ---
 
