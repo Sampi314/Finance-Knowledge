@@ -33,6 +33,7 @@ Intrinsic and relative valuation methods, from DCF to trading multiples to prece
 ## 3. Intrinsic valuation (DCF)
 - [[Free cash flow projection]]
 - [[Intrinsic vs relative valuation]]
+- [[DCF valuation]]
 
 (none yet)
 

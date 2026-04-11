@@ -76,7 +76,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Capital structure
 - [x] done — WACC
 - [x] done — Free cash flow projection
-- [ ] pending — DCF valuation
+- [x] done — DCF valuation
 - [ ] pending — Terminal value
 - [ ] pending — Gordon growth method
 - [ ] pending — Exit multiple method
