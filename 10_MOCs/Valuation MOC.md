@@ -22,6 +22,7 @@ Intrinsic and relative valuation methods, from DCF to trading multiples to prece
 
 - [[Cost of equity]]
 - [[CAPM]]
+- [[Beta]]
 
 ## 3. Intrinsic valuation (DCF)
 - [[Intrinsic vs relative valuation]]
