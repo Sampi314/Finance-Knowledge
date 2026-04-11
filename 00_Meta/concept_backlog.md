@@ -75,7 +75,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Pre-tax vs after-tax cost of debt
 - [x] done — Capital structure
 - [x] done — WACC
-- [ ] pending — Free cash flow projection
+- [x] done — Free cash flow projection
 - [ ] pending — DCF valuation
 - [ ] pending — Terminal value
 - [ ] pending — Gordon growth method
