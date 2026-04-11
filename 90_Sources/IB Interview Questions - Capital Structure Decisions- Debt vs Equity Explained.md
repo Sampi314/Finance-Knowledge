@@ -4,7 +4,7 @@ title: "IB Interview Questions - Capital Structure Decisions: Debt vs Equity Exp
 site: "IB Interview Questions"
 url: "https://ibinterviewquestions.com/blog/capital-structure-decisions-explained"
 raw_path: "99_Raw/IB Interview Questions/blog_capital-structure-decisions-explained.md"
-contributed_to: ["[[Cost of debt]]"]
+contributed_to: ["[[Cost of debt]]", "[[Capital structure]]"]
 updated: 2026-04-11
 ---
 
