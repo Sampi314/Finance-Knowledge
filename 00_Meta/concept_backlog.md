@@ -78,7 +78,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Free cash flow projection
 - [x] done — DCF valuation
 - [x] done — Terminal value
-- [ ] pending — Gordon growth method
+- [x] done — Gordon growth method
 - [ ] pending — Exit multiple method
 - [ ] pending — Mid-year discounting convention
 - [ ] pending — Sensitivity analysis
