@@ -4,7 +4,7 @@ title: "Financial Modeling NYC - Capital Asset Pricing Model (CAPM)"
 site: "Financial Modeling NYC"
 url: "https://www.financial-modeling.com/glossar/capital-asset-pricing-model"
 raw_path: "99_Raw/Financial Modeling NYC/glossar_capital-asset-pricing-model.md"
-contributed_to: ["[[Risk and return basics]]"]
+contributed_to: ["[[Risk and return basics]]", "[[CAPM]]"]
 updated: 2026-04-09
 ---
 
