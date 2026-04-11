@@ -24,6 +24,7 @@ Intrinsic and relative valuation methods, from DCF to trading multiples to prece
 - [[CAPM]]
 - [[Beta]]
 - [[Levered vs unlevered beta]]
+- [[Equity risk premium]]
 
 ## 3. Intrinsic valuation (DCF)
 - [[Intrinsic vs relative valuation]]
