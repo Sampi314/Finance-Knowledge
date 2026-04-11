@@ -4,7 +4,7 @@ title: "IB Interview Questions - How to Answer Walk Me Through a DCF in IB Inter
 site: "IB Interview Questions"
 url: "https://ibinterviewquestions.com/blog/walk-me-through-dcf-answer"
 raw_path: "99_Raw/IB Interview Questions/blog_walk-me-through-dcf-answer.md"
-contributed_to: ["[[Discount rate]]"]
+contributed_to: ["[[Discount rate]]", "[[DCF valuation]]"]
 updated: 2026-04-09
 ---
 
