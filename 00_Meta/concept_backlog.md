@@ -69,7 +69,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Cost of equity
 - [x] done — CAPM
 - [x] done — Beta
-- [ ] pending — Levered vs unlevered beta
+- [x] done — Levered vs unlevered beta
 - [ ] pending — Equity risk premium
 - [ ] pending — Cost of debt
 - [ ] pending — Pre-tax vs after-tax cost of debt
