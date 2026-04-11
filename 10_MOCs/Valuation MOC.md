@@ -14,6 +14,7 @@ Intrinsic and relative valuation methods, from DCF to trading multiples to prece
 (none yet)
 - [[Enterprise value]]
 - [[Equity value]]
+- [[The bridge from EV to equity value]]
 
 ## 2. Cost of capital
 
