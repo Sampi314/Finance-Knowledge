@@ -73,7 +73,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Equity risk premium
 - [x] done — Cost of debt
 - [x] done — Pre-tax vs after-tax cost of debt
-- [ ] pending — Capital structure
+- [x] done — Capital structure
 - [ ] pending — WACC
 - [ ] pending — Free cash flow projection
 - [ ] pending — DCF valuation
