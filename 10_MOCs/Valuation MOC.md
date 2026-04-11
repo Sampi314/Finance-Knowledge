@@ -28,6 +28,7 @@ Intrinsic and relative valuation methods, from DCF to trading multiples to prece
 - [[Cost of debt]]
 - [[Pre-tax vs after-tax cost of debt]]
 - [[Capital structure]]
+- [[WACC]]
 
 ## 3. Intrinsic valuation (DCF)
 - [[Intrinsic vs relative valuation]]

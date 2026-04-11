@@ -74,7 +74,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Cost of debt
 - [x] done — Pre-tax vs after-tax cost of debt
 - [x] done — Capital structure
-- [ ] pending — WACC
+- [x] done — WACC
 - [ ] pending — Free cash flow projection
 - [ ] pending — DCF valuation
 - [ ] pending — Terminal value
