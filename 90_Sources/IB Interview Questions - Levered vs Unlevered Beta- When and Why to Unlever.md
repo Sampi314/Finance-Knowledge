@@ -4,7 +4,7 @@ title: "IB Interview Questions - Levered vs Unlevered Beta: When and Why to Unle
 site: "IB Interview Questions"
 url: "https://ibinterviewquestions.com/blog/levered-vs-unlevered-beta-guide"
 raw_path: "99_Raw/IB Interview Questions/blog_levered-vs-unlevered-beta-guide.md"
-contributed_to: ["[[Beta]]"]
+contributed_to: ["[[Beta]]", "[[Levered vs unlevered beta]]"]
 updated: 2026-04-11
 ---
 
