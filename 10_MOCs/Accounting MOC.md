@@ -52,5 +52,6 @@ The three financial statements and how they connect. Required reading before fin
 - [[Deferred revenue]]
 - [[Accounts receivable and DSO]]
 - [[Accounts payable and DPO]]
+- [[Inventory and DIO]]
 
 (none yet)

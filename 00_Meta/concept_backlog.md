@@ -56,7 +56,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Deferred revenue
 - [x] done — Accounts receivable and DSO
 - [x] done — Accounts payable and DPO
-- [ ] pending — Inventory and DIO
+- [x] done — Inventory and DIO
 
 ## Valuation
 
