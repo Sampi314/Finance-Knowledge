@@ -20,7 +20,7 @@ Intrinsic and relative valuation methods, from DCF to trading multiples to prece
 
 ## 2. Cost of capital
 
-(none yet)
+- [[Cost of equity]]
 
 ## 3. Intrinsic valuation (DCF)
 - [[Intrinsic vs relative valuation]]
