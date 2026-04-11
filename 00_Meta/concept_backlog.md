@@ -62,7 +62,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 
 - [x] done — Intrinsic vs relative valuation
 - [x] done — Enterprise value
-- [ ] pending — Equity value
+- [x] done — Equity value
 - [ ] pending — The bridge from EV to equity value
 - [ ] pending — Net debt
 - [ ] pending — Minority interest
