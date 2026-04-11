@@ -4,7 +4,7 @@ title: "IB Interview Questions - Terminal Value: Gordon Growth vs Exit Multiple 
 site: "IB Interview Questions"
 url: "https://ibinterviewquestions.com/blog/terminal-value-gordon-growth-vs-exit-multiple"
 raw_path: "99_Raw/IB Interview Questions/blog_terminal-value-gordon-growth-vs-exit-multiple.md"
-contributed_to: ["[[Terminal value]]", "[[Gordon growth method]]"]
+contributed_to: ["[[Terminal value]]", "[[Gordon growth method]]", "[[Exit multiple method]]"]
 updated: 2026-04-11
 ---
 
