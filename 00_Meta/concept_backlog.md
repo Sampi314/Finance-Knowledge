@@ -66,7 +66,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — The bridge from EV to equity value
 - [x] done — Net debt
 - [x] done — Minority interest
-- [ ] pending — Cost of equity
+- [x] done — Cost of equity
 - [ ] pending — CAPM
 - [ ] pending — Beta
 - [ ] pending — Levered vs unlevered beta
