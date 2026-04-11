@@ -26,6 +26,7 @@ Intrinsic and relative valuation methods, from DCF to trading multiples to prece
 - [[Levered vs unlevered beta]]
 - [[Equity risk premium]]
 - [[Cost of debt]]
+- [[Pre-tax vs after-tax cost of debt]]
 
 ## 3. Intrinsic valuation (DCF)
 - [[Intrinsic vs relative valuation]]
