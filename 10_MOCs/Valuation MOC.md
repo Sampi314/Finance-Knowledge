@@ -35,6 +35,7 @@ Intrinsic and relative valuation methods, from DCF to trading multiples to prece
 - [[Intrinsic vs relative valuation]]
 - [[DCF valuation]]
 - [[Terminal value]]
+- [[Gordon growth method]]
 
 (none yet)
 
