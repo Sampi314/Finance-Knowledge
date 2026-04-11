@@ -12,6 +12,7 @@ Intrinsic and relative valuation methods, from DCF to trading multiples to prece
 ## 1. Enterprise value and equity value
 
 (none yet)
+- [[Enterprise value]]
 
 ## 2. Cost of capital
 
