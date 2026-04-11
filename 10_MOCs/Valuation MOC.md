@@ -37,6 +37,7 @@ Intrinsic and relative valuation methods, from DCF to trading multiples to prece
 - [[Terminal value]]
 - [[Gordon growth method]]
 - [[Exit multiple method]]
+- [[Mid-year discounting convention]]
 
 (none yet)
 
