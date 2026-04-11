@@ -16,6 +16,7 @@ Intrinsic and relative valuation methods, from DCF to trading multiples to prece
 - [[Equity value]]
 - [[The bridge from EV to equity value]]
 - [[Net debt]]
+- [[Minority interest]]
 
 ## 2. Cost of capital
 
