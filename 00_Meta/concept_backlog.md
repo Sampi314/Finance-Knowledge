@@ -79,7 +79,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — DCF valuation
 - [x] done — Terminal value
 - [x] done — Gordon growth method
-- [ ] pending — Exit multiple method
+- [x] done — Exit multiple method
 - [ ] pending — Mid-year discounting convention
 - [ ] pending — Sensitivity analysis
 - [ ] pending — Scenario analysis
