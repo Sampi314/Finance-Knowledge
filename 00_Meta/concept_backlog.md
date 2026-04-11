@@ -64,7 +64,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Enterprise value
 - [x] done — Equity value
 - [x] done — The bridge from EV to equity value
-- [ ] pending — Net debt
+- [x] done — Net debt
 - [ ] pending — Minority interest
 - [ ] pending — Cost of equity
 - [ ] pending — CAPM
