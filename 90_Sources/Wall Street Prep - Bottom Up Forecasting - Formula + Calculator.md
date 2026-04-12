@@ -4,7 +4,7 @@ title: "Wall Street Prep - Bottom Up Forecasting - Formula + Calculator"
 site: "Wall Street Prep"
 url: "https://www.wallstreetprep.com/knowledge/bottom-up-forecasting"
 raw_path: "99_Raw/Wall Street Prep/knowledge_bottom-up-forecasting.md"
-contributed_to: ["[[Revenue build top-down]]"]
+contributed_to: ["[[Revenue build top-down]]", "[[Revenue build bottom-up]]"]
 updated: 2026-04-12
 ---
 
