@@ -52,3 +52,4 @@ Intrinsic and relative valuation methods, from DCF to trading multiples to prece
 - [[EV/Revenue]]
 - [[P-E ratio]]
 - [[PEG ratio]]
+- [[Precedent transaction analysis]]
