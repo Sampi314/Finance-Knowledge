@@ -92,7 +92,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Precedent transaction analysis
 - [x] done — Control premium
 - [x] done — Synergy adjustments
-- [ ] pending — Football field chart
+- [x] done — Football field chart
 - [ ] pending — Sum-of-the-parts valuation
 - [ ] pending — Dividend discount model
 
