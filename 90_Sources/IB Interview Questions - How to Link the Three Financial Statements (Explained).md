@@ -4,8 +4,8 @@ title: "IB Interview Questions - How to Link the Three Financial Statements (Exp
 site: "IB Interview Questions"
 url: "https://ibinterviewquestions.com/blog/how-to-link-three-financial-statements"
 raw_path: "99_Raw/IB Interview Questions/blog_how-to-link-three-financial-statements.md"
-contributed_to: ["[[The balance sheet]]", "[[Free cash flow]]", "[[Three-statement model]]"]
-updated: 2026-04-10
+contributed_to: ["[[The balance sheet]]", "[[Free cash flow]]", "[[Three-statement model]]", "[[Linking the three statements]]"]
+updated: 2026-04-12
 ---
 
 This guide outlines exactly how the three financial statements link to each other, a core component of financial modeling and technical interviews. It shows how net income and cash flow changes affect the balance sheet.

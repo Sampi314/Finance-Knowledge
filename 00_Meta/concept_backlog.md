@@ -99,7 +99,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 ## Financial Modeling
 
 - [x] done — Three-statement model
-- [ ] pending — Linking the three statements
+- [x] done — Linking the three statements
 - [ ] pending — Revenue build top-down
 - [ ] pending — Revenue build bottom-up
 - [ ] pending — Cost build
