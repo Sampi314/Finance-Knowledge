@@ -4,7 +4,7 @@ title: "IB Interview Questions - Sensitivity and Scenario Analysis in Financial 
 site: "IB Interview Questions"
 url: "https://ibinterviewquestions.com/blog/sensitivity-scenario-analysis-financial-modeling"
 raw_path: "99_Raw/IB Interview Questions/blog_sensitivity-scenario-analysis-financial-modeling.md"
-contributed_to: ["[[Sensitivity analysis]]"]
+contributed_to: ["[[Sensitivity analysis]]", "[[Scenario analysis]]"]
 updated: 2026-04-12
 ---
 

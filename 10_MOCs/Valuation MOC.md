@@ -39,6 +39,7 @@ Intrinsic and relative valuation methods, from DCF to trading multiples to prece
 - [[Exit multiple method]]
 - [[Mid-year discounting convention]]
 - [[Sensitivity analysis]]
+- [[Scenario analysis]]
 
 (none yet)
 

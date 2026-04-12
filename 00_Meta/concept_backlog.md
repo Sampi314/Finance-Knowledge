@@ -82,7 +82,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Exit multiple method
 - [x] done — Mid-year discounting convention
 - [x] done — Sensitivity analysis
-- [ ] pending — Scenario analysis
+- [x] done — Scenario analysis
 - [ ] pending — Comparable company analysis
 - [ ] pending — Trading multiples
 - [ ] pending — EV/EBITDA
