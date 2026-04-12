@@ -46,3 +46,4 @@ Intrinsic and relative valuation methods, from DCF to trading multiples to prece
 ## 4. Relative valuation
 
 (none yet)
+- [[Comparable company analysis]]

@@ -83,7 +83,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Mid-year discounting convention
 - [x] done — Sensitivity analysis
 - [x] done — Scenario analysis
-- [ ] pending — Comparable company analysis
+- [x] done — Comparable company analysis
 - [ ] pending — Trading multiples
 - [ ] pending — EV/EBITDA
 - [ ] pending — EV/Revenue
