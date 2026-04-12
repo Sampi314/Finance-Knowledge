@@ -19,7 +19,7 @@ Building three-statement models, supporting schedules, and audit-ready workbooks
 
 ## 2. Supporting schedules
 
-(none yet)
+- [[Capex schedule]]
 
 ## 3. Modeling craft and audit
 
