@@ -4,7 +4,7 @@ title: "IB Interview Questions - How to Link the Three Financial Statements (Exp
 site: "IB Interview Questions"
 url: "https://ibinterviewquestions.com/blog/how-to-link-three-financial-statements"
 raw_path: "99_Raw/IB Interview Questions/blog_how-to-link-three-financial-statements.md"
-contributed_to: ["[[The balance sheet]]", "[[Free cash flow]]"]
+contributed_to: ["[[The balance sheet]]", "[[Free cash flow]]", "[[Three-statement model]]"]
 updated: 2026-04-10
 ---
 

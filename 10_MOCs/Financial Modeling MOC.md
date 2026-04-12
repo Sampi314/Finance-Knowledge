@@ -11,7 +11,7 @@ Building three-statement models, supporting schedules, and audit-ready workbooks
 
 ## 1. Three-statement model
 
-(none yet)
+- [[Three-statement model]]
 
 ## 2. Supporting schedules
 
