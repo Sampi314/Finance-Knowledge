@@ -84,7 +84,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Sensitivity analysis
 - [x] done — Scenario analysis
 - [x] done — Comparable company analysis
-- [ ] pending — Trading multiples
+- [x] done — Trading multiples
 - [ ] pending — EV/EBITDA
 - [ ] pending — EV/Revenue
 - [ ] pending — P/E ratio
