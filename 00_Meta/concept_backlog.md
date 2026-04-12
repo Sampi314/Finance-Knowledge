@@ -101,7 +101,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Three-statement model
 - [x] done — Linking the three statements
 - [x] done — Revenue build top-down
-- [ ] pending — Revenue build bottom-up
+- [x] done — Revenue build bottom-up
 - [ ] pending — Cost build
 - [ ] pending — Capex schedule
 - [ ] pending — Depreciation schedule
