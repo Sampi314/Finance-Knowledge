@@ -104,7 +104,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Revenue build bottom-up
 - [x] done — Cost build
 - [x] done — Capex schedule
-- [ ] pending — Depreciation schedule
+- [x] done — Depreciation schedule
 - [ ] pending — Debt schedule
 - [ ] pending — Interest expense circularity
 - [ ] pending — Iterative calculations in Excel
