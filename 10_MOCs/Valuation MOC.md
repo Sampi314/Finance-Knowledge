@@ -50,3 +50,4 @@ Intrinsic and relative valuation methods, from DCF to trading multiples to prece
 - [[Trading multiples]]
 - [[EV/EBITDA]]
 - [[EV/Revenue]]
+- [[P-E ratio]]

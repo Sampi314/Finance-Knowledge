@@ -4,7 +4,7 @@ title: IB Interview Questions - Common Valuation Multiples Explained
 site: IB Interview Questions
 url: https://ibinterviewquestions.com/blog/common-valuation-multiples
 raw_path: 99_Raw/IB Interview Questions/blog_common-valuation-multiples.md
-contributed_to: ["[[Trading multiples]]", "[[EV/Revenue]]"]
+contributed_to: ["[[Trading multiples]]", "[[EV/Revenue]]", "[[P-E ratio]]"]
 updated: 2026-04-12
 ---
 
