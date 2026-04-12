@@ -55,3 +55,4 @@ Intrinsic and relative valuation methods, from DCF to trading multiples to prece
 - [[P-E ratio]]
 - [[PEG ratio]]
 - [[Precedent transaction analysis]]
+- [[Football field chart]]
