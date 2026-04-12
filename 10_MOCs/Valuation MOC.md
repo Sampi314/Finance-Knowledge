@@ -48,3 +48,4 @@ Intrinsic and relative valuation methods, from DCF to trading multiples to prece
 (none yet)
 - [[Comparable company analysis]]
 - [[Trading multiples]]
+- [[EV/EBITDA]]

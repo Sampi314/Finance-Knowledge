@@ -4,7 +4,7 @@ title: "IB Interview Questions - Precedent Transactions Analysis - Step-by-Step 
 site: "IB Interview Questions"
 url: "https://ibinterviewquestions.com/blog/precedent-transactions-analysis-guide"
 raw_path: "99_Raw/IB Interview Questions/blog_precedent-transactions-analysis-guide.md"
-contributed_to: ["[[The bridge from EV to equity value]]"]
+contributed_to: ["[[The bridge from EV to equity value]]", "[[EV/EBITDA]]"]
 updated: 2026-04-11
 ---
 

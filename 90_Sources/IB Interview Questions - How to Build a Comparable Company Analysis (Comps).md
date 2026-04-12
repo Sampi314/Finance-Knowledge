@@ -4,7 +4,7 @@ title: "IB Interview Questions - How to Build a Comparable Company Analysis (Com
 site: IB Interview Questions
 url: https://ibinterviewquestions.com/blog/how-to-build-comparable-company-analysis
 raw_path: 99_Raw/IB Interview Questions/blog_how-to-build-comparable-company-analysis.md
-contributed_to: ["[[Comparable company analysis]]"]
+contributed_to: ["[[Comparable company analysis]]", "[[EV/EBITDA]]"]
 updated: 2026-04-12
 ---
 
