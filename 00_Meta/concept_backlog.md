@@ -102,7 +102,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Linking the three statements
 - [x] done — Revenue build top-down
 - [x] done — Revenue build bottom-up
-- [ ] pending — Cost build
+- [x] done — Cost build
 - [ ] pending — Capex schedule
 - [ ] pending — Depreciation schedule
 - [ ] pending — Debt schedule
