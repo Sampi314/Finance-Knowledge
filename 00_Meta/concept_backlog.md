@@ -103,7 +103,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Revenue build top-down
 - [x] done — Revenue build bottom-up
 - [x] done — Cost build
-- [ ] pending — Capex schedule
+- [x] done — Capex schedule
 - [ ] pending — Depreciation schedule
 - [ ] pending — Debt schedule
 - [ ] pending — Interest expense circularity
