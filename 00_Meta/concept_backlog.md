@@ -91,7 +91,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — PEG ratio
 - [x] done — Precedent transaction analysis
 - [x] done — Control premium
-- [ ] pending — Synergy adjustments
+- [x] done — Synergy adjustments
 - [ ] pending — Football field chart
 - [ ] pending — Sum-of-the-parts valuation
 - [ ] pending — Dividend discount model

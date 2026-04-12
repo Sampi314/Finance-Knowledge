@@ -31,6 +31,7 @@ Intrinsic and relative valuation methods, from DCF to trading multiples to prece
 - [[WACC]]
 
 ## 3. Intrinsic valuation (DCF)
+- [[Synergy adjustments]]
 - [[Free cash flow projection]]
 - [[Intrinsic vs relative valuation]]
 - [[DCF valuation]]
