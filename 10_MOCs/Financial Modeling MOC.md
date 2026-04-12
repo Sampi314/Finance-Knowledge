@@ -21,6 +21,7 @@ Building three-statement models, supporting schedules, and audit-ready workbooks
 
 - [[Capex schedule]]
 - [[Depreciation schedule]]
+- [[Debt schedule]]
 
 ## 3. Modeling craft and audit
 
