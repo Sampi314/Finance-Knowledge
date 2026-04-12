@@ -94,7 +94,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Synergy adjustments
 - [x] done — Football field chart
 - [x] done — Sum-of-the-parts valuation
-- [ ] pending — Dividend discount model
+- [x] done — Dividend discount model
 
 ## Financial Modeling
 
