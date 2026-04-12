@@ -86,7 +86,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Comparable company analysis
 - [x] done — Trading multiples
 - [x] done — EV/EBITDA
-- [ ] pending — EV/Revenue
+- [x] done — EV/Revenue
 - [ ] pending — P/E ratio
 - [ ] pending — PEG ratio
 - [ ] pending — Precedent transaction analysis
