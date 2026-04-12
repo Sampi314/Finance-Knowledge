@@ -87,7 +87,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Trading multiples
 - [x] done — EV/EBITDA
 - [x] done — EV/Revenue
-- [ ] pending — P/E ratio
+- [x] done — P/E ratio
 - [ ] pending — PEG ratio
 - [ ] pending — Precedent transaction analysis
 - [ ] pending — Control premium
