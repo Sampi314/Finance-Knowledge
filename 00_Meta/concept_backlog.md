@@ -81,7 +81,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Gordon growth method
 - [x] done — Exit multiple method
 - [x] done — Mid-year discounting convention
-- [ ] pending — Sensitivity analysis
+- [x] done — Sensitivity analysis
 - [ ] pending — Scenario analysis
 - [ ] pending — Comparable company analysis
 - [ ] pending — Trading multiples
