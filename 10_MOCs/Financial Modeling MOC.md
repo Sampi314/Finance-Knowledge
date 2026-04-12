@@ -15,6 +15,7 @@ Building three-statement models, supporting schedules, and audit-ready workbooks
 - [[Linking the three statements]]
 - [[Revenue build top-down]]
 - [[Revenue build bottom-up]]
+- [[Cost build]]
 
 ## 2. Supporting schedules
 
