@@ -121,7 +121,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — FAST modeling standard
 - [x] done — Hardcoded vs formula cells
 - [x] done — Named ranges
-- [ ] pending — Model audit
+- [x] done — Model audit
 - [ ] pending — Model versioning
 
 ## M&A and LBO

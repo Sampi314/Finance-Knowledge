@@ -32,6 +32,7 @@ Building three-statement models, supporting schedules, and audit-ready workbooks
 - [[FAST modeling standard]]
 - [[Model documentation]]
 - [[Model checks and balances]]
+- [[Model audit]]
 - [[Scenario manager]]
 - [[Plug for balance sheet]]
 - [[Data tables for sensitivity]]
