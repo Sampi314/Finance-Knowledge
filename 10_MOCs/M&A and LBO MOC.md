@@ -16,7 +16,7 @@ Mergers, acquisitions, and leveraged buyouts: deal structures, accretion-dilutio
 
 ## 2. Accretion-dilution analysis
 
-(none yet)
+- [[Accretion dilution analysis]]
 
 ## 3. LBO mechanics
 
