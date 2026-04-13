@@ -119,7 +119,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Model documentation
 - [x] done — Color coding conventions
 - [x] done — FAST modeling standard
-- [ ] pending — Hardcoded vs formula cells
+- [x] done — Hardcoded vs formula cells
 - [ ] pending — Named ranges
 - [ ] pending — Model audit
 - [ ] pending — Model versioning
