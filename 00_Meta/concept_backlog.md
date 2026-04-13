@@ -126,7 +126,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 
 ## M&A and LBO
 
-- [ ] pending — M&A overview
+- [x] done — M&A overview
 - [ ] pending — Strategic vs financial buyers
 - [ ] pending — Accretion dilution analysis
 - [ ] pending — Purchase price
