@@ -26,3 +26,4 @@ Building three-statement models, supporting schedules, and audit-ready workbooks
 ## 3. Modeling craft and audit
 
 - [[Interest expense circularity]]
+- [[Iterative calculations in Excel]]

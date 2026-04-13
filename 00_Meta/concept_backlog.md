@@ -107,7 +107,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Depreciation schedule
 - [x] done — Debt schedule
 - [x] done — Interest expense circularity
-- [ ] pending — Iterative calculations in Excel
+- [x] done — Iterative calculations in Excel
 - [ ] pending — Working capital schedule
 - [ ] pending — Tax schedule
 - [ ] pending — Equity schedule

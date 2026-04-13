@@ -4,7 +4,7 @@ title: "A Simple Model - Broken Models & Circular References | A Simple Model"
 site: "A Simple Model"
 url: "https://www.asimplemodel.com/financial-curriculum/financial-modeling/integrating-statements/broken-models-circular-references"
 raw_path: "99_Raw/A Simple Model/financial-curriculum_financial-modeling_integrating-statements_broken-models-circular-references.md"
-contributed_to: ["[[Interest expense circularity]]"]
+contributed_to: ["[[Interest expense circularity]]", "[[Iterative calculations in Excel]]"]
 updated: "2026-04-12"
 ---
 
