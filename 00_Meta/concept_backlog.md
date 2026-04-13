@@ -109,7 +109,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Interest expense circularity
 - [x] done — Iterative calculations in Excel
 - [x] done — Working capital schedule
-- [ ] pending — Tax schedule
+- [x] done — Tax schedule
 - [ ] pending — Equity schedule
 - [ ] pending — Cash flow waterfall
 - [ ] pending — Scenario manager
