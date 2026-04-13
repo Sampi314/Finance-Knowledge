@@ -29,6 +29,7 @@ Building three-statement models, supporting schedules, and audit-ready workbooks
 
 ## 3. Modeling craft and audit
 - [[Color coding conventions]]
+- [[FAST modeling standard]]
 - [[Model documentation]]
 - [[Model checks and balances]]
 - [[Scenario manager]]
