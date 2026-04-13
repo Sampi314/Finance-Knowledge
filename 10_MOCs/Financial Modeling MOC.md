@@ -24,6 +24,7 @@ Building three-statement models, supporting schedules, and audit-ready workbooks
 - [[Debt schedule]]
 - [[Working capital schedule]]
 - [[Tax schedule]]
+- [[Equity schedule]]
 
 ## 3. Modeling craft and audit
 

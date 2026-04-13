@@ -110,7 +110,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Iterative calculations in Excel
 - [x] done — Working capital schedule
 - [x] done — Tax schedule
-- [ ] pending — Equity schedule
+- [x] done — Equity schedule
 - [ ] pending — Cash flow waterfall
 - [ ] pending — Scenario manager
 - [ ] pending — Data tables for sensitivity
