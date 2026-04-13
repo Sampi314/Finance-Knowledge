@@ -25,6 +25,7 @@ Building three-statement models, supporting schedules, and audit-ready workbooks
 - [[Working capital schedule]]
 - [[Tax schedule]]
 - [[Equity schedule]]
+- [[Cash flow waterfall]]
 
 ## 3. Modeling craft and audit
 
