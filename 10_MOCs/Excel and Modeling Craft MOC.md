@@ -20,6 +20,7 @@ The Excel skills and conventions that separate clean models from messy ones.
 ## 3. Modeling conventions
 
 - [[Hardcoded vs formula cells]]
+- [[Named ranges]]
 
 ## 4. Charts and dashboards
 
