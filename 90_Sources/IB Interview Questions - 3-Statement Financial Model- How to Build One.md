@@ -4,7 +4,7 @@ title: "IB Interview Questions - 3-Statement Financial Model: How to Build One"
 site: "IB Interview Questions"
 url: "https://ibinterviewquestions.com/blog/how-to-build-three-statement-financial-model"
 raw_path: "99_Raw/IB Interview Questions/blog_how-to-build-three-statement-financial-model.md"
-contributed_to: ["[[COGS and gross margin]]", "[[The balance sheet]]", "[[Working capital schedule]]"]
+contributed_to: ["[[COGS and gross margin]]", "[[The balance sheet]]", "[[Working capital schedule]]", "[[Equity schedule]]"]
 updated: 2026-04-13
 ---
 
