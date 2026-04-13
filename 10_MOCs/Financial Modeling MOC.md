@@ -28,6 +28,7 @@ Building three-statement models, supporting schedules, and audit-ready workbooks
 - [[Cash flow waterfall]]
 
 ## 3. Modeling craft and audit
+- [[Color coding conventions]]
 - [[Model documentation]]
 - [[Model checks and balances]]
 - [[Scenario manager]]

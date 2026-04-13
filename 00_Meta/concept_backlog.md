@@ -117,7 +117,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Model checks and balances
 - [x] done — Plug for balance sheet
 - [x] done — Model documentation
-- [ ] pending — Color coding conventions
+- [x] done — Color coding conventions
 - [ ] pending — FAST modeling standard
 - [ ] pending — Hardcoded vs formula cells
 - [ ] pending — Named ranges
