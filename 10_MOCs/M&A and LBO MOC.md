@@ -12,6 +12,7 @@ Mergers, acquisitions, and leveraged buyouts: deal structures, accretion-dilutio
 ## 1. M&A fundamentals
 
 - [[M&A overview]]
+- [[Strategic vs financial buyers]]
 
 ## 2. Accretion-dilution analysis
 

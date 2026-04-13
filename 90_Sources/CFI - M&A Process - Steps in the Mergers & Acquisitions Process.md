@@ -4,7 +4,7 @@ title: "CFI - M&A Process - Steps in the Mergers & Acquisitions Process"
 site: CFI
 url: "https://corporatefinanceinstitute.com/resources/valuation/mergers-acquisitions-ma-process"
 raw_path: "99_Raw/CFI/resources_valuation_mergers-acquisitions-ma-process.md"
-contributed_to: ["[[M&A overview]]"]
+contributed_to: ["[[M&A overview]]", "[[Strategic vs financial buyers]]"]
 updated: 2026-04-13
 ---
 
