@@ -112,7 +112,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Tax schedule
 - [x] done — Equity schedule
 - [x] done — Cash flow waterfall
-- [ ] pending — Scenario manager
+- [x] done — Scenario manager
 - [ ] pending — Data tables for sensitivity
 - [ ] pending — Model checks and balances
 - [ ] pending — Plug for balance sheet
