@@ -122,7 +122,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Hardcoded vs formula cells
 - [x] done — Named ranges
 - [x] done — Model audit
-- [ ] pending — Model versioning
+- [x] done — Model versioning
 
 ## M&A and LBO
 
