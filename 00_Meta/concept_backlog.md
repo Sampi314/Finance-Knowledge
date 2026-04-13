@@ -114,7 +114,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Cash flow waterfall
 - [x] done — Scenario manager
 - [x] done — Data tables for sensitivity
-- [ ] pending — Model checks and balances
+- [x] done — Model checks and balances
 - [ ] pending — Plug for balance sheet
 - [ ] pending — Model documentation
 - [ ] pending — Color coding conventions

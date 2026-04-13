@@ -28,6 +28,7 @@ Building three-statement models, supporting schedules, and audit-ready workbooks
 - [[Cash flow waterfall]]
 
 ## 3. Modeling craft and audit
+- [[Model checks and balances]]
 - [[Scenario manager]]
 - [[Data tables for sensitivity]]
 
