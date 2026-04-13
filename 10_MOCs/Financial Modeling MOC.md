@@ -39,3 +39,4 @@ Building three-statement models, supporting schedules, and audit-ready workbooks
 
 - [[Interest expense circularity]]
 - [[Iterative calculations in Excel]]
+- [[Model versioning]]
