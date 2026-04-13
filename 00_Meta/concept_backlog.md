@@ -115,7 +115,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Scenario manager
 - [x] done — Data tables for sensitivity
 - [x] done — Model checks and balances
-- [ ] pending — Plug for balance sheet
+- [x] done — Plug for balance sheet
 - [ ] pending — Model documentation
 - [ ] pending — Color coding conventions
 - [ ] pending — FAST modeling standard

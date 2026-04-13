@@ -30,6 +30,7 @@ Building three-statement models, supporting schedules, and audit-ready workbooks
 ## 3. Modeling craft and audit
 - [[Model checks and balances]]
 - [[Scenario manager]]
+- [[Plug for balance sheet]]
 - [[Data tables for sensitivity]]
 
 - [[Interest expense circularity]]
