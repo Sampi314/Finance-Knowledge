@@ -116,7 +116,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Data tables for sensitivity
 - [x] done — Model checks and balances
 - [x] done — Plug for balance sheet
-- [ ] pending — Model documentation
+- [x] done — Model documentation
 - [ ] pending — Color coding conventions
 - [ ] pending — FAST modeling standard
 - [ ] pending — Hardcoded vs formula cells
