@@ -130,7 +130,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Strategic vs financial buyers
 - [x] done — Accretion dilution analysis
 - [x] done — Purchase price
-- [ ] pending — Sources and uses table
+- [x] done — Sources and uses table
 - [ ] pending — Goodwill creation
 - [ ] pending — Synergies revenue and cost
 - [ ] pending — Earn-outs
