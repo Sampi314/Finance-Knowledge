@@ -137,7 +137,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Pro forma combined model
 - [x] done — Hostile vs friendly takeovers
 - [x] done — Tender offers
-- [ ] pending — Stock vs cash consideration
+- [x] done — Stock vs cash consideration
 - [ ] pending — Tax-free reorganizations
 - [ ] pending — Section 338 election
 - [ ] pending — LBO overview
