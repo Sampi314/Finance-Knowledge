@@ -15,6 +15,7 @@ Mergers, acquisitions, and leveraged buyouts: deal structures, accretion-dilutio
 - [[Strategic vs financial buyers]]
 - [[Purchase price]]
 - [[Sources and uses table]]
+- [[Goodwill creation]]
 
 ## 2. Accretion-dilution analysis
 
