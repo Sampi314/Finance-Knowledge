@@ -37,3 +37,4 @@ Mergers, acquisitions, and leveraged buyouts: deal structures, accretion-dilutio
 
 - [[Sponsor returns]]
 - [[IRR]]
+- [[Multiple of money]]
