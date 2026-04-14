@@ -35,4 +35,4 @@ Mergers, acquisitions, and leveraged buyouts: deal structures, accretion-dilutio
 
 ## 4. Sponsor returns and exits
 
-(none yet)
+- [[Sponsor returns]]
