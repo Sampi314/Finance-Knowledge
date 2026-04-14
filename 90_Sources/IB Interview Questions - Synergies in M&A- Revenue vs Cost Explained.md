@@ -4,7 +4,7 @@ title: "IB Interview Questions - Synergies in M&A: Revenue vs Cost Explained"
 site: "IB Interview Questions"
 url: "https://ibinterviewquestions.com/blog/synergies-in-ma-revenue-vs-cost"
 raw_path: "99_Raw/IB Interview Questions/blog_synergies-in-ma-revenue-vs-cost.md"
-contributed_to: ["[[Synergy adjustments]]"]
+contributed_to: ["[[Synergy adjustments]]", "[[Synergies revenue and cost]]"]
 updated: 2026-04-12
 ---
 

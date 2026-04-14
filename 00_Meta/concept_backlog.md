@@ -132,7 +132,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Purchase price
 - [x] done — Sources and uses table
 - [x] done — Goodwill creation
-- [ ] pending — Synergies revenue and cost
+- [x] done — Synergies revenue and cost
 - [ ] pending — Earn-outs
 - [ ] pending — Pro forma combined model
 - [ ] pending — Hostile vs friendly takeovers
