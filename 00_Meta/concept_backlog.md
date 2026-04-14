@@ -143,7 +143,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — LBO overview
 - [x] done — Sponsor returns
 - [x] done — IRR
-- [ ] pending — Multiple of money
+- [x] done — Multiple of money
 - [ ] pending — Cash-on-cash return
 - [ ] pending — LBO sources and uses
 - [ ] pending — Senior debt
