@@ -140,7 +140,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Stock vs cash consideration
 - [x] done — Tax-free reorganizations
 - [x] done — Section 338 election
-- [ ] pending — LBO overview
+- [x] done — LBO overview
 - [ ] pending — Sponsor returns
 - [ ] pending — IRR
 - [ ] pending — Multiple of money

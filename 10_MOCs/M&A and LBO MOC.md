@@ -31,7 +31,7 @@ Mergers, acquisitions, and leveraged buyouts: deal structures, accretion-dilutio
 
 ## 3. LBO mechanics
 
-(none yet)
+- [[LBO overview]]
 
 ## 4. Sponsor returns and exits
 
