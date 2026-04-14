@@ -136,7 +136,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Earn-outs
 - [x] done — Pro forma combined model
 - [x] done — Hostile vs friendly takeovers
-- [ ] pending — Tender offers
+- [x] done — Tender offers
 - [ ] pending — Stock vs cash consideration
 - [ ] pending — Tax-free reorganizations
 - [ ] pending — Section 338 election
