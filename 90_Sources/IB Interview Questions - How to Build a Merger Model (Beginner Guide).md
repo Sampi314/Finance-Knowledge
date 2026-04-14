@@ -4,7 +4,7 @@ title: "IB Interview Questions - How to Build a Merger Model (Beginner Guide)"
 site: "IB Interview Questions"
 url: "https://ibinterviewquestions.com/blog/how-to-build-merger-model-guide"
 raw_path: "99_Raw/IB Interview Questions/blog_how-to-build-merger-model-guide.md"
-contributed_to: ["[[Pro forma combined model]]"]
+contributed_to: ["[[Pro forma combined model]]", "[[Stock vs cash consideration]]"]
 updated: 2026-04-14
 ---
 

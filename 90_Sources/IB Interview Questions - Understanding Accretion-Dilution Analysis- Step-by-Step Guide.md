@@ -4,7 +4,7 @@ title: "IB Interview Questions - Understanding Accretion/Dilution Analysis: Step
 site: "IB Interview Questions"
 url: "https://ibinterviewquestions.com/blog/accretion-dilution-analysis-guide"
 raw_path: "99_Raw/IB Interview Questions/blog_accretion-dilution-analysis-guide.md"
-contributed_to: ["[[Accretion dilution analysis]]"]
+contributed_to: ["[[Accretion dilution analysis]]", "[[Stock vs cash consideration]]"]
 updated: 2026-04-13
 ---
 
