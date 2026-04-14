@@ -22,6 +22,7 @@ Mergers, acquisitions, and leveraged buyouts: deal structures, accretion-dilutio
 - [[Pro forma combined model]]
 - [[Hostile vs friendly takeovers]]
 - [[Tender offers]]
+- [[Tax-free reorganizations]]
 
 ## 2. Accretion-dilution analysis
 
