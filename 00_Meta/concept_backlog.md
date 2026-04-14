@@ -141,7 +141,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Tax-free reorganizations
 - [x] done — Section 338 election
 - [x] done — LBO overview
-- [ ] pending — Sponsor returns
+- [x] done — Sponsor returns
 - [ ] pending — IRR
 - [ ] pending — Multiple of money
 - [ ] pending — Cash-on-cash return
