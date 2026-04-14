@@ -11,6 +11,7 @@ Mergers, acquisitions, and leveraged buyouts: deal structures, accretion-dilutio
 
 ## 1. M&A fundamentals
 
+- [[Section 338 election]]
 - [[M&A overview]]
 - [[Stock vs cash consideration]]
 - [[Strategic vs financial buyers]]
