@@ -138,7 +138,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Hostile vs friendly takeovers
 - [x] done — Tender offers
 - [x] done — Stock vs cash consideration
-- [ ] pending — Tax-free reorganizations
+- [x] done — Tax-free reorganizations
 - [ ] pending — Section 338 election
 - [ ] pending — LBO overview
 - [ ] pending — Sponsor returns
