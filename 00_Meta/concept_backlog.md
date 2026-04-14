@@ -144,7 +144,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Sponsor returns
 - [x] done — IRR
 - [x] done — Multiple of money
-- [ ] pending — Cash-on-cash return
+- [x] done — Cash-on-cash return
 - [ ] pending — LBO sources and uses
 - [ ] pending — Senior debt
 - [ ] pending — Mezzanine debt
