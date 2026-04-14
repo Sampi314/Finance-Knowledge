@@ -135,7 +135,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Synergies revenue and cost
 - [x] done — Earn-outs
 - [x] done — Pro forma combined model
-- [ ] pending — Hostile vs friendly takeovers
+- [x] done — Hostile vs friendly takeovers
 - [ ] pending — Tender offers
 - [ ] pending — Stock vs cash consideration
 - [ ] pending — Tax-free reorganizations

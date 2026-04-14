@@ -19,6 +19,7 @@ Mergers, acquisitions, and leveraged buyouts: deal structures, accretion-dilutio
 - [[Synergies revenue and cost]]
 - [[Earn-outs]]
 - [[Pro forma combined model]]
+- [[Hostile vs friendly takeovers]]
 
 ## 2. Accretion-dilution analysis
 
