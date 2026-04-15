@@ -4,7 +4,7 @@ title: "Financial Modelling Handbook - What is Project Finance?"
 site: Financial Modelling Handbook
 url: https://www.financialmodellinghandbook.org/what-is-project-finance
 raw_path: "99_Raw/Financial Modelling Handbook/what-is-project-finance.md"
-contributed_to: ["[[Limited recourse financing]]"]
+contributed_to: ["[[Limited recourse financing]]", "[[SPV structure]]"]
 updated: 2026-04-15
 ---
 
