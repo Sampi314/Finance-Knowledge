@@ -46,3 +46,4 @@ Mergers, acquisitions, and leveraged buyouts: deal structures, accretion-dilutio
 - [[IRR]]
 - [[Multiple of money]]
 - [[Cash-on-cash return]]
+- [[LBO exit]]
