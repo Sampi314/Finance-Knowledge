@@ -161,7 +161,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 
 - [x] done — Project finance overview
 - [x] done — Limited recourse financing
-- [ ] pending — SPV structure
+- [x] done — SPV structure
 - [ ] pending — Equity vs debt in project finance
 - [ ] pending — Debt service coverage ratio
 - [ ] pending — Loan life coverage ratio
