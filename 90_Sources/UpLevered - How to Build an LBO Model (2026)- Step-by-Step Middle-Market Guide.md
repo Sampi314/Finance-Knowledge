@@ -4,7 +4,7 @@ title: "UpLevered - How to Build an LBO Model (2026): Step-by-Step Middle-Market
 site: "UpLevered"
 url: "https://uplevered.com/how-to-build-an-lbo-model"
 raw_path: "99_Raw/UpLevered/how-to-build-an-lbo-model.md"
-contributed_to: ["[[LBO overview]]"]
+contributed_to: ["[[LBO overview]]", "[[LBO sources and uses]]"]
 updated: 2026-04-14
 ---
 
