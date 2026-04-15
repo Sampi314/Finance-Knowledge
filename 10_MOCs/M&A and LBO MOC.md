@@ -49,3 +49,4 @@ Mergers, acquisitions, and leveraged buyouts: deal structures, accretion-dilutio
 - [[Cash-on-cash return]]
 - [[LBO exit]]
 - [[Dividend recap]]
+- [[Add-on acquisitions]]
