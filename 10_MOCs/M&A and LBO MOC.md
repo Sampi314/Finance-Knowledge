@@ -35,6 +35,7 @@ Mergers, acquisitions, and leveraged buyouts: deal structures, accretion-dilutio
 - [[Senior debt]]
 - [[LBO sources and uses]]
 - [[Mezzanine debt]]
+- [[Subordinated debt]]
 
 ## 4. Sponsor returns and exits
 

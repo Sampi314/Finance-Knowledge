@@ -4,7 +4,7 @@ title: "Sapphire 45 - Understanding Subordinated Debt: Key Features and Risks"
 site: Sapphire 45
 url: https://resources.s45.ai/blogs/understanding-subordinated-debt-financing
 raw_path: "99_Raw/Sapphire 45/blogs_understanding-subordinated-debt-financing.md"
-contributed_to: ["[[Senior debt]]"]
+contributed_to: ["[[Senior debt]]", "[[Subordinated debt]]"]
 updated: 2026-04-15
 ---
 
