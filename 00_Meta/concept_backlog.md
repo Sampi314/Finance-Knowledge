@@ -149,7 +149,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Senior debt
 - [x] done — Mezzanine debt
 - [x] done — Subordinated debt
-- [ ] pending — PIK toggle
+- [x] done — PIK toggle
 - [ ] pending — Revolver
 - [ ] pending — Debt covenants
 - [ ] pending — LBO exit
