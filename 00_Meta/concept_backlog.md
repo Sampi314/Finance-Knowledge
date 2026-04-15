@@ -147,7 +147,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Cash-on-cash return
 - [x] done — LBO sources and uses
 - [x] done — Senior debt
-- [ ] pending — Mezzanine debt
+- [x] done — Mezzanine debt
 - [ ] pending — Subordinated debt
 - [ ] pending — PIK toggle
 - [ ] pending — Revolver
