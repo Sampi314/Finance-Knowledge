@@ -19,6 +19,8 @@ Limited-recourse financing for infrastructure and energy projects: SPVs, coverag
 
 ## 2. Coverage ratios and debt sizing
 
+- [[Equity vs debt in project finance]]
+
 (none yet)
 
 ## 3. Construction and operations phases
