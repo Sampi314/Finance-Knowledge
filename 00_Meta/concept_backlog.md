@@ -154,7 +154,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Debt covenants
 - [x] done — LBO exit
 - [x] done — Management equity rollover
-- [ ] pending — Dividend recap
+- [x] done — Dividend recap
 - [ ] pending — Add-on acquisitions
 
 ## Project Finance
