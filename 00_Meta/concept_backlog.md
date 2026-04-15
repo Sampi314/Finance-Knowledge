@@ -146,7 +146,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Multiple of money
 - [x] done — Cash-on-cash return
 - [x] done — LBO sources and uses
-- [ ] pending — Senior debt
+- [x] done — Senior debt
 - [ ] pending — Mezzanine debt
 - [ ] pending — Subordinated debt
 - [ ] pending — PIK toggle
