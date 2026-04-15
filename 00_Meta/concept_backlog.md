@@ -151,7 +151,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Subordinated debt
 - [x] done — PIK toggle
 - [x] done — Revolver
-- [ ] pending — Debt covenants
+- [x] done — Debt covenants
 - [ ] pending — LBO exit
 - [ ] pending — Management equity rollover
 - [ ] pending — Dividend recap
