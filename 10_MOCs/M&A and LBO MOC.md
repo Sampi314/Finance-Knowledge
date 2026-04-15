@@ -38,6 +38,7 @@ Mergers, acquisitions, and leveraged buyouts: deal structures, accretion-dilutio
 - [[Subordinated debt]]
 - [[PIK toggle]]
 - [[Revolver]]
+- [[Debt covenants]]
 
 ## 4. Sponsor returns and exits
 
