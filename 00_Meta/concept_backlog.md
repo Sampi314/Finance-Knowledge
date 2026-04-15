@@ -160,7 +160,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 ## Project Finance
 
 - [x] done — Project finance overview
-- [ ] pending — Limited recourse financing
+- [x] done — Limited recourse financing
 - [ ] pending — SPV structure
 - [ ] pending — Equity vs debt in project finance
 - [ ] pending — Debt service coverage ratio

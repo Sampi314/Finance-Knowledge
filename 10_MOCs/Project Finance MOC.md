@@ -13,6 +13,8 @@ Limited-recourse financing for infrastructure and energy projects: SPVs, coverag
 
 - [[Project finance overview]]
 
+- [[Limited recourse financing]]
+
 ## 2. Coverage ratios and debt sizing
 
 (none yet)
