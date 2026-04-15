@@ -150,7 +150,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Mezzanine debt
 - [x] done — Subordinated debt
 - [x] done — PIK toggle
-- [ ] pending — Revolver
+- [x] done — Revolver
 - [ ] pending — Debt covenants
 - [ ] pending — LBO exit
 - [ ] pending — Management equity rollover
