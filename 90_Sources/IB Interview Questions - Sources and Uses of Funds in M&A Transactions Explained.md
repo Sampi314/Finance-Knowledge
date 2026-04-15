@@ -4,7 +4,7 @@ title: "IB Interview Questions - Sources and Uses of Funds in M&A Transactions E
 site: "IB Interview Questions"
 url: "https://ibinterviewquestions.com/blog/sources-and-uses-funds-ma-transactions"
 raw_path: "99_Raw/IB Interview Questions/blog_sources-and-uses-funds-ma-transactions.md"
-contributed_to: ["[[Sources and uses table]]"]
+contributed_to: ["[[Sources and uses table]]", "[[LBO sources and uses]]"]
 updated: 2026-04-14
 ---
 
