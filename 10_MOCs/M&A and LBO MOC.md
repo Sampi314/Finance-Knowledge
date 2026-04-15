@@ -31,6 +31,7 @@ Mergers, acquisitions, and leveraged buyouts: deal structures, accretion-dilutio
 
 ## 3. LBO mechanics
 
+- [[Management equity rollover]]
 - [[LBO overview]]
 - [[Senior debt]]
 - [[LBO sources and uses]]

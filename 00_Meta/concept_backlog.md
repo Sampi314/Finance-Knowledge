@@ -153,7 +153,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Revolver
 - [x] done — Debt covenants
 - [x] done — LBO exit
-- [ ] pending — Management equity rollover
+- [x] done — Management equity rollover
 - [ ] pending — Dividend recap
 - [ ] pending — Add-on acquisitions
 
