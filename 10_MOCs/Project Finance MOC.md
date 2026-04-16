@@ -13,6 +13,8 @@ Limited-recourse financing for infrastructure and energy projects: SPVs, coverag
 
 - [[Project finance overview]]
 
+- [[Power purchase agreements]]
+
 - [[Limited recourse financing]]
 
 - [[SPV structure]]
