@@ -177,7 +177,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Concession agreements
 - [x] done — Public-private partnerships
 - [x] done — Infrastructure asset classes
-- [ ] pending — Real options in project finance
+- [x] done — Real options in project finance
 - [ ] pending — Distribution waterfall
 
 ## Real Estate
