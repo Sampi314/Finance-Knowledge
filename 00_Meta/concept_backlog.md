@@ -165,7 +165,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Equity vs debt in project finance
 - [x] done — Debt service coverage ratio
 - [x] done — Loan life coverage ratio
-- [ ] pending — Project life coverage ratio
+- [x] done — Project life coverage ratio
 - [ ] pending — Cash sweep
 - [ ] pending — Debt sculpting
 - [ ] pending — Refinancing risk
