@@ -45,6 +45,8 @@ Limited-recourse financing for infrastructure and energy projects: SPVs, coverag
 
 - [[Infrastructure asset classes]]
 
+- [[Real options in project finance]]
+
 (none yet)
 
 ## 3. Construction and operations phases
