@@ -174,7 +174,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Take-or-pay contracts
 - [x] done — Power purchase agreements
 - [x] done — Availability payments
-- [ ] pending — Concession agreements
+- [x] done — Concession agreements
 - [ ] pending — Public-private partnerships
 - [ ] pending — Infrastructure asset classes
 - [ ] pending — Real options in project finance
