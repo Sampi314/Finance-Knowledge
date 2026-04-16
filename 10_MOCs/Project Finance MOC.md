@@ -19,6 +19,8 @@ Limited-recourse financing for infrastructure and energy projects: SPVs, coverag
 
 - [[Take-or-pay contracts]]
 
+- [[Power purchase agreements]]
+
 ## 2. Coverage ratios and debt sizing
 
 - [[Equity vs debt in project finance]]
