@@ -172,7 +172,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Construction phase financing
 - [x] done — Operations phase financing
 - [x] done — Take-or-pay contracts
-- [ ] pending — Power purchase agreements
+- [x] done — Power purchase agreements
 - [ ] pending — Availability payments
 - [ ] pending — Concession agreements
 - [ ] pending — Public-private partnerships
