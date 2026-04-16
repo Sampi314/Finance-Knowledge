@@ -4,7 +4,7 @@ title: Pivotal180 - Glossary of Terms for Project Finance Training
 site: Pivotal180
 url: https://pivotal180.com/pivotal180-glossary-of-terms-project-finance-training
 raw_path: 99_Raw/Pivotal180/pivotal180-glossary-of-terms-project-finance-training.md
-contributed_to: ["[[Time value of money]]"]
+contributed_to: ["[[Time value of money]]", "[[Take-or-pay contracts]]"]
 updated: 2026-04-09
 ---
 
