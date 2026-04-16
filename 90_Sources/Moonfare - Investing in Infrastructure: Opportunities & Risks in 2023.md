@@ -4,7 +4,7 @@ title: "Moonfare - Investing in Infrastructure: Opportunities & Risks in 2023"
 site: Moonfare
 url: https://www.moonfare.com/blog/infrastructure-investment-opportunities-risks
 raw_path: "99_Raw/Moonfare/blog_infrastructure-investment-opportunities-risks.md"
-contributed_to: ["[[Public-private partnerships]]"]
+contributed_to: ["[[Public-private partnerships]]", "[[Infrastructure asset classes]]"]
 updated: 2026-04-16
 ---
 

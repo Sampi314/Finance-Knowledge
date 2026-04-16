@@ -176,7 +176,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Availability payments
 - [x] done — Concession agreements
 - [x] done — Public-private partnerships
-- [ ] pending — Infrastructure asset classes
+- [x] done — Infrastructure asset classes
 - [ ] pending — Real options in project finance
 - [ ] pending — Distribution waterfall
 

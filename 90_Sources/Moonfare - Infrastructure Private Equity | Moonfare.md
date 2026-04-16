@@ -4,7 +4,7 @@ title: "Moonfare - Infrastructure Private Equity | Moonfare"
 site: Moonfare
 url: https://www.moonfare.com/pe-masterclass/infrastructure-funds
 raw_path: "99_Raw/Moonfare/pe-masterclass_infrastructure-funds.md"
-contributed_to: ["[[Public-private partnerships]]"]
+contributed_to: ["[[Public-private partnerships]]", "[[Infrastructure asset classes]]"]
 updated: 2026-04-16
 ---
 
