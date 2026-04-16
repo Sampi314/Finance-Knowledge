@@ -175,7 +175,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Power purchase agreements
 - [x] done — Availability payments
 - [x] done — Concession agreements
-- [ ] pending — Public-private partnerships
+- [x] done — Public-private partnerships
 - [ ] pending — Infrastructure asset classes
 - [ ] pending — Real options in project finance
 - [ ] pending — Distribution waterfall
