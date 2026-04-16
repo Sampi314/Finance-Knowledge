@@ -39,6 +39,8 @@ Limited-recourse financing for infrastructure and energy projects: SPVs, coverag
 
 - [[Availability payments]]
 
+- [[Concession agreements]]
+
 (none yet)
 
 ## 3. Construction and operations phases

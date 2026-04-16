@@ -4,7 +4,7 @@ title: "Pivotal180 - An introduction to Project Agreements"
 site: "Pivotal180"
 url: "https://pivotal180.com/project-agreeements"
 raw_path: "99_Raw/Pivotal180/project-agreeements.md"
-contributed_to: ["[[Availability payments]]"]
+contributed_to: ["[[Availability payments]]", "[[Concession agreements]]"]
 updated: 2026-04-16
 ---
 
