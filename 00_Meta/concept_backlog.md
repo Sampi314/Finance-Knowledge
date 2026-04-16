@@ -170,7 +170,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Debt sculpting
 - [x] done — Refinancing risk
 - [x] done — Construction phase financing
-- [ ] pending — Operations phase financing
+- [x] done — Operations phase financing
 - [ ] pending — Take-or-pay contracts
 - [ ] pending — Power purchase agreements
 - [ ] pending — Availability payments
