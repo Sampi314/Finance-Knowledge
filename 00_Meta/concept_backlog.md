@@ -169,7 +169,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Cash sweep
 - [x] done — Debt sculpting
 - [x] done — Refinancing risk
-- [ ] pending — Construction phase financing
+- [x] done — Construction phase financing
 - [ ] pending — Operations phase financing
 - [ ] pending — Take-or-pay contracts
 - [ ] pending — Power purchase agreements
