@@ -173,7 +173,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Operations phase financing
 - [x] done — Take-or-pay contracts
 - [x] done — Power purchase agreements
-- [ ] pending — Availability payments
+- [x] done — Availability payments
 - [ ] pending — Concession agreements
 - [ ] pending — Public-private partnerships
 - [ ] pending — Infrastructure asset classes
