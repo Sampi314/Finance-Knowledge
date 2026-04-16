@@ -47,6 +47,8 @@ Limited-recourse financing for infrastructure and energy projects: SPVs, coverag
 
 - [[Real options in project finance]]
 
+- [[Distribution waterfall]]
+
 (none yet)
 
 ## 3. Construction and operations phases
