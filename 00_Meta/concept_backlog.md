@@ -167,7 +167,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Loan life coverage ratio
 - [x] done — Project life coverage ratio
 - [x] done — Cash sweep
-- [ ] pending — Debt sculpting
+- [x] done — Debt sculpting
 - [ ] pending — Refinancing risk
 - [ ] pending — Construction phase financing
 - [ ] pending — Operations phase financing
