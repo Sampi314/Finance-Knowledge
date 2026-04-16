@@ -4,7 +4,7 @@ title: "Sapphire 45 - A Founder’s Guide to Viability Gap Funding"
 site: Sapphire 45
 url: https://resources.s45.ai/blogs/viability-gap-funding-scheme-overview
 raw_path: "99_Raw/Sapphire 45/blogs_viability-gap-funding-scheme-overview.md"
-contributed_to: ["[[Concession agreements]]"]
+contributed_to: ["[[Concession agreements]]", "[[Public-private partnerships]]"]
 updated: 2026-04-16
 ---
 
