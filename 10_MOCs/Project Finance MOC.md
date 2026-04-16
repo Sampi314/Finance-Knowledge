@@ -29,6 +29,8 @@ Limited-recourse financing for infrastructure and energy projects: SPVs, coverag
 
 - [[Cash sweep]]
 
+- [[Debt sculpting]]
+
 (none yet)
 
 ## 3. Construction and operations phases
