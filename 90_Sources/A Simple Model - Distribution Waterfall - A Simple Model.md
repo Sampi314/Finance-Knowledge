@@ -4,7 +4,7 @@ title: "A Simple Model - Distribution Waterfall | A Simple Model"
 site: "A Simple Model"
 url: "https://www.asimplemodel.com/insights/distribution-waterfall"
 raw_path: "99_Raw/A Simple Model/insights_distribution-waterfall.md"
-contributed_to: ["[[Distribution waterfall]]"]
+contributed_to: ["[[Distribution waterfall]]", "[[Sale proceeds]]"]
 updated: 2026-04-16
 ---
 

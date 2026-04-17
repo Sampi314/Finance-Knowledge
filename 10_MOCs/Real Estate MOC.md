@@ -29,6 +29,7 @@ Real estate underwriting and modeling: cap rates, NOI, development pro formas, p
 - [[Construction loans]]
 - [[Permanent loans]]
 - [[Refinance proceeds]]
+- [[Sale proceeds]]
 (none yet)
 
 ## 3. Partnership structures and waterfalls
