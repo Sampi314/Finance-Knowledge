@@ -1,7 +1,7 @@
 ---
 type: formula
 title: Cash-on-Cash Return
-used_in: ["[[Cash-on-cash return]]"]
+used_in: ["[[Cash-on-cash return]]", "[[Cash-on-cash return for RE]]"]
 updated: 2026-04-14
 ---
 

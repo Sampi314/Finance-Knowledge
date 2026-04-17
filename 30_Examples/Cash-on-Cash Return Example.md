@@ -1,7 +1,7 @@
 ---
 type: example
 title: Cash-on-Cash Return Example
-illustrates: ["[[Cash-on-cash return]]"]
+illustrates: ["[[Cash-on-cash return]]", "[[Cash-on-cash return for RE]]"]
 updated: 2026-04-14
 ---
 
