@@ -4,7 +4,7 @@ title: "Mergers and Inquisitions - Real Estate Private Equity: Overview, Careers
 site: "Mergers and Inquisitions"
 url: "https://mergersandinquisitions.com/real-estate-private-equity"
 raw_path: "99_Raw/Mergers and Inquisitions/real-estate-private-equity.md"
-contributed_to: ["[[Real estate asset classes]]"]
+contributed_to: ["[[Real estate asset classes]]", "[[Permanent loans]]"]
 updated: 2026-04-17
 ---
 
