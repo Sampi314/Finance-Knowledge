@@ -34,4 +34,5 @@ Real estate underwriting and modeling: cap rates, NOI, development pro formas, p
 
 - [[Real estate waterfall]]
 - [[Promote and carried interest]]
+- [[Preferred return]]
 (none yet)

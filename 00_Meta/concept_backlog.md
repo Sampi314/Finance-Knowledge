@@ -197,7 +197,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Permanent loans
 - [x] done — Real estate waterfall
 - [x] done — Promote and carried interest
-- [ ] pending — Preferred return
+- [x] done — Preferred return
 - [ ] pending — Refinance proceeds
 - [ ] pending — Sale proceeds
 - [ ] pending — Tax considerations in RE
