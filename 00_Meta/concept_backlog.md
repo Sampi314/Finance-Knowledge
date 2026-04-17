@@ -199,7 +199,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Promote and carried interest
 - [x] done — Preferred return
 - [x] done — Refinance proceeds
-- [ ] pending — Sale proceeds
+- [x] done — Sale proceeds
 - [ ] pending — Tax considerations in RE
 - [ ] pending — 1031 exchange
 

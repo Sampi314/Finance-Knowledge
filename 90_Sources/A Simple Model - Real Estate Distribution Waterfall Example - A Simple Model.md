@@ -4,7 +4,7 @@ title: "A Simple Model - Real Estate Distribution Waterfall Example | A Simple M
 site: A Simple Model
 url: "https://www.asimplemodel.com/insights/real-estate-distribution-waterfall-example"
 raw_path: "99_Raw/A Simple Model/insights_real-estate-distribution-waterfall-example.md"
-contributed_to: ["[[Real estate waterfall]]"]
+contributed_to: ["[[Real estate waterfall]]", "[[Sale proceeds]]"]
 updated: 2026-04-17
 ---
 
