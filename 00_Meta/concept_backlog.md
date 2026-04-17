@@ -190,7 +190,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Operating expenses in RE
 - [x] done — Replacement reserves
 - [x] done — Cash-on-cash return for RE
-- [ ] pending — Levered vs unlevered IRR
+- [x] done — Levered vs unlevered IRR
 - [ ] pending — Real estate development pro forma
 - [ ] pending — Hard costs and soft costs
 - [ ] pending — Construction loans
