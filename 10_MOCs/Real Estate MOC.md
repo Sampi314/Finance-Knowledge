@@ -14,6 +14,7 @@ Real estate underwriting and modeling: cap rates, NOI, development pro formas, p
 - [[Real estate asset classes]]
 - [[Cap rate]]
 - [[Net operating income]]
+- [[Gross potential rent]]
 (none yet)
 
 ## 2. Development pro forma
