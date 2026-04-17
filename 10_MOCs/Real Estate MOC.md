@@ -19,6 +19,7 @@ Real estate underwriting and modeling: cap rates, NOI, development pro formas, p
 - [[Operating expenses in RE]]
 - [[Replacement reserves]]
 - [[Cash-on-cash return for RE]]
+- [[Levered vs unlevered IRR]]
 (none yet)
 
 ## 2. Development pro forma
