@@ -11,6 +11,7 @@ Real estate underwriting and modeling: cap rates, NOI, development pro formas, p
 
 ## 1. Income property fundamentals
 
+- [[Real estate asset classes]]
 (none yet)
 
 ## 2. Development pro forma
