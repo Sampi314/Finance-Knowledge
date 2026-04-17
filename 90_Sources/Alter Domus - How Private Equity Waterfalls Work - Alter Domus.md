@@ -4,7 +4,7 @@ title: "Alter Domus - How Private Equity Waterfalls Work - Alter Domus"
 site: "Alter Domus"
 url: "https://alterdomus.com/insight/private-equity-waterfall"
 raw_path: "99_Raw/Alter Domus/insight_private-equity-waterfall.md"
-contributed_to: ["[[Distribution waterfall]]"]
+contributed_to: ["[[Distribution waterfall]]", "[[Preferred return]]"]
 updated: 2026-04-16
 ---
 
