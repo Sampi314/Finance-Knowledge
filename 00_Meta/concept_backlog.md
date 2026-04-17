@@ -195,7 +195,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Hard costs and soft costs
 - [x] done — Construction loans
 - [x] done — Permanent loans
-- [ ] pending — Real estate waterfall
+- [x] done — Real estate waterfall
 - [ ] pending — Promote and carried interest
 - [ ] pending — Preferred return
 - [ ] pending — Refinance proceeds
