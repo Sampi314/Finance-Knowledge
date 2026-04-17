@@ -33,4 +33,5 @@ Real estate underwriting and modeling: cap rates, NOI, development pro formas, p
 ## 3. Partnership structures and waterfalls
 
 - [[Real estate waterfall]]
+- [[Promote and carried interest]]
 (none yet)
