@@ -186,7 +186,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Cap rate
 - [x] done — Net operating income
 - [x] done — Gross potential rent
-- [ ] pending — Vacancy and credit loss
+- [x] done — Vacancy and credit loss
 - [ ] pending — Operating expenses in RE
 - [ ] pending — Replacement reserves
 - [ ] pending — Cash-on-cash return for RE
