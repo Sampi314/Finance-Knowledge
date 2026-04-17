@@ -17,6 +17,7 @@ Real estate underwriting and modeling: cap rates, NOI, development pro formas, p
 - [[Gross potential rent]]
 - [[Vacancy and credit loss]]
 - [[Operating expenses in RE]]
+- [[Replacement reserves]]
 (none yet)
 
 ## 2. Development pro forma

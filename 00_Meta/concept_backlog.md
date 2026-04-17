@@ -188,7 +188,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Gross potential rent
 - [x] done — Vacancy and credit loss
 - [x] done — Operating expenses in RE
-- [ ] pending — Replacement reserves
+- [x] done — Replacement reserves
 - [ ] pending — Cash-on-cash return for RE
 - [ ] pending — Levered vs unlevered IRR
 - [ ] pending — Real estate development pro forma
