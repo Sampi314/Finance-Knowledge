@@ -193,7 +193,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Levered vs unlevered IRR
 - [x] done — Real estate development pro forma
 - [x] done — Hard costs and soft costs
-- [ ] pending — Construction loans
+- [x] done — Construction loans
 - [ ] pending — Permanent loans
 - [ ] pending — Real estate waterfall
 - [ ] pending — Promote and carried interest
