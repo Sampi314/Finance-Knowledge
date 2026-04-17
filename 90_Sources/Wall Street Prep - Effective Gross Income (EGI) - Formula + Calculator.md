@@ -4,7 +4,7 @@ title: "Wall Street Prep - Effective Gross Income (EGI) | Formula + Calculator"
 site: "Wall Street Prep"
 url: "https://www.wallstreetprep.com/knowledge/effective-gross-income-egi"
 raw_path: "99_Raw/Wall Street Prep/knowledge_effective-gross-income-egi.md"
-contributed_to: ["[[Gross potential rent]]"]
+contributed_to: ["[[Gross potential rent]]", "[[Vacancy and credit loss]]"]
 updated: 2026-04-17
 ---
 
