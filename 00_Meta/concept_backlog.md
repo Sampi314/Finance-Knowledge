@@ -185,7 +185,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Real estate asset classes
 - [x] done — Cap rate
 - [x] done — Net operating income
-- [ ] pending — Gross potential rent
+- [x] done — Gross potential rent
 - [ ] pending — Vacancy and credit loss
 - [ ] pending — Operating expenses in RE
 - [ ] pending — Replacement reserves
