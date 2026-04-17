@@ -187,7 +187,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Net operating income
 - [x] done — Gross potential rent
 - [x] done — Vacancy and credit loss
-- [ ] pending — Operating expenses in RE
+- [x] done — Operating expenses in RE
 - [ ] pending — Replacement reserves
 - [ ] pending — Cash-on-cash return for RE
 - [ ] pending — Levered vs unlevered IRR
