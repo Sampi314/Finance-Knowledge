@@ -18,6 +18,7 @@ The Excel skills and conventions that separate clean models from messy ones.
 - [[XLOOKUP]]
 - [[Dynamic arrays]]
 - [[LET function]]
+- [[LAMBDA function]]
 
 ## 2. Logic and conditionals
 
