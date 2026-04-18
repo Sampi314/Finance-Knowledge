@@ -210,7 +210,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — SUMIFS and COUNTIFS
 - [x] done — IF and nested IF
 - [x] done — IFS function
-- [ ] pending — IFERROR and IFNA
+- [x] done — IFERROR and IFNA
 - [ ] pending — INDIRECT
 - [ ] pending — OFFSET
 - [ ] pending — CHOOSE

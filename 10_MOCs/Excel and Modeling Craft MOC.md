@@ -21,6 +21,7 @@ The Excel skills and conventions that separate clean models from messy ones.
 - [[IF and nested IF]]
 - [[IFS function]]
 - [[SUMIFS and COUNTIFS]]
+- [[IFERROR and IFNA]]
 
 ## 3. Modeling conventions
 
