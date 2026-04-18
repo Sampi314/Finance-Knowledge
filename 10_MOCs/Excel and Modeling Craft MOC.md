@@ -16,6 +16,7 @@ The Excel skills and conventions that separate clean models from messy ones.
 - [[INDIRECT]]
 - [[INDEX MATCH vs VLOOKUP]]
 - [[XLOOKUP]]
+- [[Dynamic arrays]]
 
 ## 2. Logic and conditionals
 
