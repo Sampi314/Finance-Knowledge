@@ -212,7 +212,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — IFS function
 - [x] done — IFERROR and IFNA
 - [x] done — INDIRECT
-- [ ] pending — OFFSET
+- [x] done — OFFSET
 - [ ] pending — CHOOSE
 - [ ] pending — Array formulas
 - [ ] pending — Dynamic arrays
