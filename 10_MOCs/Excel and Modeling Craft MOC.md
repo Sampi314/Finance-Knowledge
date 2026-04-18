@@ -39,3 +39,4 @@ The Excel skills and conventions that separate clean models from messy ones.
 
 (none yet)
 - [[Pivot tables basics]]
+- [[Pivot tables for finance]]
