@@ -13,6 +13,7 @@ The Excel skills and conventions that separate clean models from messy ones.
 
 (none yet)
 - [[INDEX MATCH vs VLOOKUP]]
+- [[XLOOKUP]]
 
 ## 2. Logic and conditionals
 
