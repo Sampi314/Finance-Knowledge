@@ -12,6 +12,7 @@ The Excel skills and conventions that separate clean models from messy ones.
 ## 1. Lookup and array functions
 
 (none yet)
+- [[Array formulas]]
 - [[INDIRECT]]
 - [[INDEX MATCH vs VLOOKUP]]
 - [[XLOOKUP]]
