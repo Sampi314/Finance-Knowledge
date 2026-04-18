@@ -38,3 +38,4 @@ The Excel skills and conventions that separate clean models from messy ones.
 ## 4. Charts and dashboards
 
 (none yet)
+- [[Pivot tables basics]]

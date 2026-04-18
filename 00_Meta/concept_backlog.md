@@ -218,7 +218,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Dynamic arrays
 - [x] done — LET function
 - [x] done — LAMBDA function
-- [ ] pending — Pivot tables basics
+- [x] done — Pivot tables basics
 - [ ] pending — Pivot tables for finance
 - [ ] pending — Power Query
 - [ ] pending — Power Pivot
