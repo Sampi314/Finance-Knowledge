@@ -21,6 +21,7 @@ The Excel skills and conventions that separate clean models from messy ones.
 (none yet)
 - [[IF and nested IF]]
 - [[IFS function]]
+- [[CHOOSE]]
 - [[SUMIFS and COUNTIFS]]
 - [[IFERROR and IFNA]]
 - [[OFFSET]]
