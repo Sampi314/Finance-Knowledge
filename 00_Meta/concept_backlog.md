@@ -221,7 +221,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Pivot tables basics
 - [x] done — Pivot tables for finance
 - [x] done — Power Query
-- [ ] pending — Power Pivot
+- [x] done — Power Pivot
 - [ ] pending — Conditional formatting for models
 - [ ] pending — Data validation
 - [ ] pending — Form controls

@@ -41,3 +41,4 @@ The Excel skills and conventions that separate clean models from messy ones.
 - [[Pivot tables basics]]
 - [[Pivot tables for finance]]
 - [[Power Query]]
+- [[Power Pivot]]
