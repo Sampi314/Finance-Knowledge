@@ -219,7 +219,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — LET function
 - [x] done — LAMBDA function
 - [x] done — Pivot tables basics
-- [ ] pending — Pivot tables for finance
+- [x] done — Pivot tables for finance
 - [ ] pending — Power Query
 - [ ] pending — Power Pivot
 - [ ] pending — Conditional formatting for models
