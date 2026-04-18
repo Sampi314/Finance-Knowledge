@@ -205,7 +205,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 
 ## Excel and Modeling Craft
 
-- [ ] pending — INDEX MATCH vs VLOOKUP
+- [x] done — INDEX MATCH vs VLOOKUP
 - [ ] pending — XLOOKUP
 - [ ] pending — SUMIFS and COUNTIFS
 - [ ] pending — IF and nested IF
