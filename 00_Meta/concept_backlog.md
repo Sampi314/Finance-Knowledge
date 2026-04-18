@@ -224,7 +224,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Power Pivot
 - [x] done — Conditional formatting for models
 - [x] done — Data validation
-- [ ] pending — Form controls
+- [x] done — Form controls
 - [ ] pending — Macro recording basics
 - [ ] pending — VBA fundamentals for models
 - [ ] pending — Goal seek
