@@ -211,7 +211,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — IF and nested IF
 - [x] done — IFS function
 - [x] done — IFERROR and IFNA
-- [ ] pending — INDIRECT
+- [x] done — INDIRECT
 - [ ] pending — OFFSET
 - [ ] pending — CHOOSE
 - [ ] pending — Array formulas
