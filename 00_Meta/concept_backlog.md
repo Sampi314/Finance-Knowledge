@@ -220,7 +220,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — LAMBDA function
 - [x] done — Pivot tables basics
 - [x] done — Pivot tables for finance
-- [ ] pending — Power Query
+- [x] done — Power Query
 - [ ] pending — Power Pivot
 - [ ] pending — Conditional formatting for models
 - [ ] pending — Data validation
