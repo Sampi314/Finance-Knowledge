@@ -216,7 +216,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — CHOOSE
 - [x] done — Array formulas
 - [x] done — Dynamic arrays
-- [ ] pending — LET function
+- [x] done — LET function
 - [ ] pending — LAMBDA function
 - [ ] pending — Pivot tables basics
 - [ ] pending — Pivot tables for finance
