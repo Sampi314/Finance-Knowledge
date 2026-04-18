@@ -214,7 +214,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — INDIRECT
 - [x] done — OFFSET
 - [x] done — CHOOSE
-- [ ] pending — Array formulas
+- [x] done — Array formulas
 - [ ] pending — Dynamic arrays
 - [ ] pending — LET function
 - [ ] pending — LAMBDA function
