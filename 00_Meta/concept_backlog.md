@@ -208,7 +208,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — INDEX MATCH vs VLOOKUP
 - [x] done — XLOOKUP
 - [x] done — SUMIFS and COUNTIFS
-- [ ] pending — IF and nested IF
+- [x] done — IF and nested IF
 - [ ] pending — IFS function
 - [ ] pending — IFERROR and IFNA
 - [ ] pending — INDIRECT
