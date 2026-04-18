@@ -200,7 +200,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Preferred return
 - [x] done — Refinance proceeds
 - [x] done — Sale proceeds
-- [ ] pending — Tax considerations in RE
+- [x] done — Tax considerations in RE
 - [ ] pending — 1031 exchange
 
 ## Excel and Modeling Craft

@@ -20,6 +20,7 @@ Real estate underwriting and modeling: cap rates, NOI, development pro formas, p
 - [[Replacement reserves]]
 - [[Cash-on-cash return for RE]]
 - [[Levered vs unlevered IRR]]
+- [[Tax considerations in RE]]
 (none yet)
 
 ## 2. Development pro forma
