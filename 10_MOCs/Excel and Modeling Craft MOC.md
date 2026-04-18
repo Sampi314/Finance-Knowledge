@@ -18,6 +18,7 @@ The Excel skills and conventions that separate clean models from messy ones.
 ## 2. Logic and conditionals
 
 (none yet)
+- [[SUMIFS and COUNTIFS]]
 
 ## 3. Modeling conventions
 
