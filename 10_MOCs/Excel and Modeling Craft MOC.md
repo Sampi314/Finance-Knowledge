@@ -36,6 +36,7 @@ The Excel skills and conventions that separate clean models from messy ones.
 - [[Named ranges]]
 - [[Conditional formatting for models]]
 - [[Data validation]]
+- [[Macro recording basics]]
 
 ## 4. Charts and dashboards
 
