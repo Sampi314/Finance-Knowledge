@@ -234,4 +234,4 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Charts for finance dashboards
 - [x] done — Sparklines
 - [x] done — Keyboard shortcuts for analysts
-- [ ] pending — Cell styles and themes
+- [x] done — Cell styles and themes
