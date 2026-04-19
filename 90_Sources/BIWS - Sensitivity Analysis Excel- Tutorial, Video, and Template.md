@@ -4,7 +4,7 @@ title: "BIWS - Sensitivity Analysis Excel: Tutorial, Video, and Template"
 site: BIWS
 url: "https://breakingintowallstreet.com/kb/excel/sensitivity-analysis-excel"
 raw_path: "99_Raw/BIWS/kb_excel_sensitivity-analysis-excel.md"
-contributed_to: ["[[Data tables for sensitivity]]"]
+contributed_to: ["[[Data tables for sensitivity]]", "[[What-if analysis]]"]
 updated: 2026-04-13
 ---
 

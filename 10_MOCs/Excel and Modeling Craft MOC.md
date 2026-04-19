@@ -32,6 +32,7 @@ The Excel skills and conventions that separate clean models from messy ones.
 
 ## 3. Modeling conventions
 
+- [[What-if analysis]]
 - [[Goal seek]]
 - [[Solver]]
 - [[Hardcoded vs formula cells]]
