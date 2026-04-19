@@ -45,7 +45,7 @@ The Excel skills and conventions that separate clean models from messy ones.
 
 ## 4. Charts and dashboards
 
-(none yet)
+- [[Charts for finance dashboards]]
 - [[Form controls]]
 - [[Pivot tables basics]]
 - [[Pivot tables for finance]]
