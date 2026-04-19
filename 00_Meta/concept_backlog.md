@@ -231,7 +231,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Solver
 - [x] done — What-if analysis
 - [x] done — Custom number formats
-- [ ] pending — Charts for finance dashboards
+- [x] done — Charts for finance dashboards
 - [ ] pending — Sparklines
 - [ ] pending — Keyboard shortcuts for analysts
 - [ ] pending — Cell styles and themes
