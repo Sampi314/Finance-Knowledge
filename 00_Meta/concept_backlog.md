@@ -229,7 +229,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — VBA fundamentals for models
 - [x] done — Goal seek
 - [x] done — Solver
-- [ ] pending — What-if analysis
+- [x] done — What-if analysis
 - [ ] pending — Custom number formats
 - [ ] pending — Charts for finance dashboards
 - [ ] pending — Sparklines

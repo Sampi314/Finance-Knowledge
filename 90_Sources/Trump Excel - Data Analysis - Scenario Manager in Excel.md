@@ -4,7 +4,7 @@ title: "Trump Excel - Data Analysis - Scenario Manager in Excel"
 site: Trump Excel
 url: "https://trumpexcel.com/scenario-manager-in-excel"
 raw_path: "99_Raw/Trump Excel/scenario-manager-in-excel.md"
-contributed_to: ["[[Scenario manager]]"]
+contributed_to: ["[[Scenario manager]]", "[[What-if analysis]]"]
 updated: 2026-04-13
 ---
 
