@@ -226,7 +226,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Data validation
 - [x] done — Form controls
 - [x] done — Macro recording basics
-- [ ] pending — VBA fundamentals for models
+- [x] done — VBA fundamentals for models
 - [ ] pending — Goal seek
 - [ ] pending — Solver
 - [ ] pending — What-if analysis
