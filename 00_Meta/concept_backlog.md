@@ -230,7 +230,7 @@ Edit this file freely — reorder, add, remove. Jules picks up changes on the ne
 - [x] done — Goal seek
 - [x] done — Solver
 - [x] done — What-if analysis
-- [ ] pending — Custom number formats
+- [x] done — Custom number formats
 - [ ] pending — Charts for finance dashboards
 - [ ] pending — Sparklines
 - [ ] pending — Keyboard shortcuts for analysts
