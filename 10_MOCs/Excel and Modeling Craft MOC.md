@@ -36,6 +36,7 @@ The Excel skills and conventions that separate clean models from messy ones.
 - [[Goal seek]]
 - [[Solver]]
 - [[Hardcoded vs formula cells]]
+- [[Keyboard shortcuts for analysts]]
 - [[Named ranges]]
 - [[Conditional formatting for models]]
 - [[Data validation]]
